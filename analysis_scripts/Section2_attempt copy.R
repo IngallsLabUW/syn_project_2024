@@ -8,7 +8,7 @@ source("~/Desktop/syn_project_2024/data_raw/Functions.R")
 
 #import cleaned/rearranged data file and master file
 #load("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.Rdata")
-skyline.output <- read.csv("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
+skyline.output <- read.csv("~/Desktop/syn_project_2024/analysis_scripts/trimmed.csv")
 
 
 # Import data files and any accompanying master files
@@ -18,7 +18,7 @@ skyline.output <- read.csv("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynS
 
 
 #ask Susan about this section
-instrument.pattern <- as.character("TQS")
+instrument.pattern <- as.character("QE")
 # if (instrument.pattern == "TQS") {
 #   filenames <- RemoveCsv(list.files(path = "data_extras", pattern = "master", ignore.case = TRUE))
 #   filepath <- file.path("data_extras", paste(filenames, ".csv", sep = ""))
@@ -260,7 +260,7 @@ final.table[final.table==""] <- NA
 
 #works to here 2/16
 
-
+write_csv(final.table, file="~/Desktop/syn_project_2024/intermediates/QC.output.csv")
 
 
 # Remove Secondary trace
