@@ -16,9 +16,6 @@ skyline.output <- read.csv("~/Desktop/syn_project_2024/analysis_scripts/trimmed.
 # filepath <- file.path("data_intermediate", paste(filenames, ".csv", sep = ""))
 # skyline.output <- assign(make.names(filenames), read.csv(filepath, stringsAsFactors = FALSE))
 
-
-#ask Susan about this section
-instrument.pattern <- as.character("QE")
 # if (instrument.pattern == "TQS") {
 #   filenames <- RemoveCsv(list.files(path = "data_extras", pattern = "master", ignore.case = TRUE))
 #   filepath <- file.path("data_extras", paste(filenames, ".csv", sep = ""))
@@ -155,12 +152,6 @@ area.table <- skyline.output %>%
   select(Compound.Name, area.min, area.max, area.Reference) %>%
   unique()
 
-  #select(Replicate.Name, Compound.Name, Area) %>%
-
-
-  # select(Compound.Name, area.min, area.max) %>%
-  # filter(str_detect(Compound.Name, regex("Smp|Poo", ignore_case = TRUE)))
-
 # Signal to Noise
 # Isolate all pooled and sample runs. Find the Signal to Noise
 # by dividing the Background of each run by its Area.
@@ -171,19 +162,10 @@ SN.table <- skyline.output %>%
   mutate(SN.min = min(Signal.to.Noise, na.rm = TRUE))
 
 
-
-
-
-
-
-
-
 # Construct final comparative table
 if ("Precursor" %in% colnames(skyline.output)) {
   all.standards <- CheckFragments(skyline.output, runtype = "Std")
-
   all.samples <- CheckFragments(skyline.output, runtype = "Smp")
-
   all.samples <- all.samples %>%
     left_join(skyline.output %>% filter(str_detect(Replicate.Name, "Smp|Poo")))
 
@@ -209,9 +191,6 @@ RT.flags.added <- all.samples %>%
   left_join(RT.table) %>%
   mutate(RT.Flag = ifelse((Retention.Time >= (RT.max + RT.Reference) | Retention.Time <= (RT.min - RT.Reference)),
                           "RT.Flag", NA))
-
-#here I am setting RT.flex as RT.Reference. Ask Susan.
-
 
 # Blank Flags
 # If the Area divided by the Blank.Reference value is
@@ -258,56 +237,51 @@ final.table <- semifinal.table %>%
   select(Replicate.Name:all.Flags, contains("Flag"))
 final.table[final.table==""] <- NA
 
-#works to here 2/16
-
 write_csv(final.table, file="~/Desktop/syn_project_2024/intermediates/QC.output.csv")
 
 
-# Remove Secondary trace
-# Filter rows where Second.Trace == TRUE, keeping only Quan.Trace.
-# Remove columns once finished.
-if ("Precursor" %in% colnames(skyline.output)){
-  final.table <- final.table %>%
-    filter(Quan.Trace == TRUE) %>%
-    select(Replicate.Name:Area, Retention.Time:all.Flags)
-}
-
-
-
-#ask Susan about this, won't work without instrument pattern
-# Print to file with comments and a new name
-
-if (instrument.pattern == "TQS") {
-  Description <- c(as.character(anydate(Sys.Date())),
-                   "Hello! Welcome to the world of Skyline TQS Quality Control! ",
-                   "Maximum height for a real peak: ",
-                   "Minimum height for a real peak: ",
-                   "Maximum area for a real peak: ",
-                   "RT flexibility: ",
-                   "Blank can be this fraction of a sample: ",
-                   "S/N ratio: " ,
-                   "Ion ratio flexibility",
-                   "Processed on: ")
-
-  Value <- c(NA, NA, height.max, height.min, area.min, RT.flex, blk.thresh, SN.min, IR.flex, Sys.time())
-} else {
-  Description <- c(as.character(anydate(Sys.Date())),
-                   "Hello! Welcome to the world of Skyline QE Quality Control! ",
-                   "Maximum height for a real peak: ",
-                   "Minimum height for a real peak: ",
-                   "Maximum area for a real peak: ",
-                   "RT flexibility: ",
-                   "Blank can be this fraction of a sample: ",
-                   "S/N ratio: " ,
-                   "Processed on: ")
-  Value <- c(NA, NA, height.max, height.min, area.min, RT.flex, blk.thresh, SN.min, Sys.time())
-
-}
-
-df <- data.frame(Description, Value)
-final.table <- bind_rows(df, final.table)
-
-
-rm(list = setdiff(ls()[!ls() %in% c("software.pattern", "file.pattern", "instrument.pattern",
-                                    "final.table", "ion.ratio.table", "RT.table", "blank.table",
-                                    "height.table", "area.table", "SN.table")], lsf.str()))
+# # Remove Secondary trace
+# # Filter rows where Second.Trace == TRUE, keeping only Quan.Trace.
+# # Remove columns once finished.
+# if ("Precursor" %in% colnames(skyline.output)){
+#   final.table <- final.table %>%
+#     filter(Quan.Trace == TRUE) %>%
+#     select(Replicate.Name:Area, Retention.Time:all.Flags)
+# }
+#
+# # Print to file with comments and a new name
+#
+# if (instrument.pattern == "TQS") {
+#   Description <- c(as.character(anydate(Sys.Date())),
+#                    "Hello! Welcome to the world of Skyline TQS Quality Control! ",
+#                    "Maximum height for a real peak: ",
+#                    "Minimum height for a real peak: ",
+#                    "Maximum area for a real peak: ",
+#                    "RT flexibility: ",
+#                    "Blank can be this fraction of a sample: ",
+#                    "S/N ratio: " ,
+#                    "Ion ratio flexibility",
+#                    "Processed on: ")
+#
+#   Value <- c(NA, NA, height.max, height.min, area.min, RT.flex, blk.thresh, SN.min, IR.flex, Sys.time())
+# } else {
+#   Description <- c(as.character(anydate(Sys.Date())),
+#                    "Hello! Welcome to the world of Skyline QE Quality Control! ",
+#                    "Maximum height for a real peak: ",
+#                    "Minimum height for a real peak: ",
+#                    "Maximum area for a real peak: ",
+#                    "RT flexibility: ",
+#                    "Blank can be this fraction of a sample: ",
+#                    "S/N ratio: " ,
+#                    "Processed on: ")
+#   Value <- c(NA, NA, height.max, height.min, area.min, RT.flex, blk.thresh, SN.min, Sys.time())
+#
+# }
+#
+# df <- data.frame(Description, Value)
+# final.table <- bind_rows(df, final.table)
+#
+#
+# rm(list = setdiff(ls()[!ls() %in% c("software.pattern", "file.pattern", "instrument.pattern",
+#                                     "final.table", "ion.ratio.table", "RT.table", "blank.table",
+#                                     "height.table", "area.table", "SN.table")], lsf.str()))
