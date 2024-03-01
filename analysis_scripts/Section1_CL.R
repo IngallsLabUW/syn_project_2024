@@ -13,7 +13,7 @@ library(tidyverse)
 library(dplyr)
 library(stringr)
 
-transition_list <- read.csv("data_raw/HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
+transition_list <- read.csv("~/Desktop/syn_project_2024/data_raw/HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
 View(transition_list)
 
 #want to trim the data down
@@ -34,6 +34,7 @@ trimmed <- transition_list %>%
   mutate(Sal=as.numeric(Sal)) %>%
   arrange(Compound.Name)
 view(trimmed)
+
 
 #Save trimmed skyline data
 #save(trimmed, file="~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.Rdata")

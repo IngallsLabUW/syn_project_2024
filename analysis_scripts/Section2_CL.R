@@ -7,8 +7,7 @@ source("~/Desktop/syn_project_2024/data_raw/Functions.R")
 
 
 #import cleaned/rearranged data file and master file
-#load("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.Rdata")
-skyline.output <- read.csv("~/Desktop/syn_project_2024/analysis_scripts/trimmed.csv")
+skyline.output <- read.csv("~/Desktop/syn_project_2024/intermediates/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
 
 
 # Import data files and any accompanying master files

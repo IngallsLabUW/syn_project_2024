@@ -2,88 +2,32 @@
 # Modified by Claudia Luthy
 # February 2024 for Syn salinity project
 
-#need to ask Oscar what compounds we want to look at bc it'll save me a ton of time
-
-
 #upload packages and data! using trimmed (result of section 1) here bc
 #QC (section 2) didn't provide anything we need to worry about
 library(tidyverse)
 library(dplyr)
 library(stringr)
 
-clean_dat <- read_csv("~/Desktop/syn_project_2024/intermediates/trimmed.csv")
+clean_dat <- read_csv("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
 
 clean_data <- clean_dat %>%
   # select(samp= 'Replicate.Name', cmpd_name= 'Compound.Name', area= 'Area',
   #        cmpd_type= 'Molecule.List', samp_type= 'Precursor.Ion.Name', sal= 'Sal') %>%
   rename(samp= 'Replicate.Name', cmpd_name= 'Compound.Name', area= 'Area',
          cmpd_type= 'Molecule.List', samp_type= 'Precursor.Ion.Name', sal= 'Sal') %>%
+  select(samp, cmpd_name, area, cmpd_type, samp_type, sal) %>%
   arrange(cmpd_name)
-
-#what if I add in the removal of redundant mixes part from section 2 here? (lines 33-46 of Section2_CL.R)
-if ("Column" %in% colnames(clean_data) & TRUE %in% grepl("Mix", clean_data$samp)) {
-   Ingalls.Standards <- readxl::read_xlsx("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards_Skyline.xlsx") %>%
-      filter(Compound.Name %in% clean_data$cmpd_name) %>%
-    select(cmpd_name = Compound.Name, HILIC_Mix) %>%
-    unique()
-   clean_data_std <- clean_data %>%
-    filter(str_detect(samp, "Std")) %>%
-    left_join(Ingalls.Standards) %>%
-    filter(str_detect(samp, as.character(HILIC_Mix)) | str_detect(samp, regex("H2OinMatrix", ignore_case = TRUE))) %>%
-    select(-HILIC_Mix)
-   clean_data <- clean_data_std %>%
-    arrange(cmpd_name)
-}
-view(clean_data)
-
-
-# if (TRUE %>% grepl("Mix", clean_data$samp)) {
-#   Ingalls.Standards <- readxl::read_xlsx("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards_Skyline.xlsx") %>%
-#     filter(cmpd_name %in% clean_data$Compound.Name) %>%
-#     select(Compound.Name = cmpd_name, HILIC_Mix) %>%
-#     unique()
-#
-#   clean_data_sd <- clean_data %>%
-#     filter(str_detect(samp, "Std")) %>%
-#     left_join(Ingalls.Standards) %>%
-#     filter(str_detect(samp, as.character(HILIC_Mix)) | str_detect(samp, regex("H2OinMatrix", ignore_case = TRUE))) %>%
-#     select(-HILIC_Mix)
-#   clean_data <- clean_data_sd %>%
-#     arrange(cmpd_name)
-# }
-# view(clean_data)
-
-
-# if (TRUE %in% grepl("Mix", skyline.output$Replicate.Name)) {
-#   Ingalls.Standards <- readxl::read_xlsx("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards_Skyline.xlsx") %>%
-#     filter(Compound_Name %in% skyline.output$Compound.Name) %>%
-#     select(Compound.Name = Compound_Name, HILIC_Mix) %>%
-#     unique()
-#
-#   skyline.output.std <- skyline.output %>%
-#     filter(str_detect(Replicate.Name, "Std")) %>%
-#     left_join(Ingalls.Standards) %>%
-#     filter(str_detect(Replicate.Name, as.character(HILIC_Mix)) | str_detect(Replicate.Name, regex("H2OinMatrix", ignore_case = TRUE))) %>%
-#     select(-HILIC_Mix)
-#   skyline.output <- skyline.output.std %>%
-#     arrange(Precursor.Ion.Name)
-# }
-
-
-
-
 
 #sanity check for a single compound to see if the chosen IS matches
 #so can switch out Homarine for any compound
-sanity <- clean_data %>%
-  select(samp, cmpd_name, area, cmpd_type, samp_type) %>%
-  filter(cmpd_name=="Homarine" | cmpd_type=="IS") %>%
+clean_data %>%
+  filter(cmpd_name=="Glycine betaine" | cmpd_type=="IS") %>%
   filter(samp_type=="Poo") %>%
   group_by(cmpd_name) %>%
   ggplot() +
   geom_col(aes(x=samp, y=area)) +
   facet_wrap(~cmpd_name, ncol = 2, scales = "free_y")
-#why do we use the pooled sample?
+# #why do we use the pooled sample?
 
 #create IS subset
 IS_data <- clean_data %>%
@@ -96,7 +40,7 @@ select_data <- clean_data %>%
   filter(cmpd_type=="S") %>%
   filter(samp_type=="Poo") %>%
   left_join(IS_data, by="samp", suffix=c("", "_IS"), relationship = "many-to-many") %>%
-  select(samp, cmpd_name, cmpd_name_IS, area, area_IS) %>%
+  select(samp, cmpd_name, cmpd_name_IS, area, area_IS, sal) %>%
   group_by(cmpd_name, cmpd_name_IS) %>%
   mutate(norm_area=area/area_IS*mean(area_IS)) %>%
   summarise(cv_IS=sd(norm_area)/mean(norm_area)) %>%
@@ -107,28 +51,41 @@ select_data <- clean_data %>%
 
 match_data <- clean_data %>%
   filter(cmpd_type=="S") %>%
-  select(samp, cmpd_name, area) %>%
+  select(samp, cmpd_name, area, sal) %>%
   left_join(select_data) %>%
   select(-cv_IS) %>%
   left_join(clean_data, by=c("samp", cmpd_name_IS="cmpd_name"), suffix=c("", "_IS")) %>%
-  select(samp, cmpd_name, area, area_IS) %>%
+  select(samp, cmpd_name, area, area_IS, sal) %>%
   group_by(cmpd_name) %>%
   mutate(bmis_area=(area/area_IS)*mean(area_IS[1:112], na.rm = TRUE)) %>%
-  select(samp, cmpd_name, bmis_area)
+  select(samp, cmpd_name, bmis_area, sal)
 
 view(match_data)
 
-#it worked!!!!
-#right now it runs through EVERY compound bc that's what Oscar and Anitra want idk
-
-
-
-# chosen BMIS <- clean area
+# #what if I add in the removal of redundant mixes part from section 2 here? (lines 33-46 of Section2_CL.R)
+# if (TRUE %in% grepl("Mix", match_data$samp)) {
+#   Ingalls.Standards <- readxl::read_xlsx("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards_Skyline.xlsx") %>%
+#     filter(Compound_Name %in% match_data$cmpd_name) %>%
+#     select(cmpd_name = Compound_Name, HILIC_Mix) %>%
+#     unique()
 #
-# bmised areas <_ clean area
-# left join by chosen bmis
-# left join by clean are
-# mutate bmised area
+#   match_data_std <- match_data %>%
+#     filter(str_detect(samp, "Std")) %>%
+#     left_join(Ingalls.Standards) %>%
+#     filter(str_detect(samp, as.character(HILIC_Mix)) | str_detect(samp, regex("H2OinMatrix", ignore_case = TRUE))) %>%
+#     select(-HILIC_Mix)
+#   match_data <- match_data_std %>%
+#     arrange(cmpd_name)
+# }
+
+
+
+write_csv(match_data, file="~/Desktop/syn_project_2024/intermediates/BMISed_areas.csv")
+
+
+
+# Do I need to do anything with injection volume?
+#right now it runs through EVERY compound bc that's what Oscar and Anitra want idk
 
 
 #these seem to be the important parts of Regina's code, general idea being:
@@ -181,6 +138,10 @@ view(match_data)
 #   mutate(del_RSD = (Orig_RSD - RSD_ofPoo)) %>%
 #   mutate(percent.Change = del_RSD/Orig_RSD) %>%
 #   mutate(accept_MIS = (percent.Change > cut.off & Orig_RSD > cut.off2))
+
+
+
+
 
 
 
