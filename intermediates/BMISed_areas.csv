@@ -1,445 +1,2263 @@
-samp,cmpd_name,bmis_area,sal
-240108_Std_4uMStdsMix1InH2O_1,(3-Carboxypropyl)trimethylammonium,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,(3-Carboxypropyl)trimethylammonium,15312621758210.646,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,(3-Carboxypropyl)trimethylammonium,5493462172.809472,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,(3-Carboxypropyl)trimethylammonium,5085749117.766087,NA
-240108_Std_4uMStdsMix2InH2O_1,(R)-2-(Methylamino)pentanedioic acid,245955019968668.75,NA
-240108_Std_4uMStdsMix2InH2O_2,(R)-2-(Methylamino)pentanedioic acid,120620534179217.55,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,(R)-2-(Methylamino)pentanedioic acid,869459408.0213605,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,(R)-2-(Methylamino)pentanedioic acid,1145881571.628775,NA
-240108_Std_4uMStdsMix2InH2O_1,"2,3-Pyridinedicarboxylic acid",NA,NA
-240108_Std_4uMStdsMix2InH2O_2,"2,3-Pyridinedicarboxylic acid",NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,"2,3-Pyridinedicarboxylic acid",425110054.4675108,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,"2,3-Pyridinedicarboxylic acid",458842144.00535244,NA
-240108_Std_4uMStdsMix1InH2O_1,2-Heptyl-3-hydroxy-quinolone,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,2-Heptyl-3-hydroxy-quinolone,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,2-Heptyl-3-hydroxy-quinolone,1478191410.3387442,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,2-Heptyl-3-hydroxy-quinolone,889802931.5561529,NA
-240108_Std_4uMStdsMix2InH2O_1,2-O-alpha-D-Glucosylglycerol,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,2-O-alpha-D-Glucosylglycerol,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,2-O-alpha-D-Glucosylglycerol,204573474.6736916,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,2-O-alpha-D-Glucosylglycerol,252168288.05554268,NA
-240108_Std_4uMStdsMix2InH2O_1,4-Aminobutyric acid,131630213282219.17,NA
-240108_Std_4uMStdsMix2InH2O_2,4-Aminobutyric acid,45039054461040,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,4-Aminobutyric acid,1642062757.8898141,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,4-Aminobutyric acid,1845464354.7040374,NA
-240108_Std_4uMStdsMix2InH2O_1,5-Hydroxyectoine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,5-Hydroxyectoine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,5-Hydroxyectoine,457112885.82731855,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,5-Hydroxyectoine,416570820.4635824,NA
-240108_Std_4uMStdsMix2InH2O_1,5-Methylcytosine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,5-Methylcytosine,238077201844645.03,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,5-Methylcytosine,2982038370.647117,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,5-Methylcytosine,3218163835.3092675,NA
-240108_Std_4uMStdsMix2InH2O_1,Acetylcholine,381647753.3367189,NA
-240108_Std_4uMStdsMix2InH2O_2,Acetylcholine,1054375654.3474333,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Acetylcholine,2394441.371561615,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Acetylcholine,124022282.72433884,NA
-240108_Std_4uMStdsMix1InH2O_1,Adenine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Adenine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Adenine,17424267392.55643,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Adenine,16847138926.89989,NA
-240108_Std_4uMStdsMix2InH2O_1,Adenosine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Adenosine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Adenosine,7475865912.605561,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Adenosine,7277321242.420572,NA
-240108_Std_4uMStdsMix2InH2O_1,Anserine,226302889729.7395,NA
-240108_Std_4uMStdsMix2InH2O_2,Anserine,274103571033.091,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Anserine,379624153.44510317,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Anserine,490994810.2212764,NA
-240108_Std_4uMStdsMix1InH2O_1,Arsenobetaine,3393099646802.037,NA
-240108_Std_4uMStdsMix1InH2O_2,Arsenobetaine,4415758342154.085,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Arsenobetaine,17224027857.20723,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Arsenobetaine,18152378026.162064,NA
-240108_Std_4uMStdsMix1InH2O_1,Betonicine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Betonicine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Betonicine,17518185327.31531,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Betonicine,18755264079.152916,NA
-240108_Std_4uMStdsMix1InH2O_1,Butyrylcarnitine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Butyrylcarnitine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Butyrylcarnitine,24397040031.09629,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Butyrylcarnitine,19208895450.862637,NA
-240108_Std_4uMStdsMix1InH2O_1,Carnitine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Carnitine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Carnitine,4635822222.8568325,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Carnitine,4773090734.4042,NA
-240108_Std_4uMStdsMix2InH2O_1,Carnosine,197063072499.75946,NA
-240108_Std_4uMStdsMix2InH2O_2,Carnosine,121811907553.96297,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Carnosine,582568666.913449,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Carnosine,1105374386.4013965,NA
-240108_Std_4uMStdsMix2InH2O_1,Chitobiose,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Chitobiose,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Chitobiose,67332714.07425869,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Chitobiose,100716889.34618466,NA
-240108_Std_4uMStdsMix1InH2O_1,Choline,461419578112411.3,NA
-240108_Std_4uMStdsMix1InH2O_2,Choline,3733951343763871.5,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Choline,8220388399.765535,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Choline,7895268360.842404,NA
-240108_Std_4uMStdsMix1InH2O_1,Choline sulfate,280939193166.74866,NA
-240108_Std_4uMStdsMix1InH2O_2,Choline sulfate,588223862364.3578,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Choline sulfate,2539885569.7684655,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Choline sulfate,2880420522.78199,NA
-240108_Std_4uMStdsMix1InH2O_1,Citrulline,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Citrulline,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Citrulline,532808949.62198496,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Citrulline,636132575.1277043,NA
-240108_Std_4uMStdsMix1InH2O_1,Creatine,280167199137697.2,NA
-240108_Std_4uMStdsMix1InH2O_2,Creatine,3474994087232580.5,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Creatine,8647304298.657656,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Creatine,9367197290.45924,NA
-240108_Std_4uMStdsMix1InH2O_1,Creatinine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Creatinine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Creatinine,11512136576.871199,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Creatinine,12598603326.963453,NA
-240108_Std_4uMStdsMix1InH2O_1,"Cys-Gly, oxidized",17582151510.534668,NA
-240108_Std_4uMStdsMix1InH2O_2,"Cys-Gly, oxidized",21198224736.52947,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,"Cys-Gly, oxidized",117216887.93505025,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,"Cys-Gly, oxidized",184050659.7472815,NA
-240108_Std_4uMStdsMix2InH2O_1,Cytidine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Cytidine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Cytidine,808707004.9030652,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Cytidine,1054538418.766062,NA
-240108_Std_4uMStdsMix2InH2O_1,Cytosine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Cytosine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Cytosine,7693191078.7532,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Cytosine,7850148407.22495,NA
-240108_Std_4uMStdsMix1InH2O_1,Deoxyadenosine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Deoxyadenosine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Deoxyadenosine,11853007727.43835,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Deoxyadenosine,8656328095.331957,NA
-240108_Std_4uMStdsMix1InH2O_1,Dimethylglycine,169099137013228.75,NA
-240108_Std_4uMStdsMix1InH2O_2,Dimethylglycine,2138254406654569,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Dimethylglycine,5203788222.146779,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Dimethylglycine,5994892913.025264,NA
-240108_Std_4uMStdsMix1InH2O_1,Dimethylsulfonioacetate,1243829635937.09,NA
-240108_Std_4uMStdsMix1InH2O_2,Dimethylsulfonioacetate,1818841113517.2068,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Dimethylsulfonioacetate,8061507676.421334,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Dimethylsulfonioacetate,8579881759.204442,NA
-240108_Std_4uMStdsMix2InH2O_1,Dimethylsulfoniopropionate,2974030991577.6714,NA
-240108_Std_4uMStdsMix2InH2O_2,Dimethylsulfoniopropionate,4126777774616.1577,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Dimethylsulfoniopropionate,6537057034.774197,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Dimethylsulfoniopropionate,7137787152.825117,NA
-240108_Std_4uMStdsMix2InH2O_1,Dimethylsulfoxonium propionate,1134730373774.4768,NA
-240108_Std_4uMStdsMix2InH2O_2,Dimethylsulfoxonium propionate,1741102059423.6282,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Dimethylsulfoxonium propionate,2646725573.7524724,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Dimethylsulfoxonium propionate,3520350916.315359,NA
-240108_Std_4uMStdsMix2InH2O_1,Ectoine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Ectoine,296567281336632.1,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Ectoine,11305348573.46283,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Ectoine,12526581954.567831,NA
-240108_Std_4uMStdsMix2InH2O_1,Ergothioneine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Ergothioneine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Ergothioneine,1408250410.4861348,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Ergothioneine,1449273789.0494757,NA
-240108_Std_4uMStdsMix1InH2O_1,Ethanolamine,17858656970291.7,NA
-240108_Std_4uMStdsMix1InH2O_2,Ethanolamine,144129613604922.25,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Ethanolamine,351800979.37761205,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Ethanolamine,572992184.7098266,NA
-240108_Std_4uMStdsMix1InH2O_1,Glucosamine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Glucosamine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Glucosamine,207292334.78254622,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Glucosamine,298065213.42801464,NA
-240108_Std_4uMStdsMix2InH2O_1,Glutamylphenylalanine,177674907507.42096,NA
-240108_Std_4uMStdsMix2InH2O_2,Glutamylphenylalanine,296604868394.3719,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Glutamylphenylalanine,650359617.365156,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Glutamylphenylalanine,720987953.486695,NA
-240108_Std_4uMStdsMix1InH2O_1,Glutathione,10480453085.458878,NA
-240108_Std_4uMStdsMix1InH2O_2,Glutathione,13663616941.675365,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Glutathione,30988790.769113455,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Glutathione,19617582.20557139,NA
-240108_Std_4uMStdsMix2InH2O_1,Glutathione disulfide,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Glutathione disulfide,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Glutathione disulfide,23053873.72502975,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Glutathione disulfide,18884555.48631323,NA
-240108_Std_4uMStdsMix1InH2O_1,Glycerophosphocholine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Glycerophosphocholine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Glycerophosphocholine,11117884.37618676,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Glycerophosphocholine,17434398.356217165,NA
-240108_Std_4uMStdsMix1InH2O_1,Glycine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Glycine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Glycine,24836272.52520469,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Glycine,26932543.858068757,NA
-240108_Std_4uMStdsMix2InH2O_1,Glycine betaine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Glycine betaine,388919087120325.56,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Glycine betaine,151021822956.69528,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Glycine betaine,156294897421.27826,NA
-240108_Std_4uMStdsMix1InH2O_1,Gonyol,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Gonyol,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Gonyol,1199086839.7177935,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Gonyol,1248753150.4015937,NA
-240108_Std_4uMStdsMix2InH2O_1,Guanine,7906831149120.65,NA
-240108_Std_4uMStdsMix2InH2O_2,Guanine,4675967381976.138,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Guanine,1180389813.4675786,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Guanine,1238242702.7114823,NA
-240108_Std_4uMStdsMix2InH2O_1,Guanosine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Guanosine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Guanosine,442668523.54609746,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Guanosine,480289431.83633506,NA
-240108_Std_4uMStdsMix2InH2O_1,Homarine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Homarine,462786609289163.94,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Homarine,212160133936.7298,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Homarine,216040048844.023,NA
-240108_Std_4uMStdsMix1InH2O_1,Homocysteine thiolactone,18068586280.92091,NA
-240108_Std_4uMStdsMix1InH2O_2,Homocysteine thiolactone,34679394336.50804,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Homocysteine thiolactone,172776423.03514764,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Homocysteine thiolactone,139118026.79773906,NA
-240108_Std_4uMStdsMix1InH2O_1,Hordenine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Hordenine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Hordenine,23991410093.79323,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Hordenine,17577948144.79091,NA
-240108_Std_4uMStdsMix1InH2O_1,Hydroxyisoleucine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Hydroxyisoleucine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Hydroxyisoleucine,525265064.3532939,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Hydroxyisoleucine,403656628.19483197,NA
-240108_Std_4uMStdsMix1InH2O_1,Hydroxyproline,926781975417.6045,NA
-240108_Std_4uMStdsMix1InH2O_2,Hydroxyproline,7081884481861.056,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Hydroxyproline,883414184.4831369,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Hydroxyproline,857139087.1667403,NA
-240108_Std_4uMStdsMix2InH2O_1,Hypotaurine,1390806194.7300403,NA
-240108_Std_4uMStdsMix2InH2O_2,Hypotaurine,1050942547.9584767,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Hypotaurine,2029421.0665968047,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Hypotaurine,3069486.5960211763,NA
-240108_Std_4uMStdsMix2InH2O_1,Hypoxanthine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Hypoxanthine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Hypoxanthine,4831094.644717791,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Hypoxanthine,3460103.272177339,NA
-240108_Std_4uMStdsMix2InH2O_1,L-2-Aminoadipic acid,245955019968668.75,NA
-240108_Std_4uMStdsMix2InH2O_2,L-2-Aminoadipic acid,120620534179217.55,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,L-2-Aminoadipic acid,869459408.0213605,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,L-2-Aminoadipic acid,1145881571.628775,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Alanine,202966635273.696,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Alanine,1720397296734.77,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Alanine,1128702984.1195233,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Alanine,1005830939.6588565,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Arginine,7741003.861350793,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Arginine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Arginine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Arginine,31348.926309708444,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Arginosuccinic acid,16909598698.681377,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Arginosuccinic acid,10133360580.48383,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Arginosuccinic acid,64651452.73234981,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Arginosuccinic acid,85502945.5317974,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Asparagine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Asparagine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Asparagine,141177844.68168995,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Asparagine,139063567.47433487,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Aspartic acid,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Aspartic acid,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Aspartic acid,187599054.151124,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Aspartic acid,196760880.49049768,NA
-240108_Std_4uMStdsMix2InH2O_1,L-Cystathionine,33798977831.46774,NA
-240108_Std_4uMStdsMix2InH2O_2,L-Cystathionine,11705478798.341217,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,L-Cystathionine,22924519.286730904,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,L-Cystathionine,27656404.476573072,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Cystine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Cystine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Cystine,103547911.38518623,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Cystine,121634024.18996592,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Glutamic acid,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Glutamic acid,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Glutamic acid,10768170657.328535,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Glutamic acid,12130809640.811731,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Glutamine,818190702762.7152,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Glutamine,5148107609605.21,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Glutamine,1430750068.9387574,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Glutamine,1310213797.823743,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Histidine,302687392471.2359,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Histidine,88403855379.49556,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Histidine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Histidine,NA,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Homocystine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Homocystine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Homocystine,78776454.99600519,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Homocystine,118735610.2273551,NA
-240108_Std_4uMStdsMix2InH2O_1,L-Homoserine,3160206283532.236,NA
-240108_Std_4uMStdsMix2InH2O_2,L-Homoserine,1132117482495.2703,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,L-Homoserine,403382443.2679102,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,L-Homoserine,417206643.7117628,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Hydroxylysine,26241932288.114605,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Hydroxylysine,16189193644.285433,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Hydroxylysine,78327704.9543746,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Hydroxylysine,103572116.23141159,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Isoleucine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Isoleucine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Isoleucine,1179353547.8714805,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Isoleucine,1370773303.972113,NA
-240108_Std_4uMStdsMix2InH2O_1,L-Leucine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,L-Leucine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,L-Leucine,975968161.9578263,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,L-Leucine,1035541541.7128499,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Lysine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Lysine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Lysine,110313934.11043175,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Lysine,125699147.62480521,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Methionine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Methionine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Methionine,833983272.6512316,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Methionine,838179956.1203953,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Methionine S-oxide,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Methionine S-oxide,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Methionine S-oxide,339108486.2026642,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Methionine S-oxide,360158191.8045608,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Ornithine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Ornithine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Ornithine,78356365.57213134,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Ornithine,88606036.5723904,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Proline,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Proline,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Proline,2366525708.0254025,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Proline,2418870883.913841,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Serine,80195917990.87686,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Serine,526740209539.3745,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Serine,126632989.49744646,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Serine,132634514.81257261,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Threonine,182269961044.79022,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Threonine,1352854802769.8315,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Threonine,230863990.88748977,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Threonine,242931276.7263078,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Tyrosine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Tyrosine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Tyrosine,434042050.2998689,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Tyrosine,483025378.17121375,NA
-240108_Std_4uMStdsMix1InH2O_1,L-Valine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,L-Valine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,L-Valine,722287414.1432445,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,L-Valine,955617394.547815,NA
-240108_Std_4uMStdsMix1InH2O_1,Melamine,518872746698622.3,NA
-240108_Std_4uMStdsMix1InH2O_2,Melamine,5952570360009239,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Melamine,14481010948.867203,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Melamine,15260639543.084694,NA
-240108_Std_4uMStdsMix1InH2O_1,Muramic acid,48165503091.055916,NA
-240108_Std_4uMStdsMix1InH2O_2,Muramic acid,85849457299.232,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Muramic acid,339738617.78194284,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Muramic acid,518114129.51587504,NA
-240108_Std_4uMStdsMix2InH2O_1,N-Acetyl-D-glucosamine,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,N-Acetyl-D-glucosamine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,N-Acetyl-D-glucosamine,230769596.05760625,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,N-Acetyl-D-glucosamine,273956626.0920648,NA
-240108_Std_4uMStdsMix2InH2O_1,N-Acetylmuramic acid,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,N-Acetylmuramic acid,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,N-Acetylmuramic acid,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,N-Acetylmuramic acid,NA,NA
-240108_Std_4uMStdsMix1InH2O_1,N-Methyl-L-glutamic acid,103391607874150.2,NA
-240108_Std_4uMStdsMix1InH2O_2,N-Methyl-L-glutamic acid,1209720394062678.8,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,N-Methyl-L-glutamic acid,1172290522.3653238,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,N-Methyl-L-glutamic acid,1270606861.7755964,NA
-240108_Std_4uMStdsMix2InH2O_1,N-Methyltaurine,108673625440.96228,NA
-240108_Std_4uMStdsMix2InH2O_2,N-Methyltaurine,212426907059.9029,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,N-Methyltaurine,425466119.7038715,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,N-Methyltaurine,566635061.7459424,NA
-240108_Std_4uMStdsMix2InH2O_1,"N6,N6,N6-Trimethyl-L-lysine",NA,NA
-240108_Std_4uMStdsMix2InH2O_2,"N6,N6,N6-Trimethyl-L-lysine",NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,"N6,N6,N6-Trimethyl-L-lysine",1549229087.0225663,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,"N6,N6,N6-Trimethyl-L-lysine",1541202770.8214867,NA
-240108_Std_4uMStdsMix1InH2O_1,N6-Acetyl-L-lysine,89126419012510.39,NA
-240108_Std_4uMStdsMix1InH2O_2,N6-Acetyl-L-lysine,957521776324034.4,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,N6-Acetyl-L-lysine,1123978899.2362,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,N6-Acetyl-L-lysine,1182782631.9205577,NA
-240108_Std_4uMStdsMix2InH2O_1,N6-Methyladenine,177673177771837.4,NA
-240108_Std_4uMStdsMix2InH2O_2,N6-Methyladenine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,N6-Methyladenine,31039348521.736145,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,N6-Methyladenine,33937553495.460903,NA
-240108_Std_4uMStdsMix1InH2O_1,O-Acetyl-L-serine,2617654381.609218,NA
-240108_Std_4uMStdsMix1InH2O_2,O-Acetyl-L-serine,8473965010.599132,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,O-Acetyl-L-serine,48085726.37929692,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,O-Acetyl-L-serine,61396355.880919844,NA
-240108_Std_4uMStdsMix1InH2O_1,O-Acetylcarnitine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,O-Acetylcarnitine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,O-Acetylcarnitine,14687404234.335564,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,O-Acetylcarnitine,15533899847.939785,NA
-240108_Std_4uMStdsMix1InH2O_1,O-Methylmalonyl-L-carnitine,1614405311303.9197,NA
-240108_Std_4uMStdsMix1InH2O_2,O-Methylmalonyl-L-carnitine,2272809400073.194,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,O-Methylmalonyl-L-carnitine,6640440850.057147,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,O-Methylmalonyl-L-carnitine,7357441897.862922,NA
-240108_Std_4uMStdsMix1InH2O_1,O-Propionylcarnitine,1545956862936.2224,NA
-240108_Std_4uMStdsMix1InH2O_2,O-Propionylcarnitine,2294045746211.6626,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,O-Propionylcarnitine,9528758275.951149,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,O-Propionylcarnitine,9939854765.602179,NA
-240108_Std_4uMStdsMix1InH2O_1,O-Succinylhomoserine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,O-Succinylhomoserine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,O-Succinylhomoserine,440575666.8378333,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,O-Succinylhomoserine,475786081.68887,NA
-240108_Std_4uMStdsMix1InH2O_1,Ophthalmic acid,259468160666.39075,NA
-240108_Std_4uMStdsMix1InH2O_2,Ophthalmic acid,2439605774703.3477,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Ophthalmic acid,297406938.46900415,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Ophthalmic acid,318145010.8911881,NA
-240108_Std_4uMStdsMix2InH2O_1,Phenylethylamine,1246540258683.5693,NA
-240108_Std_4uMStdsMix2InH2O_2,Phenylethylamine,1999344210972.2402,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Phenylethylamine,4442188249.614412,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Phenylethylamine,4729021681.005516,NA
-240108_Std_4uMStdsMix1InH2O_1,Phosphocholine,117103121541.17444,NA
-240108_Std_4uMStdsMix1InH2O_2,Phosphocholine,119295218071.34158,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Phosphocholine,784696785.76343,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Phosphocholine,1006615846.6222299,NA
-240108_Std_4uMStdsMix1InH2O_1,Pipecolic acid,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Pipecolic acid,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Pipecolic acid,3951475360.199865,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Pipecolic acid,2875369777.241652,NA
-240108_Std_4uMStdsMix1InH2O_1,Proline betaine,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Proline betaine,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Proline betaine,3314846422.4763203,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Proline betaine,2674502355.9859624,NA
-240108_Std_4uMStdsMix2InH2O_1,Propylamine,1679038225730.4595,NA
-240108_Std_4uMStdsMix2InH2O_2,Propylamine,1158574447272.2886,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Propylamine,411635175.7307739,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Propylamine,306344936.90709454,NA
-240108_Std_4uMStdsMix2InH2O_1,Riboflavin-5-phosphate,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Riboflavin-5-phosphate,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Riboflavin-5-phosphate,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Riboflavin-5-phosphate,NA,NA
-240108_Std_4uMStdsMix2InH2O_1,Sarcosine,64048350808448.664,NA
-240108_Std_4uMStdsMix2InH2O_2,Sarcosine,21265280609880.09,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Sarcosine,511624571.07359576,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Sarcosine,733119039.1257992,NA
-240108_Std_4uMStdsMix2InH2O_1,Sodium taurocholate,142976772788.00748,NA
-240108_Std_4uMStdsMix2InH2O_2,Sodium taurocholate,420083772998.41614,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Sodium taurocholate,824246285.4832007,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Sodium taurocholate,931813048.235564,NA
-240108_Std_4uMStdsMix2InH2O_1,Succinylglycine,44335487451.618484,NA
-240108_Std_4uMStdsMix2InH2O_2,Succinylglycine,62124520971.74283,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Succinylglycine,133120235.51443894,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Succinylglycine,164060646.1652531,NA
-240108_Std_4uMStdsMix1InH2O_1,Taurocyamine,10736039133435.918,NA
-240108_Std_4uMStdsMix1InH2O_2,Taurocyamine,156141277380911.5,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Taurocyamine,426442105.8554503,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Taurocyamine,516595677.6338843,NA
-240108_Std_4uMStdsMix1InH2O_1,Thiamine diphosphate,1584529208.9889917,NA
-240108_Std_4uMStdsMix1InH2O_2,Thiamine diphosphate,9119044803.9089,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Thiamine diphosphate,34974774.11403342,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Thiamine diphosphate,38450494.499162644,NA
-240108_Std_4uMStdsMix1InH2O_1,Thiamine monophosphate,33935857629.640324,NA
-240108_Std_4uMStdsMix1InH2O_2,Thiamine monophosphate,38479001349.118546,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Thiamine monophosphate,192592764.0603621,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Thiamine monophosphate,270262797.4185733,NA
-240108_Std_4uMStdsMix1InH2O_1,Toxopyrimidine,422207443804281,NA
-240108_Std_4uMStdsMix1InH2O_2,Toxopyrimidine,4385449804202422.5,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Toxopyrimidine,11640055533.19806,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Toxopyrimidine,12524270984.780334,NA
-240108_Std_4uMStdsMix1InH2O_1,Trigonelline,NA,NA
-240108_Std_4uMStdsMix1InH2O_2,Trigonelline,NA,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Trigonelline,6882394458.813518,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Trigonelline,6953919995.149184,NA
-240108_Std_4uMStdsMix1InH2O_1,Trimethylamine,23212247340.573227,NA
-240108_Std_4uMStdsMix1InH2O_2,Trimethylamine,20747489787.408978,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Trimethylamine,100296067.61760871,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Trimethylamine,106873263.9558307,NA
-240108_Std_4uMStdsMix2InH2O_1,Trimethylamine N-oxide,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,Trimethylamine N-oxide,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,Trimethylamine N-oxide,3928662249.1266866,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,Trimethylamine N-oxide,3257112938.0597544,NA
-240108_Std_4uMStdsMix1InH2O_1,Urea,6605709264458.374,NA
-240108_Std_4uMStdsMix1InH2O_2,Urea,99873156730391.64,NA
-240108_Std_4uMStdsMix1InSynMatrix_1,Urea,156628997.52904564,NA
-240108_Std_4uMStdsMix1InSynMatrix_2,Urea,155214138.59602457,NA
-240108_Std_4uMStdsMix2InH2O_1,beta-Alanine,963324096.9246526,NA
-240108_Std_4uMStdsMix2InH2O_2,beta-Alanine,1098161467.5459738,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,beta-Alanine,472133759.5445494,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,beta-Alanine,434108169.42619663,NA
-240108_Std_4uMStdsMix2InH2O_1,beta-Alaninebetaine,101348111325705.33,NA
-240108_Std_4uMStdsMix2InH2O_2,beta-Alaninebetaine,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,beta-Alaninebetaine,12289449981.177254,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,beta-Alaninebetaine,13304847676.533619,NA
-240108_Std_4uMStdsMix2InH2O_1,beta-Glutamic acid,NA,NA
-240108_Std_4uMStdsMix2InH2O_2,beta-Glutamic acid,NA,NA
-240108_Std_4uMStdsMix2InSynMatrix_1,beta-Glutamic acid,7500677313.518742,NA
-240108_Std_4uMStdsMix2InSynMatrix_2,beta-Glutamic acid,8496271400.754182,NA
+samp,cmpd_name,bmis_area,sal,conc
+240108_Poo_Syn_Full1,(3-Carboxypropyl)trimethylammonium,311417.8022207109,NA,0
+240108_Poo_Syn_Full2,(3-Carboxypropyl)trimethylammonium,343833.62451592705,NA,0
+240108_Poo_Syn_Full3,(3-Carboxypropyl)trimethylammonium,59804.55675469281,NA,0
+240108_Poo_Syn_Half1,(3-Carboxypropyl)trimethylammonium,150837.12067290882,NA,0
+240108_Poo_Syn_Half2,(3-Carboxypropyl)trimethylammonium,425942.17092392745,NA,0
+240108_Poo_Syn_Half3,(3-Carboxypropyl)trimethylammonium,680851.8381099914,NA,0
+240108_Smp_25ppt_A,(3-Carboxypropyl)trimethylammonium,2783312.294831314,25,0
+240108_Smp_25ppt_B,(3-Carboxypropyl)trimethylammonium,30640.470086775742,25,0
+240108_Smp_25ppt_Blk,(3-Carboxypropyl)trimethylammonium,42088.939481186855,25,0
+240108_Smp_30ppt_A,(3-Carboxypropyl)trimethylammonium,54034.39224441984,30,0
+240108_Smp_30ppt_B,(3-Carboxypropyl)trimethylammonium,NA,30,0
+240108_Smp_30ppt_Blk,(3-Carboxypropyl)trimethylammonium,42471.03083381683,30,0
+240108_Smp_35ppt_A,(3-Carboxypropyl)trimethylammonium,70015.3007917003,35,0
+240108_Smp_35ppt_B,(3-Carboxypropyl)trimethylammonium,92487.48911008419,35,0
+240108_Smp_35ppt_Blk,(3-Carboxypropyl)trimethylammonium,55020.415988521374,35,0
+240108_Smp_40ppt_A,(3-Carboxypropyl)trimethylammonium,57421.28500764796,40,0
+240108_Smp_40ppt_B,(3-Carboxypropyl)trimethylammonium,97064.68118594323,40,0
+240108_Smp_40ppt_Blk,(3-Carboxypropyl)trimethylammonium,409736.00690902345,40,0
+240108_Std_4uMStdsMix1InH2O_1,(3-Carboxypropyl)trimethylammonium,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,(3-Carboxypropyl)trimethylammonium,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,(3-Carboxypropyl)trimethylammonium,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,(3-Carboxypropyl)trimethylammonium,NA,NA,4
+240108_Poo_Syn_Full1,(R)-2-(Methylamino)pentanedioic acid,2008730.3774814056,NA,0
+240108_Poo_Syn_Full2,(R)-2-(Methylamino)pentanedioic acid,1946818.987546613,NA,0
+240108_Poo_Syn_Full3,(R)-2-(Methylamino)pentanedioic acid,3010008.7666372936,NA,0
+240108_Poo_Syn_Half1,(R)-2-(Methylamino)pentanedioic acid,5005809.17472297,NA,0
+240108_Poo_Syn_Half2,(R)-2-(Methylamino)pentanedioic acid,3924674.4002294475,NA,0
+240108_Poo_Syn_Half3,(R)-2-(Methylamino)pentanedioic acid,4788468.911400334,NA,0
+240108_Smp_25ppt_A,(R)-2-(Methylamino)pentanedioic acid,849446.0990819276,25,0
+240108_Smp_25ppt_B,(R)-2-(Methylamino)pentanedioic acid,1337863.325731969,25,0
+240108_Smp_25ppt_Blk,(R)-2-(Methylamino)pentanedioic acid,74362.73954749855,25,0
+240108_Smp_30ppt_A,(R)-2-(Methylamino)pentanedioic acid,1757557.5658235655,30,0
+240108_Smp_30ppt_B,(R)-2-(Methylamino)pentanedioic acid,2566962.3705730084,30,0
+240108_Smp_30ppt_Blk,(R)-2-(Methylamino)pentanedioic acid,0,30,0
+240108_Smp_35ppt_A,(R)-2-(Methylamino)pentanedioic acid,10789475.025739513,35,0
+240108_Smp_35ppt_B,(R)-2-(Methylamino)pentanedioic acid,7344842.1134625785,35,0
+240108_Smp_35ppt_Blk,(R)-2-(Methylamino)pentanedioic acid,0,35,0
+240108_Smp_40ppt_A,(R)-2-(Methylamino)pentanedioic acid,2423776.9784843517,40,0
+240108_Smp_40ppt_B,(R)-2-(Methylamino)pentanedioic acid,3481483.0924996617,40,0
+240108_Smp_40ppt_Blk,(R)-2-(Methylamino)pentanedioic acid,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,(R)-2-(Methylamino)pentanedioic acid,NA,NA,5
+240108_Std_4uMStdsMix2InH2O_2,(R)-2-(Methylamino)pentanedioic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_1,(R)-2-(Methylamino)pentanedioic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_2,(R)-2-(Methylamino)pentanedioic acid,NA,NA,5
+240108_Poo_Syn_Full1,"2,3-Pyridinedicarboxylic acid",1120303.0908712067,NA,0
+240108_Poo_Syn_Full2,"2,3-Pyridinedicarboxylic acid",432416.54369509046,NA,0
+240108_Poo_Syn_Full3,"2,3-Pyridinedicarboxylic acid",1064986.0576689267,NA,0
+240108_Poo_Syn_Half1,"2,3-Pyridinedicarboxylic acid",575769.1695612752,NA,0
+240108_Poo_Syn_Half2,"2,3-Pyridinedicarboxylic acid",572178.3099798075,NA,0
+240108_Poo_Syn_Half3,"2,3-Pyridinedicarboxylic acid",594621.4976697676,NA,0
+240108_Smp_25ppt_A,"2,3-Pyridinedicarboxylic acid",631272.8512359025,25,0
+240108_Smp_25ppt_B,"2,3-Pyridinedicarboxylic acid",923665.5131488468,25,0
+240108_Smp_25ppt_Blk,"2,3-Pyridinedicarboxylic acid",1098919.6805723389,25,0
+240108_Smp_30ppt_A,"2,3-Pyridinedicarboxylic acid",709813.9410599513,30,0
+240108_Smp_30ppt_B,"2,3-Pyridinedicarboxylic acid",433079.8915847553,30,0
+240108_Smp_30ppt_Blk,"2,3-Pyridinedicarboxylic acid",2146085.2533325693,30,0
+240108_Smp_35ppt_A,"2,3-Pyridinedicarboxylic acid",723722.7945994625,35,0
+240108_Smp_35ppt_B,"2,3-Pyridinedicarboxylic acid",1630103.1787610033,35,0
+240108_Smp_35ppt_Blk,"2,3-Pyridinedicarboxylic acid",4188366.32791521,35,0
+240108_Smp_40ppt_A,"2,3-Pyridinedicarboxylic acid",106854.46528829249,40,0
+240108_Smp_40ppt_B,"2,3-Pyridinedicarboxylic acid",360617.03478365595,40,0
+240108_Smp_40ppt_Blk,"2,3-Pyridinedicarboxylic acid",1081089.857914133,40,0
+240108_Std_4uMStdsMix2InH2O_1,"2,3-Pyridinedicarboxylic acid",NA,NA,5
+240108_Std_4uMStdsMix2InH2O_2,"2,3-Pyridinedicarboxylic acid",NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_1,"2,3-Pyridinedicarboxylic acid",NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_2,"2,3-Pyridinedicarboxylic acid",NA,NA,5
+240108_Poo_Syn_Full1,2-Heptyl-3-hydroxy-quinolone,344982.80472428334,NA,0
+240108_Poo_Syn_Full2,2-Heptyl-3-hydroxy-quinolone,63860.71140403001,NA,0
+240108_Poo_Syn_Full3,2-Heptyl-3-hydroxy-quinolone,208990.2657755507,NA,0
+240108_Poo_Syn_Half1,2-Heptyl-3-hydroxy-quinolone,119559.27045365961,NA,0
+240108_Poo_Syn_Half2,2-Heptyl-3-hydroxy-quinolone,138696.0648367775,NA,0
+240108_Poo_Syn_Half3,2-Heptyl-3-hydroxy-quinolone,36572.03647411919,NA,0
+240108_Smp_25ppt_A,2-Heptyl-3-hydroxy-quinolone,169607.28391551963,25,0
+240108_Smp_25ppt_B,2-Heptyl-3-hydroxy-quinolone,271687.0619951682,25,0
+240108_Smp_25ppt_Blk,2-Heptyl-3-hydroxy-quinolone,63777.41402984467,25,0
+240108_Smp_30ppt_A,2-Heptyl-3-hydroxy-quinolone,44658.15920362145,30,0
+240108_Smp_30ppt_B,2-Heptyl-3-hydroxy-quinolone,81000.38499413498,30,0
+240108_Smp_30ppt_Blk,2-Heptyl-3-hydroxy-quinolone,56272.05148665786,30,0
+240108_Smp_35ppt_A,2-Heptyl-3-hydroxy-quinolone,253866.7886933625,35,0
+240108_Smp_35ppt_B,2-Heptyl-3-hydroxy-quinolone,70026.89218124823,35,0
+240108_Smp_35ppt_Blk,2-Heptyl-3-hydroxy-quinolone,111231.75911296334,35,0
+240108_Smp_40ppt_A,2-Heptyl-3-hydroxy-quinolone,112124.44678941189,40,0
+240108_Smp_40ppt_B,2-Heptyl-3-hydroxy-quinolone,292147.13443763263,40,0
+240108_Smp_40ppt_Blk,2-Heptyl-3-hydroxy-quinolone,302820.684687066,40,0
+240108_Std_4uMStdsMix1InH2O_1,2-Heptyl-3-hydroxy-quinolone,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,2-Heptyl-3-hydroxy-quinolone,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,2-Heptyl-3-hydroxy-quinolone,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,2-Heptyl-3-hydroxy-quinolone,NA,NA,4
+240108_Poo_Syn_Full1,2-O-alpha-D-Glucosylglycerol,242663686.53211555,NA,0
+240108_Poo_Syn_Full2,2-O-alpha-D-Glucosylglycerol,218511057.83143824,NA,0
+240108_Poo_Syn_Full3,2-O-alpha-D-Glucosylglycerol,223870077.5204518,NA,0
+240108_Poo_Syn_Half1,2-O-alpha-D-Glucosylglycerol,225489935.43697876,NA,0
+240108_Poo_Syn_Half2,2-O-alpha-D-Glucosylglycerol,229379959.79937097,NA,0
+240108_Poo_Syn_Half3,2-O-alpha-D-Glucosylglycerol,240977152.24703017,NA,0
+240108_Smp_25ppt_A,2-O-alpha-D-Glucosylglycerol,32271595.545572724,25,0
+240108_Smp_25ppt_B,2-O-alpha-D-Glucosylglycerol,31612763.98628835,25,0
+240108_Smp_25ppt_Blk,2-O-alpha-D-Glucosylglycerol,0,25,0
+240108_Smp_30ppt_A,2-O-alpha-D-Glucosylglycerol,124035137.66742077,30,0
+240108_Smp_30ppt_B,2-O-alpha-D-Glucosylglycerol,161334950.84593844,30,0
+240108_Smp_30ppt_Blk,2-O-alpha-D-Glucosylglycerol,0,30,0
+240108_Smp_35ppt_A,2-O-alpha-D-Glucosylglycerol,437969703.06559837,35,0
+240108_Smp_35ppt_B,2-O-alpha-D-Glucosylglycerol,360704171.1853402,35,0
+240108_Smp_35ppt_Blk,2-O-alpha-D-Glucosylglycerol,0,35,0
+240108_Smp_40ppt_A,2-O-alpha-D-Glucosylglycerol,431108140.43604034,40,0
+240108_Smp_40ppt_B,2-O-alpha-D-Glucosylglycerol,391528165.24017537,40,0
+240108_Smp_40ppt_Blk,2-O-alpha-D-Glucosylglycerol,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,2-O-alpha-D-Glucosylglycerol,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,2-O-alpha-D-Glucosylglycerol,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,2-O-alpha-D-Glucosylglycerol,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,2-O-alpha-D-Glucosylglycerol,NA,NA,4
+240108_Poo_Syn_Full1,4-Aminobutyric acid,311732634.70673996,NA,0
+240108_Poo_Syn_Full2,4-Aminobutyric acid,241896538.28464517,NA,0
+240108_Poo_Syn_Full3,4-Aminobutyric acid,302195869.3573453,NA,0
+240108_Poo_Syn_Half1,4-Aminobutyric acid,387434043.79462975,NA,0
+240108_Poo_Syn_Half2,4-Aminobutyric acid,508435615.4880383,NA,0
+240108_Poo_Syn_Half3,4-Aminobutyric acid,682829919.2731789,NA,0
+240108_Smp_25ppt_A,4-Aminobutyric acid,189743668.46960568,25,0
+240108_Smp_25ppt_B,4-Aminobutyric acid,90356776.01618454,25,0
+240108_Smp_25ppt_Blk,4-Aminobutyric acid,298239971.2950522,25,0
+240108_Smp_30ppt_A,4-Aminobutyric acid,146543056.40023646,30,0
+240108_Smp_30ppt_B,4-Aminobutyric acid,174400142.7523658,30,0
+240108_Smp_30ppt_Blk,4-Aminobutyric acid,308180533.12713647,30,0
+240108_Smp_35ppt_A,4-Aminobutyric acid,430061987.22175705,35,0
+240108_Smp_35ppt_B,4-Aminobutyric acid,400155036.0268169,35,0
+240108_Smp_35ppt_Blk,4-Aminobutyric acid,352787360.4897593,35,0
+240108_Smp_40ppt_A,4-Aminobutyric acid,272734624.2390455,40,0
+240108_Smp_40ppt_B,4-Aminobutyric acid,314809085.31626683,40,0
+240108_Smp_40ppt_Blk,4-Aminobutyric acid,362210163.60653305,40,0
+240108_Std_4uMStdsMix2InH2O_1,4-Aminobutyric acid,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,4-Aminobutyric acid,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,4-Aminobutyric acid,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,4-Aminobutyric acid,NA,NA,4
+240108_Poo_Syn_Full1,5-Hydroxyectoine,362136.34652039036,NA,0
+240108_Poo_Syn_Full2,5-Hydroxyectoine,697725.8821643684,NA,0
+240108_Poo_Syn_Full3,5-Hydroxyectoine,916448.2151303838,NA,0
+240108_Poo_Syn_Half1,5-Hydroxyectoine,1110765.3418162265,NA,0
+240108_Poo_Syn_Half2,5-Hydroxyectoine,813435.1371951678,NA,0
+240108_Poo_Syn_Half3,5-Hydroxyectoine,1481042.679668239,NA,0
+240108_Smp_25ppt_A,5-Hydroxyectoine,255863.33279248272,25,0
+240108_Smp_25ppt_B,5-Hydroxyectoine,485454.6878484541,25,0
+240108_Smp_25ppt_Blk,5-Hydroxyectoine,273331.09018977423,25,0
+240108_Smp_30ppt_A,5-Hydroxyectoine,410032.5406774705,30,0
+240108_Smp_30ppt_B,5-Hydroxyectoine,196359.1747152902,30,0
+240108_Smp_30ppt_Blk,5-Hydroxyectoine,631191.93484286475,30,0
+240108_Smp_35ppt_A,5-Hydroxyectoine,904372.2719779717,35,0
+240108_Smp_35ppt_B,5-Hydroxyectoine,691077.0938295949,35,0
+240108_Smp_35ppt_Blk,5-Hydroxyectoine,349874.81630640844,35,0
+240108_Smp_40ppt_A,5-Hydroxyectoine,670202.3571111839,40,0
+240108_Smp_40ppt_B,5-Hydroxyectoine,253329.61378779964,40,0
+240108_Smp_40ppt_Blk,5-Hydroxyectoine,587934.0388900592,40,0
+240108_Std_4uMStdsMix2InH2O_1,5-Hydroxyectoine,NA,NA,0.1
+240108_Std_4uMStdsMix2InH2O_2,5-Hydroxyectoine,NA,NA,0.1
+240108_Std_4uMStdsMix2InSynMatrix_1,5-Hydroxyectoine,NA,NA,0.1
+240108_Std_4uMStdsMix2InSynMatrix_2,5-Hydroxyectoine,NA,NA,0.1
+240108_Poo_Syn_Full1,5-Methylcytosine,783764.9887385953,NA,0
+240108_Poo_Syn_Full2,5-Methylcytosine,409551.03700641624,NA,0
+240108_Poo_Syn_Full3,5-Methylcytosine,930885.590819323,NA,0
+240108_Poo_Syn_Half1,5-Methylcytosine,4317006.250336633,NA,0
+240108_Poo_Syn_Half2,5-Methylcytosine,3521192.429979712,NA,0
+240108_Poo_Syn_Half3,5-Methylcytosine,1090406.1912823308,NA,0
+240108_Smp_25ppt_A,5-Methylcytosine,731445.7270852949,25,0
+240108_Smp_25ppt_B,5-Methylcytosine,1204015.0579598946,25,0
+240108_Smp_25ppt_Blk,5-Methylcytosine,260443.97703685495,25,0
+240108_Smp_30ppt_A,5-Methylcytosine,1629150.6556710782,30,0
+240108_Smp_30ppt_B,5-Methylcytosine,1582387.7209512733,30,0
+240108_Smp_30ppt_Blk,5-Methylcytosine,92860.2279949207,30,0
+240108_Smp_35ppt_A,5-Methylcytosine,4944192.883277009,35,0
+240108_Smp_35ppt_B,5-Methylcytosine,1313162.5272755506,35,0
+240108_Smp_35ppt_Blk,5-Methylcytosine,358103.67268399114,35,0
+240108_Smp_40ppt_A,5-Methylcytosine,2218931.324518467,40,0
+240108_Smp_40ppt_B,5-Methylcytosine,4988959.793124677,40,0
+240108_Smp_40ppt_Blk,5-Methylcytosine,518673.56335754006,40,0
+240108_Std_4uMStdsMix2InH2O_1,5-Methylcytosine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,5-Methylcytosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,5-Methylcytosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,5-Methylcytosine,NA,NA,4
+240108_Poo_Syn_Full1,Acetylcholine,307994.8774480588,NA,0
+240108_Poo_Syn_Full2,Acetylcholine,NA,NA,0
+240108_Poo_Syn_Full3,Acetylcholine,201737.97456394718,NA,0
+240108_Poo_Syn_Half1,Acetylcholine,NA,NA,0
+240108_Poo_Syn_Half2,Acetylcholine,390277.47263327707,NA,0
+240108_Poo_Syn_Half3,Acetylcholine,975846.6967773895,NA,0
+240108_Smp_25ppt_A,Acetylcholine,75069.28270524781,25,0
+240108_Smp_25ppt_B,Acetylcholine,54830.73316828159,25,0
+240108_Smp_25ppt_Blk,Acetylcholine,0,25,0
+240108_Smp_30ppt_A,Acetylcholine,77321.75051887141,30,0
+240108_Smp_30ppt_B,Acetylcholine,32674.612887334664,30,0
+240108_Smp_30ppt_Blk,Acetylcholine,37160.260521038574,30,0
+240108_Smp_35ppt_A,Acetylcholine,44136.059261129834,35,0
+240108_Smp_35ppt_B,Acetylcholine,332222.68944405694,35,0
+240108_Smp_35ppt_Blk,Acetylcholine,111991.06986733928,35,0
+240108_Smp_40ppt_A,Acetylcholine,517696.0611317849,40,0
+240108_Smp_40ppt_B,Acetylcholine,262941.182609288,40,0
+240108_Smp_40ppt_Blk,Acetylcholine,327590.1055091224,40,0
+240108_Std_4uMStdsMix2InH2O_1,Acetylcholine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Acetylcholine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Acetylcholine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Acetylcholine,NA,NA,4
+240108_Poo_Syn_Full1,Adenine,678038517.6322814,NA,0
+240108_Poo_Syn_Full2,Adenine,677568576.817556,NA,0
+240108_Poo_Syn_Full3,Adenine,696030105.8448923,NA,0
+240108_Poo_Syn_Half1,Adenine,679890897.9900813,NA,0
+240108_Poo_Syn_Half2,Adenine,723877435.4086378,NA,0
+240108_Poo_Syn_Half3,Adenine,757424644.8053378,NA,0
+240108_Smp_25ppt_A,Adenine,630318137.9693828,25,0
+240108_Smp_25ppt_B,Adenine,661156320.8915485,25,0
+240108_Smp_25ppt_Blk,Adenine,20943674.853568427,25,0
+240108_Smp_30ppt_A,Adenine,550549747.7228696,30,0
+240108_Smp_30ppt_B,Adenine,872004046.8879861,30,0
+240108_Smp_30ppt_Blk,Adenine,32706551.95764433,30,0
+240108_Smp_35ppt_A,Adenine,1070430506.2245553,35,0
+240108_Smp_35ppt_B,Adenine,767838675.4323372,35,0
+240108_Smp_35ppt_Blk,Adenine,15108192.035273531,35,0
+240108_Smp_40ppt_A,Adenine,511306743.70048755,40,0
+240108_Smp_40ppt_B,Adenine,782760888.2354221,40,0
+240108_Smp_40ppt_Blk,Adenine,40929802.09292879,40,0
+240108_Std_4uMStdsMix1InH2O_1,Adenine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Adenine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Adenine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Adenine,NA,NA,4
+240108_Poo_Syn_Full1,Adenosine,200222851.35309532,NA,0
+240108_Poo_Syn_Full2,Adenosine,209266765.6700184,NA,0
+240108_Poo_Syn_Full3,Adenosine,204769640.93570173,NA,0
+240108_Poo_Syn_Half1,Adenosine,206209470.39172453,NA,0
+240108_Poo_Syn_Half2,Adenosine,205882556.92717928,NA,0
+240108_Poo_Syn_Half3,Adenosine,205538231.54206127,NA,0
+240108_Smp_25ppt_A,Adenosine,414606405.8785966,25,0
+240108_Smp_25ppt_B,Adenosine,199207932.5398866,25,0
+240108_Smp_25ppt_Blk,Adenosine,576072.3294238419,25,0
+240108_Smp_30ppt_A,Adenosine,120174399.01888828,30,0
+240108_Smp_30ppt_B,Adenosine,116382569.7801738,30,0
+240108_Smp_30ppt_Blk,Adenosine,601242.0332665986,30,0
+240108_Smp_35ppt_A,Adenosine,242763647.80540448,35,0
+240108_Smp_35ppt_B,Adenosine,134930916.86950344,35,0
+240108_Smp_35ppt_Blk,Adenosine,433188.6317266272,35,0
+240108_Smp_40ppt_A,Adenosine,254029356.4615495,40,0
+240108_Smp_40ppt_B,Adenosine,278283337.19714606,40,0
+240108_Smp_40ppt_Blk,Adenosine,637364.7222213792,40,0
+240108_Std_4uMStdsMix2InH2O_1,Adenosine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Adenosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Adenosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Adenosine,NA,NA,4
+240108_Poo_Syn_Full1,Anserine,NA,NA,0
+240108_Poo_Syn_Full2,Anserine,NA,NA,0
+240108_Poo_Syn_Full3,Anserine,NA,NA,0
+240108_Poo_Syn_Half1,Anserine,NA,NA,0
+240108_Poo_Syn_Half2,Anserine,NA,NA,0
+240108_Poo_Syn_Half3,Anserine,NA,NA,0
+240108_Smp_25ppt_A,Anserine,66497.86830427212,25,0
+240108_Smp_25ppt_B,Anserine,30668.344355798847,25,0
+240108_Smp_25ppt_Blk,Anserine,149925.51282191364,25,0
+240108_Smp_30ppt_A,Anserine,NA,30,0
+240108_Smp_30ppt_B,Anserine,NA,30,0
+240108_Smp_30ppt_Blk,Anserine,NA,30,0
+240108_Smp_35ppt_A,Anserine,NA,35,0
+240108_Smp_35ppt_B,Anserine,NA,35,0
+240108_Smp_35ppt_Blk,Anserine,41395.00876208714,35,0
+240108_Smp_40ppt_A,Anserine,NA,40,0
+240108_Smp_40ppt_B,Anserine,NA,40,0
+240108_Smp_40ppt_Blk,Anserine,52917.90933643306,40,0
+240108_Std_4uMStdsMix2InH2O_1,Anserine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Anserine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Anserine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Anserine,NA,NA,4
+240108_Poo_Syn_Full1,Betonicine,519394.2623323275,NA,0
+240108_Poo_Syn_Full2,Betonicine,849710.9408742834,NA,0
+240108_Poo_Syn_Full3,Betonicine,461405.00519079244,NA,0
+240108_Poo_Syn_Half1,Betonicine,1122927.7360283986,NA,0
+240108_Poo_Syn_Half2,Betonicine,1108398.4185014633,NA,0
+240108_Poo_Syn_Half3,Betonicine,696910.5107582731,NA,0
+240108_Smp_25ppt_A,Betonicine,461524.8765928165,25,0
+240108_Smp_25ppt_B,Betonicine,667474.2880623727,25,0
+240108_Smp_25ppt_Blk,Betonicine,709159.8121009424,25,0
+240108_Smp_30ppt_A,Betonicine,1990292.1381005899,30,0
+240108_Smp_30ppt_B,Betonicine,1197149.8021060769,30,0
+240108_Smp_30ppt_Blk,Betonicine,274558.49280792597,30,0
+240108_Smp_35ppt_A,Betonicine,2933258.5001163613,35,0
+240108_Smp_35ppt_B,Betonicine,2010897.127496142,35,0
+240108_Smp_35ppt_Blk,Betonicine,1030729.0929674318,35,0
+240108_Smp_40ppt_A,Betonicine,1088315.5687036128,40,0
+240108_Smp_40ppt_B,Betonicine,1905175.3449292537,40,0
+240108_Smp_40ppt_Blk,Betonicine,358140.4682855047,40,0
+240108_Std_4uMStdsMix1InH2O_1,Betonicine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Betonicine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Betonicine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Betonicine,NA,NA,4
+240108_Poo_Syn_Full1,Butyrylcarnitine,0,NA,0
+240108_Poo_Syn_Full2,Butyrylcarnitine,69267.38404702065,NA,0
+240108_Poo_Syn_Full3,Butyrylcarnitine,101475.84054580762,NA,0
+240108_Poo_Syn_Half1,Butyrylcarnitine,93442.79702607373,NA,0
+240108_Poo_Syn_Half2,Butyrylcarnitine,93829.06618127789,NA,0
+240108_Poo_Syn_Half3,Butyrylcarnitine,45216.889905832664,NA,0
+240108_Smp_25ppt_A,Butyrylcarnitine,143824.08267187155,25,0
+240108_Smp_25ppt_B,Butyrylcarnitine,31618.121053890434,25,0
+240108_Smp_25ppt_Blk,Butyrylcarnitine,62754.094739945736,25,0
+240108_Smp_30ppt_A,Butyrylcarnitine,23523.550483648825,30,0
+240108_Smp_30ppt_B,Butyrylcarnitine,43853.060249329545,30,0
+240108_Smp_30ppt_Blk,Butyrylcarnitine,0,30,0
+240108_Smp_35ppt_A,Butyrylcarnitine,81283.45864058081,35,0
+240108_Smp_35ppt_B,Butyrylcarnitine,89740.89764882205,35,0
+240108_Smp_35ppt_Blk,Butyrylcarnitine,16491.49850912203,35,0
+240108_Smp_40ppt_A,Butyrylcarnitine,42534.75654377873,40,0
+240108_Smp_40ppt_B,Butyrylcarnitine,42217.630433782135,40,0
+240108_Smp_40ppt_Blk,Butyrylcarnitine,94560.74804455844,40,0
+240108_Std_4uMStdsMix1InH2O_1,Butyrylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Butyrylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Butyrylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Butyrylcarnitine,NA,NA,4
+240108_Poo_Syn_Full1,Carnitine,194919.1029523736,NA,0
+240108_Poo_Syn_Full2,Carnitine,915472.5786686837,NA,0
+240108_Poo_Syn_Full3,Carnitine,684126.2959169508,NA,0
+240108_Poo_Syn_Half1,Carnitine,272027.330533706,NA,0
+240108_Poo_Syn_Half2,Carnitine,400897.0890128796,NA,0
+240108_Poo_Syn_Half3,Carnitine,294696.57394815073,NA,0
+240108_Smp_25ppt_A,Carnitine,233475.85318496518,25,0
+240108_Smp_25ppt_B,Carnitine,283134.41370221414,25,0
+240108_Smp_25ppt_Blk,Carnitine,1554789.8080170508,25,0
+240108_Smp_30ppt_A,Carnitine,1568667.5474492179,30,0
+240108_Smp_30ppt_B,Carnitine,711409.9166428689,30,0
+240108_Smp_30ppt_Blk,Carnitine,468638.60309703334,30,0
+240108_Smp_35ppt_A,Carnitine,1302213.0976449365,35,0
+240108_Smp_35ppt_B,Carnitine,1312961.429455404,35,0
+240108_Smp_35ppt_Blk,Carnitine,93914.29903306882,35,0
+240108_Smp_40ppt_A,Carnitine,690419.9884940106,40,0
+240108_Smp_40ppt_B,Carnitine,8468.550367975491,40,0
+240108_Smp_40ppt_Blk,Carnitine,127127.13099895803,40,0
+240108_Std_4uMStdsMix1InH2O_1,Carnitine,NA,NA,1
+240108_Std_4uMStdsMix1InH2O_2,Carnitine,NA,NA,1
+240108_Std_4uMStdsMix1InSynMatrix_1,Carnitine,NA,NA,1
+240108_Std_4uMStdsMix1InSynMatrix_2,Carnitine,NA,NA,1
+240108_Poo_Syn_Full1,Carnosine,120833.77869937976,NA,0
+240108_Poo_Syn_Full2,Carnosine,NA,NA,0
+240108_Poo_Syn_Full3,Carnosine,NA,NA,0
+240108_Poo_Syn_Half1,Carnosine,NA,NA,0
+240108_Poo_Syn_Half2,Carnosine,NA,NA,0
+240108_Poo_Syn_Half3,Carnosine,81817.70387355385,NA,0
+240108_Smp_25ppt_A,Carnosine,NA,25,0
+240108_Smp_25ppt_B,Carnosine,30871.143076143624,25,0
+240108_Smp_25ppt_Blk,Carnosine,NA,25,0
+240108_Smp_30ppt_A,Carnosine,NA,30,0
+240108_Smp_30ppt_B,Carnosine,NA,30,0
+240108_Smp_30ppt_Blk,Carnosine,NA,30,0
+240108_Smp_35ppt_A,Carnosine,NA,35,0
+240108_Smp_35ppt_B,Carnosine,NA,35,0
+240108_Smp_35ppt_Blk,Carnosine,79355.37230003711,35,0
+240108_Smp_40ppt_A,Carnosine,NA,40,0
+240108_Smp_40ppt_B,Carnosine,105454.2138783423,40,0
+240108_Smp_40ppt_Blk,Carnosine,22671.521888160165,40,0
+240108_Std_4uMStdsMix2InH2O_1,Carnosine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Carnosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Carnosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Carnosine,NA,NA,4
+240108_Poo_Syn_Full1,Chitobiose,19763102.40921134,NA,0
+240108_Poo_Syn_Full2,Chitobiose,2661531.40465531,NA,0
+240108_Poo_Syn_Full3,Chitobiose,5749890.2195208,NA,0
+240108_Poo_Syn_Half1,Chitobiose,16272946.721789794,NA,0
+240108_Poo_Syn_Half2,Chitobiose,1847308.2683614087,NA,0
+240108_Poo_Syn_Half3,Chitobiose,13275531.082455331,NA,0
+240108_Smp_25ppt_A,Chitobiose,11036675.68388986,25,0
+240108_Smp_25ppt_B,Chitobiose,11335136.074909002,25,0
+240108_Smp_25ppt_Blk,Chitobiose,0,25,0
+240108_Smp_30ppt_A,Chitobiose,8735687.695525803,30,0
+240108_Smp_30ppt_B,Chitobiose,11056518.596217243,30,0
+240108_Smp_30ppt_Blk,Chitobiose,0,30,0
+240108_Smp_35ppt_A,Chitobiose,44177600.25560459,35,0
+240108_Smp_35ppt_B,Chitobiose,24949727.436178114,35,0
+240108_Smp_35ppt_Blk,Chitobiose,0,35,0
+240108_Smp_40ppt_A,Chitobiose,30634310.2495009,40,0
+240108_Smp_40ppt_B,Chitobiose,32509539.5502536,40,0
+240108_Smp_40ppt_Blk,Chitobiose,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Chitobiose,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Chitobiose,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Chitobiose,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Chitobiose,NA,NA,4
+240108_Poo_Syn_Full1,Choline,2386542.296987072,NA,0
+240108_Poo_Syn_Full2,Choline,1713625.8579425467,NA,0
+240108_Poo_Syn_Full3,Choline,840031.6753235562,NA,0
+240108_Poo_Syn_Half1,Choline,3496480.300478329,NA,0
+240108_Poo_Syn_Half2,Choline,1285003.1586987982,NA,0
+240108_Poo_Syn_Half3,Choline,4709685.88450377,NA,0
+240108_Smp_25ppt_A,Choline,898387.1859385237,25,0
+240108_Smp_25ppt_B,Choline,355991.99116825615,25,0
+240108_Smp_25ppt_Blk,Choline,7694052.662929692,25,0
+240108_Smp_30ppt_A,Choline,7457407.66795547,30,0
+240108_Smp_30ppt_B,Choline,7003332.307950816,30,0
+240108_Smp_30ppt_Blk,Choline,2286343.207657315,30,0
+240108_Smp_35ppt_A,Choline,NA,35,0
+240108_Smp_35ppt_B,Choline,57366914.21770088,35,0
+240108_Smp_35ppt_Blk,Choline,497474.07591660717,35,0
+240108_Smp_40ppt_A,Choline,3747415.2605628776,40,0
+240108_Smp_40ppt_B,Choline,7193951.3830946945,40,0
+240108_Smp_40ppt_Blk,Choline,2607810.6545867845,40,0
+240108_Std_4uMStdsMix1InH2O_1,Choline,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Choline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Choline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Choline,NA,NA,4
+240108_Poo_Syn_Full1,Choline sulfate,NA,NA,0
+240108_Poo_Syn_Full2,Choline sulfate,NA,NA,0
+240108_Poo_Syn_Full3,Choline sulfate,NA,NA,0
+240108_Poo_Syn_Half1,Choline sulfate,NA,NA,0
+240108_Poo_Syn_Half2,Choline sulfate,NA,NA,0
+240108_Poo_Syn_Half3,Choline sulfate,NA,NA,0
+240108_Smp_25ppt_A,Choline sulfate,NA,25,0
+240108_Smp_25ppt_B,Choline sulfate,11766.640646387452,25,0
+240108_Smp_25ppt_Blk,Choline sulfate,57882.867046483494,25,0
+240108_Smp_30ppt_A,Choline sulfate,NA,30,0
+240108_Smp_30ppt_B,Choline sulfate,NA,30,0
+240108_Smp_30ppt_Blk,Choline sulfate,NA,30,0
+240108_Smp_35ppt_A,Choline sulfate,NA,35,0
+240108_Smp_35ppt_B,Choline sulfate,NA,35,0
+240108_Smp_35ppt_Blk,Choline sulfate,NA,35,0
+240108_Smp_40ppt_A,Choline sulfate,NA,40,0
+240108_Smp_40ppt_B,Choline sulfate,NA,40,0
+240108_Smp_40ppt_Blk,Choline sulfate,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,Choline sulfate,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Choline sulfate,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Choline sulfate,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Choline sulfate,NA,NA,5
+240108_Poo_Syn_Full1,Citrulline,49537648.873497784,NA,0
+240108_Poo_Syn_Full2,Citrulline,51214308.8185266,NA,0
+240108_Poo_Syn_Full3,Citrulline,48586540.03724095,NA,0
+240108_Poo_Syn_Half1,Citrulline,44827522.893909685,NA,0
+240108_Poo_Syn_Half2,Citrulline,46042346.84712384,NA,0
+240108_Poo_Syn_Half3,Citrulline,43509021.51150142,NA,0
+240108_Smp_25ppt_A,Citrulline,28631439.996479057,25,0
+240108_Smp_25ppt_B,Citrulline,35271744.69346808,25,0
+240108_Smp_25ppt_Blk,Citrulline,695346.1671312213,25,0
+240108_Smp_30ppt_A,Citrulline,47475133.127201945,30,0
+240108_Smp_30ppt_B,Citrulline,55779126.42484174,30,0
+240108_Smp_30ppt_Blk,Citrulline,1061465.4728701848,30,0
+240108_Smp_35ppt_A,Citrulline,67028554.67673171,35,0
+240108_Smp_35ppt_B,Citrulline,62801311.88067127,35,0
+240108_Smp_35ppt_Blk,Citrulline,637494.3917315522,35,0
+240108_Smp_40ppt_A,Citrulline,90890041.13119325,40,0
+240108_Smp_40ppt_B,Citrulline,77395006.23879734,40,0
+240108_Smp_40ppt_Blk,Citrulline,1810026.676592339,40,0
+240108_Std_4uMStdsMix1InH2O_1,Citrulline,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Citrulline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Citrulline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Citrulline,NA,NA,4
+240108_Poo_Syn_Full1,Creatine,3611351.8997579133,NA,0
+240108_Poo_Syn_Full2,Creatine,3820214.62074831,NA,0
+240108_Poo_Syn_Full3,Creatine,3493518.611999329,NA,0
+240108_Poo_Syn_Half1,Creatine,3402108.674193045,NA,0
+240108_Poo_Syn_Half2,Creatine,3217433.101646943,NA,0
+240108_Poo_Syn_Half3,Creatine,4273553.934631768,NA,0
+240108_Smp_25ppt_A,Creatine,802730.0419497733,25,0
+240108_Smp_25ppt_B,Creatine,409305.2297978833,25,0
+240108_Smp_25ppt_Blk,Creatine,2236923.916568161,25,0
+240108_Smp_30ppt_A,Creatine,7366033.505899558,30,0
+240108_Smp_30ppt_B,Creatine,3284558.3253610115,30,0
+240108_Smp_30ppt_Blk,Creatine,1057932.912102625,30,0
+240108_Smp_35ppt_A,Creatine,5454461.733272521,35,0
+240108_Smp_35ppt_B,Creatine,8258421.83193578,35,0
+240108_Smp_35ppt_Blk,Creatine,1345054.4768823925,35,0
+240108_Smp_40ppt_A,Creatine,1146228.7822251276,40,0
+240108_Smp_40ppt_B,Creatine,5680485.92031215,40,0
+240108_Smp_40ppt_Blk,Creatine,334560.87050446746,40,0
+240108_Std_4uMStdsMix1InH2O_1,Creatine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Creatine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Creatine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Creatine,NA,NA,4
+240108_Poo_Syn_Full1,Creatinine,2347319.697170064,NA,0
+240108_Poo_Syn_Full2,Creatinine,4799835.441074114,NA,0
+240108_Poo_Syn_Full3,Creatinine,3268616.721644545,NA,0
+240108_Poo_Syn_Half1,Creatinine,6503018.206752279,NA,0
+240108_Poo_Syn_Half2,Creatinine,3270125.260694992,NA,0
+240108_Poo_Syn_Half3,Creatinine,6071592.41963786,NA,0
+240108_Smp_25ppt_A,Creatinine,2038453.7456869616,25,0
+240108_Smp_25ppt_B,Creatinine,443793.9503665167,25,0
+240108_Smp_25ppt_Blk,Creatinine,944505.2839757074,25,0
+240108_Smp_30ppt_A,Creatinine,4137632.0485978182,30,0
+240108_Smp_30ppt_B,Creatinine,1389201.8042781162,30,0
+240108_Smp_30ppt_Blk,Creatinine,1705028.1063538222,30,0
+240108_Smp_35ppt_A,Creatinine,3408934.367303351,35,0
+240108_Smp_35ppt_B,Creatinine,9083516.24093274,35,0
+240108_Smp_35ppt_Blk,Creatinine,1397282.2915413056,35,0
+240108_Smp_40ppt_A,Creatinine,1916966.979828734,40,0
+240108_Smp_40ppt_B,Creatinine,4760254.561371426,40,0
+240108_Smp_40ppt_Blk,Creatinine,1212794.5331543079,40,0
+240108_Std_4uMStdsMix1InH2O_1,Creatinine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Creatinine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Creatinine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Creatinine,NA,NA,4
+240108_Poo_Syn_Full1,"Cys-Gly, oxidized",NA,NA,0
+240108_Poo_Syn_Full2,"Cys-Gly, oxidized",NA,NA,0
+240108_Poo_Syn_Full3,"Cys-Gly, oxidized",102510.02555951114,NA,0
+240108_Poo_Syn_Half1,"Cys-Gly, oxidized",20989.462310457737,NA,0
+240108_Poo_Syn_Half2,"Cys-Gly, oxidized",NA,NA,0
+240108_Poo_Syn_Half3,"Cys-Gly, oxidized",43198.31299600871,NA,0
+240108_Smp_25ppt_A,"Cys-Gly, oxidized",NA,25,0
+240108_Smp_25ppt_B,"Cys-Gly, oxidized",32525.46285019018,25,0
+240108_Smp_25ppt_Blk,"Cys-Gly, oxidized",NA,25,0
+240108_Smp_30ppt_A,"Cys-Gly, oxidized",29362.002646604546,30,0
+240108_Smp_30ppt_B,"Cys-Gly, oxidized",NA,30,0
+240108_Smp_30ppt_Blk,"Cys-Gly, oxidized",NA,30,0
+240108_Smp_35ppt_A,"Cys-Gly, oxidized",71251.95906660875,35,0
+240108_Smp_35ppt_B,"Cys-Gly, oxidized",110466.02960670798,35,0
+240108_Smp_35ppt_Blk,"Cys-Gly, oxidized",NA,35,0
+240108_Smp_40ppt_A,"Cys-Gly, oxidized",71616.42448992426,40,0
+240108_Smp_40ppt_B,"Cys-Gly, oxidized",13145.545873611865,40,0
+240108_Smp_40ppt_Blk,"Cys-Gly, oxidized",NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,"Cys-Gly, oxidized",NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,"Cys-Gly, oxidized",NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,"Cys-Gly, oxidized",NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,"Cys-Gly, oxidized",NA,NA,4
+240108_Poo_Syn_Full1,Cytidine,2444261.972242207,NA,0
+240108_Poo_Syn_Full2,Cytidine,2687400.447864645,NA,0
+240108_Poo_Syn_Full3,Cytidine,2866946.656825707,NA,0
+240108_Poo_Syn_Half1,Cytidine,1882473.0843884416,NA,0
+240108_Poo_Syn_Half2,Cytidine,2242846.7619222216,NA,0
+240108_Poo_Syn_Half3,Cytidine,2522369.7722546533,NA,0
+240108_Smp_25ppt_A,Cytidine,3612181.6207452705,25,0
+240108_Smp_25ppt_B,Cytidine,2952571.5305538173,25,0
+240108_Smp_25ppt_Blk,Cytidine,0,25,0
+240108_Smp_30ppt_A,Cytidine,2854817.823840235,30,0
+240108_Smp_30ppt_B,Cytidine,2950910.243264649,30,0
+240108_Smp_30ppt_Blk,Cytidine,0,30,0
+240108_Smp_35ppt_A,Cytidine,2731133.958385882,35,0
+240108_Smp_35ppt_B,Cytidine,2598055.6381993927,35,0
+240108_Smp_35ppt_Blk,Cytidine,0,35,0
+240108_Smp_40ppt_A,Cytidine,2792395.5798613224,40,0
+240108_Smp_40ppt_B,Cytidine,2976491.6245661364,40,0
+240108_Smp_40ppt_Blk,Cytidine,58997.26070874875,40,0
+240108_Std_4uMStdsMix2InH2O_1,Cytidine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Cytidine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Cytidine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Cytidine,NA,NA,4
+240108_Poo_Syn_Full1,Deoxyadenosine,11023961.034717038,NA,0
+240108_Poo_Syn_Full2,Deoxyadenosine,10054291.001308173,NA,0
+240108_Poo_Syn_Full3,Deoxyadenosine,9216755.979469297,NA,0
+240108_Poo_Syn_Half1,Deoxyadenosine,5662854.210446792,NA,0
+240108_Poo_Syn_Half2,Deoxyadenosine,7661442.2123228,NA,0
+240108_Poo_Syn_Half3,Deoxyadenosine,6990368.702606471,NA,0
+240108_Smp_25ppt_A,Deoxyadenosine,18339664.07959966,25,0
+240108_Smp_25ppt_B,Deoxyadenosine,9235482.723528873,25,0
+240108_Smp_25ppt_Blk,Deoxyadenosine,227072.70573379868,25,0
+240108_Smp_30ppt_A,Deoxyadenosine,8272166.583355314,30,0
+240108_Smp_30ppt_B,Deoxyadenosine,10172694.903269835,30,0
+240108_Smp_30ppt_Blk,Deoxyadenosine,54742.260216068076,30,0
+240108_Smp_35ppt_A,Deoxyadenosine,5025131.226541933,35,0
+240108_Smp_35ppt_B,Deoxyadenosine,7765502.895833328,35,0
+240108_Smp_35ppt_Blk,Deoxyadenosine,82206.34984212993,35,0
+240108_Smp_40ppt_A,Deoxyadenosine,12342657.490977284,40,0
+240108_Smp_40ppt_B,Deoxyadenosine,13511298.924077308,40,0
+240108_Smp_40ppt_Blk,Deoxyadenosine,68355.00979756597,40,0
+240108_Std_4uMStdsMix1InH2O_1,Deoxyadenosine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Deoxyadenosine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Deoxyadenosine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Deoxyadenosine,NA,NA,4
+240108_Poo_Syn_Full1,Dimethylglycine,372336486.3277114,NA,0
+240108_Poo_Syn_Full2,Dimethylglycine,425885409.1364739,NA,0
+240108_Poo_Syn_Full3,Dimethylglycine,488200722.29744583,NA,0
+240108_Poo_Syn_Half1,Dimethylglycine,583808314.5923234,NA,0
+240108_Poo_Syn_Half2,Dimethylglycine,646592824.8081731,NA,0
+240108_Poo_Syn_Half3,Dimethylglycine,760224909.3481381,NA,0
+240108_Smp_25ppt_A,Dimethylglycine,93753098.03639908,25,0
+240108_Smp_25ppt_B,Dimethylglycine,53706176.94397142,25,0
+240108_Smp_25ppt_Blk,Dimethylglycine,241824013.66818053,25,0
+240108_Smp_30ppt_A,Dimethylglycine,244444275.70583844,30,0
+240108_Smp_30ppt_B,Dimethylglycine,288632819.4139096,30,0
+240108_Smp_30ppt_Blk,Dimethylglycine,279774831.9778163,30,0
+240108_Smp_35ppt_A,Dimethylglycine,798618162.1125792,35,0
+240108_Smp_35ppt_B,Dimethylglycine,808605219.4794915,35,0
+240108_Smp_35ppt_Blk,Dimethylglycine,320223665.46805894,35,0
+240108_Smp_40ppt_A,Dimethylglycine,244963638.74009237,40,0
+240108_Smp_40ppt_B,Dimethylglycine,766320351.492876,40,0
+240108_Smp_40ppt_Blk,Dimethylglycine,320675945.3402972,40,0
+240108_Std_4uMStdsMix1InH2O_1,Dimethylglycine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Dimethylglycine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Dimethylglycine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Dimethylglycine,NA,NA,4
+240108_Poo_Syn_Full1,Dimethylsulfonioacetate,NA,NA,0
+240108_Poo_Syn_Full2,Dimethylsulfonioacetate,NA,NA,0
+240108_Poo_Syn_Full3,Dimethylsulfonioacetate,NA,NA,0
+240108_Poo_Syn_Half1,Dimethylsulfonioacetate,NA,NA,0
+240108_Poo_Syn_Half2,Dimethylsulfonioacetate,58905.16186729841,NA,0
+240108_Poo_Syn_Half3,Dimethylsulfonioacetate,NA,NA,0
+240108_Smp_25ppt_A,Dimethylsulfonioacetate,NA,25,0
+240108_Smp_25ppt_B,Dimethylsulfonioacetate,NA,25,0
+240108_Smp_25ppt_Blk,Dimethylsulfonioacetate,NA,25,0
+240108_Smp_30ppt_A,Dimethylsulfonioacetate,NA,30,0
+240108_Smp_30ppt_B,Dimethylsulfonioacetate,54771.593270180594,30,0
+240108_Smp_30ppt_Blk,Dimethylsulfonioacetate,NA,30,0
+240108_Smp_35ppt_A,Dimethylsulfonioacetate,NA,35,0
+240108_Smp_35ppt_B,Dimethylsulfonioacetate,50855.837911823204,35,0
+240108_Smp_35ppt_Blk,Dimethylsulfonioacetate,NA,35,0
+240108_Smp_40ppt_A,Dimethylsulfonioacetate,NA,40,0
+240108_Smp_40ppt_B,Dimethylsulfonioacetate,NA,40,0
+240108_Smp_40ppt_Blk,Dimethylsulfonioacetate,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,Dimethylsulfonioacetate,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Dimethylsulfonioacetate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Dimethylsulfonioacetate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Dimethylsulfonioacetate,NA,NA,4
+240108_Poo_Syn_Full1,Dimethylsulfoniopropionate,NA,NA,0
+240108_Poo_Syn_Full2,Dimethylsulfoniopropionate,56555.4817058389,NA,0
+240108_Poo_Syn_Full3,Dimethylsulfoniopropionate,NA,NA,0
+240108_Poo_Syn_Half1,Dimethylsulfoniopropionate,NA,NA,0
+240108_Poo_Syn_Half2,Dimethylsulfoniopropionate,114567.78970206168,NA,0
+240108_Poo_Syn_Half3,Dimethylsulfoniopropionate,NA,NA,0
+240108_Smp_25ppt_A,Dimethylsulfoniopropionate,NA,25,0
+240108_Smp_25ppt_B,Dimethylsulfoniopropionate,NA,25,0
+240108_Smp_25ppt_Blk,Dimethylsulfoniopropionate,NA,25,0
+240108_Smp_30ppt_A,Dimethylsulfoniopropionate,NA,30,0
+240108_Smp_30ppt_B,Dimethylsulfoniopropionate,49630.18411035632,30,0
+240108_Smp_30ppt_Blk,Dimethylsulfoniopropionate,NA,30,0
+240108_Smp_35ppt_A,Dimethylsulfoniopropionate,76323.0538570043,35,0
+240108_Smp_35ppt_B,Dimethylsulfoniopropionate,179568.49893845798,35,0
+240108_Smp_35ppt_Blk,Dimethylsulfoniopropionate,NA,35,0
+240108_Smp_40ppt_A,Dimethylsulfoniopropionate,NA,40,0
+240108_Smp_40ppt_B,Dimethylsulfoniopropionate,84138.2450447657,40,0
+240108_Smp_40ppt_Blk,Dimethylsulfoniopropionate,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Dimethylsulfoniopropionate,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Dimethylsulfoniopropionate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Dimethylsulfoniopropionate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Dimethylsulfoniopropionate,NA,NA,4
+240108_Poo_Syn_Full1,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Poo_Syn_Full2,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Poo_Syn_Full3,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Poo_Syn_Half1,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Poo_Syn_Half2,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Poo_Syn_Half3,Dimethylsulfoxonium propionate,NA,NA,0
+240108_Smp_25ppt_A,Dimethylsulfoxonium propionate,NA,25,0
+240108_Smp_25ppt_B,Dimethylsulfoxonium propionate,NA,25,0
+240108_Smp_25ppt_Blk,Dimethylsulfoxonium propionate,NA,25,0
+240108_Smp_30ppt_A,Dimethylsulfoxonium propionate,NA,30,0
+240108_Smp_30ppt_B,Dimethylsulfoxonium propionate,NA,30,0
+240108_Smp_30ppt_Blk,Dimethylsulfoxonium propionate,NA,30,0
+240108_Smp_35ppt_A,Dimethylsulfoxonium propionate,NA,35,0
+240108_Smp_35ppt_B,Dimethylsulfoxonium propionate,NA,35,0
+240108_Smp_35ppt_Blk,Dimethylsulfoxonium propionate,NA,35,0
+240108_Smp_40ppt_A,Dimethylsulfoxonium propionate,NA,40,0
+240108_Smp_40ppt_B,Dimethylsulfoxonium propionate,50109.754606149254,40,0
+240108_Smp_40ppt_Blk,Dimethylsulfoxonium propionate,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Dimethylsulfoxonium propionate,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Dimethylsulfoxonium propionate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Dimethylsulfoxonium propionate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Dimethylsulfoxonium propionate,NA,NA,4
+240108_Poo_Syn_Full1,Ectoine,4489161.63006345,NA,0
+240108_Poo_Syn_Full2,Ectoine,4143340.473171715,NA,0
+240108_Poo_Syn_Full3,Ectoine,3928556.6283844276,NA,0
+240108_Poo_Syn_Half1,Ectoine,3899674.366485225,NA,0
+240108_Poo_Syn_Half2,Ectoine,4238747.733671736,NA,0
+240108_Poo_Syn_Half3,Ectoine,2789421.105030219,NA,0
+240108_Smp_25ppt_A,Ectoine,2537128.1222528373,25,0
+240108_Smp_25ppt_B,Ectoine,2327689.0362834656,25,0
+240108_Smp_25ppt_Blk,Ectoine,1174968.0719989429,25,0
+240108_Smp_30ppt_A,Ectoine,2951841.754128215,30,0
+240108_Smp_30ppt_B,Ectoine,3529305.874336182,30,0
+240108_Smp_30ppt_Blk,Ectoine,822263.4755031232,30,0
+240108_Smp_35ppt_A,Ectoine,6007955.962955353,35,0
+240108_Smp_35ppt_B,Ectoine,8239903.655724065,35,0
+240108_Smp_35ppt_Blk,Ectoine,1205988.6726717271,35,0
+240108_Smp_40ppt_A,Ectoine,6506613.077835904,40,0
+240108_Smp_40ppt_B,Ectoine,6514603.868106993,40,0
+240108_Smp_40ppt_Blk,Ectoine,964810.9648849915,40,0
+240108_Std_4uMStdsMix2InH2O_1,Ectoine,NA,NA,8
+240108_Std_4uMStdsMix2InH2O_2,Ectoine,NA,NA,8
+240108_Std_4uMStdsMix2InSynMatrix_1,Ectoine,NA,NA,8
+240108_Std_4uMStdsMix2InSynMatrix_2,Ectoine,NA,NA,8
+240108_Poo_Syn_Full1,Ergothioneine,764843058.9181148,NA,0
+240108_Poo_Syn_Full2,Ergothioneine,801477425.7996695,NA,0
+240108_Poo_Syn_Full3,Ergothioneine,645053172.3057088,NA,0
+240108_Poo_Syn_Half1,Ergothioneine,653910482.3753402,NA,0
+240108_Poo_Syn_Half2,Ergothioneine,741243666.506463,NA,0
+240108_Poo_Syn_Half3,Ergothioneine,560930342.226515,NA,0
+240108_Smp_25ppt_A,Ergothioneine,517596736.592702,25,0
+240108_Smp_25ppt_B,Ergothioneine,748931894.4253653,25,0
+240108_Smp_25ppt_Blk,Ergothioneine,26269.169038995715,25,0
+240108_Smp_30ppt_A,Ergothioneine,525515938.2121795,30,0
+240108_Smp_30ppt_B,Ergothioneine,871039432.1911414,30,0
+240108_Smp_30ppt_Blk,Ergothioneine,0,30,0
+240108_Smp_35ppt_A,Ergothioneine,1793637584.6156065,35,0
+240108_Smp_35ppt_B,Ergothioneine,1681443364.6503425,35,0
+240108_Smp_35ppt_Blk,Ergothioneine,0,35,0
+240108_Smp_40ppt_A,Ergothioneine,736420279.943906,40,0
+240108_Smp_40ppt_B,Ergothioneine,774266253.5693527,40,0
+240108_Smp_40ppt_Blk,Ergothioneine,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Ergothioneine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Ergothioneine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Ergothioneine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Ergothioneine,NA,NA,4
+240108_Poo_Syn_Full1,Ethanolamine,19071214.946055032,NA,0
+240108_Poo_Syn_Full2,Ethanolamine,242271721.4717166,NA,0
+240108_Poo_Syn_Full3,Ethanolamine,272924681.3613739,NA,0
+240108_Poo_Syn_Half1,Ethanolamine,270124195.68052936,NA,0
+240108_Poo_Syn_Half2,Ethanolamine,1163451839.0205362,NA,0
+240108_Poo_Syn_Half3,Ethanolamine,407118554.4369613,NA,0
+240108_Smp_25ppt_A,Ethanolamine,270029235.6088257,25,0
+240108_Smp_25ppt_B,Ethanolamine,93998020.98282169,25,0
+240108_Smp_25ppt_Blk,Ethanolamine,80049188.80443922,25,0
+240108_Smp_30ppt_A,Ethanolamine,188707474.2849818,30,0
+240108_Smp_30ppt_B,Ethanolamine,2328091.666490897,30,0
+240108_Smp_30ppt_Blk,Ethanolamine,170764178.13525566,30,0
+240108_Smp_35ppt_A,Ethanolamine,802943796.094762,35,0
+240108_Smp_35ppt_B,Ethanolamine,393095026.62214357,35,0
+240108_Smp_35ppt_Blk,Ethanolamine,212103656.02868348,35,0
+240108_Smp_40ppt_A,Ethanolamine,307467389.4358792,40,0
+240108_Smp_40ppt_B,Ethanolamine,858066880.4772933,40,0
+240108_Smp_40ppt_Blk,Ethanolamine,196783190.09323636,40,0
+240108_Std_4uMStdsMix1InH2O_1,Ethanolamine,NA,NA,6
+240108_Std_4uMStdsMix1InH2O_2,Ethanolamine,NA,NA,6
+240108_Std_4uMStdsMix1InSynMatrix_1,Ethanolamine,NA,NA,6
+240108_Std_4uMStdsMix1InSynMatrix_2,Ethanolamine,NA,NA,6
+240108_Poo_Syn_Full1,Glucosamine,5291378.004885941,NA,0
+240108_Poo_Syn_Full2,Glucosamine,4638152.038481361,NA,0
+240108_Poo_Syn_Full3,Glucosamine,5058833.310264046,NA,0
+240108_Poo_Syn_Half1,Glucosamine,4754683.351527252,NA,0
+240108_Poo_Syn_Half2,Glucosamine,3883870.291230624,NA,0
+240108_Poo_Syn_Half3,Glucosamine,4761521.995454695,NA,0
+240108_Smp_25ppt_A,Glucosamine,116269.72652328057,25,0
+240108_Smp_25ppt_B,Glucosamine,42648.54655205179,25,0
+240108_Smp_25ppt_Blk,Glucosamine,34209.72113600692,25,0
+240108_Smp_30ppt_A,Glucosamine,2881358.2367499233,30,0
+240108_Smp_30ppt_B,Glucosamine,3298662.781013595,30,0
+240108_Smp_30ppt_Blk,Glucosamine,NA,30,0
+240108_Smp_35ppt_A,Glucosamine,10259515.156797139,35,0
+240108_Smp_35ppt_B,Glucosamine,7974690.027905845,35,0
+240108_Smp_35ppt_Blk,Glucosamine,28156.725466209482,35,0
+240108_Smp_40ppt_A,Glucosamine,9693040.613464735,40,0
+240108_Smp_40ppt_B,Glucosamine,9420492.078745257,40,0
+240108_Smp_40ppt_Blk,Glucosamine,70831.53905218201,40,0
+240108_Std_4uMStdsMix1InH2O_1,Glucosamine,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Glucosamine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Glucosamine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Glucosamine,NA,NA,5
+240108_Poo_Syn_Full1,Glutamylphenylalanine,149847.7543819104,NA,0
+240108_Poo_Syn_Full2,Glutamylphenylalanine,141564.39158854037,NA,0
+240108_Poo_Syn_Full3,Glutamylphenylalanine,73989.22717471313,NA,0
+240108_Poo_Syn_Half1,Glutamylphenylalanine,NA,NA,0
+240108_Poo_Syn_Half2,Glutamylphenylalanine,76086.92539995637,NA,0
+240108_Poo_Syn_Half3,Glutamylphenylalanine,118809.45104393906,NA,0
+240108_Smp_25ppt_A,Glutamylphenylalanine,176681.52040357632,25,0
+240108_Smp_25ppt_B,Glutamylphenylalanine,174036.6839602203,25,0
+240108_Smp_25ppt_Blk,Glutamylphenylalanine,0,25,0
+240108_Smp_30ppt_A,Glutamylphenylalanine,137128.3244188017,30,0
+240108_Smp_30ppt_B,Glutamylphenylalanine,461233.9754864272,30,0
+240108_Smp_30ppt_Blk,Glutamylphenylalanine,0,30,0
+240108_Smp_35ppt_A,Glutamylphenylalanine,678562.8803705192,35,0
+240108_Smp_35ppt_B,Glutamylphenylalanine,229103.10175966125,35,0
+240108_Smp_35ppt_Blk,Glutamylphenylalanine,0,35,0
+240108_Smp_40ppt_A,Glutamylphenylalanine,461763.12687981024,40,0
+240108_Smp_40ppt_B,Glutamylphenylalanine,81758.93965508514,40,0
+240108_Smp_40ppt_Blk,Glutamylphenylalanine,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Glutamylphenylalanine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Glutamylphenylalanine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Glutamylphenylalanine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Glutamylphenylalanine,NA,NA,4
+240108_Poo_Syn_Full1,Glutathione,NA,NA,0
+240108_Poo_Syn_Full2,Glutathione,153370.5797575186,NA,0
+240108_Poo_Syn_Full3,Glutathione,NA,NA,0
+240108_Poo_Syn_Half1,Glutathione,3495578.8823472126,NA,0
+240108_Poo_Syn_Half2,Glutathione,852779.4661000229,NA,0
+240108_Poo_Syn_Half3,Glutathione,3201257.499654603,NA,0
+240108_Smp_25ppt_A,Glutathione,1328903.5514951462,25,0
+240108_Smp_25ppt_B,Glutathione,3012215.993838006,25,0
+240108_Smp_25ppt_Blk,Glutathione,0,25,0
+240108_Smp_30ppt_A,Glutathione,2424003.7607138474,30,0
+240108_Smp_30ppt_B,Glutathione,2952791.2746544327,30,0
+240108_Smp_30ppt_Blk,Glutathione,0,30,0
+240108_Smp_35ppt_A,Glutathione,0,35,0
+240108_Smp_35ppt_B,Glutathione,1204250.7336379667,35,0
+240108_Smp_35ppt_Blk,Glutathione,0,35,0
+240108_Smp_40ppt_A,Glutathione,724783.1203661425,40,0
+240108_Smp_40ppt_B,Glutathione,0,40,0
+240108_Smp_40ppt_Blk,Glutathione,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,Glutathione,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Glutathione,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Glutathione,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Glutathione,NA,NA,4
+240108_Poo_Syn_Full1,Glutathione disulfide,6814484.912839076,NA,0
+240108_Poo_Syn_Full2,Glutathione disulfide,7089240.311741256,NA,0
+240108_Poo_Syn_Full3,Glutathione disulfide,5380178.623736416,NA,0
+240108_Poo_Syn_Half1,Glutathione disulfide,7048111.855908773,NA,0
+240108_Poo_Syn_Half2,Glutathione disulfide,5679049.492185046,NA,0
+240108_Poo_Syn_Half3,Glutathione disulfide,5744761.354336972,NA,0
+240108_Smp_25ppt_A,Glutathione disulfide,3220723.7219339805,25,0
+240108_Smp_25ppt_B,Glutathione disulfide,4034301.73213891,25,0
+240108_Smp_25ppt_Blk,Glutathione disulfide,0,25,0
+240108_Smp_30ppt_A,Glutathione disulfide,4035488.918777645,30,0
+240108_Smp_30ppt_B,Glutathione disulfide,5473679.406950322,30,0
+240108_Smp_30ppt_Blk,Glutathione disulfide,0,30,0
+240108_Smp_35ppt_A,Glutathione disulfide,10829265.183722345,35,0
+240108_Smp_35ppt_B,Glutathione disulfide,10551163.79510863,35,0
+240108_Smp_35ppt_Blk,Glutathione disulfide,0,35,0
+240108_Smp_40ppt_A,Glutathione disulfide,10981991.2986746,40,0
+240108_Smp_40ppt_B,Glutathione disulfide,10951223.224779231,40,0
+240108_Smp_40ppt_Blk,Glutathione disulfide,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Glutathione disulfide,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Glutathione disulfide,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Glutathione disulfide,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Glutathione disulfide,NA,NA,4
+240108_Poo_Syn_Full1,Glycerophosphocholine,82551.93572344439,NA,0
+240108_Poo_Syn_Full2,Glycerophosphocholine,17222.901112662472,NA,0
+240108_Poo_Syn_Full3,Glycerophosphocholine,62651.571308126826,NA,0
+240108_Poo_Syn_Half1,Glycerophosphocholine,47926.82891862907,NA,0
+240108_Poo_Syn_Half2,Glycerophosphocholine,32109.109498089034,NA,0
+240108_Poo_Syn_Half3,Glycerophosphocholine,33106.17316371069,NA,0
+240108_Smp_25ppt_A,Glycerophosphocholine,163492.3403476267,25,0
+240108_Smp_25ppt_B,Glycerophosphocholine,175286.87430748466,25,0
+240108_Smp_25ppt_Blk,Glycerophosphocholine,0,25,0
+240108_Smp_30ppt_A,Glycerophosphocholine,671574.0471429264,30,0
+240108_Smp_30ppt_B,Glycerophosphocholine,319775.4169461607,30,0
+240108_Smp_30ppt_Blk,Glycerophosphocholine,0,30,0
+240108_Smp_35ppt_A,Glycerophosphocholine,22556.59621560343,35,0
+240108_Smp_35ppt_B,Glycerophosphocholine,14257.997134726778,35,0
+240108_Smp_35ppt_Blk,Glycerophosphocholine,0,35,0
+240108_Smp_40ppt_A,Glycerophosphocholine,69382.7355553308,40,0
+240108_Smp_40ppt_B,Glycerophosphocholine,213859.84814186537,40,0
+240108_Smp_40ppt_Blk,Glycerophosphocholine,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,Glycerophosphocholine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Glycerophosphocholine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Glycerophosphocholine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Glycerophosphocholine,NA,NA,4
+240108_Poo_Syn_Full1,Glycine,3269557.848319565,NA,0
+240108_Poo_Syn_Full2,Glycine,3771262.4180861106,NA,0
+240108_Poo_Syn_Full3,Glycine,2893841.602123678,NA,0
+240108_Poo_Syn_Half1,Glycine,3542186.7297277455,NA,0
+240108_Poo_Syn_Half2,Glycine,3923920.683914995,NA,0
+240108_Poo_Syn_Half3,Glycine,5146900.934743251,NA,0
+240108_Smp_25ppt_A,Glycine,2471751.6656701015,25,0
+240108_Smp_25ppt_B,Glycine,1295382.0479132682,25,0
+240108_Smp_25ppt_Blk,Glycine,354891.0602784162,25,0
+240108_Smp_30ppt_A,Glycine,2737441.5976221734,30,0
+240108_Smp_30ppt_B,Glycine,1231506.2471349684,30,0
+240108_Smp_30ppt_Blk,Glycine,513315.717654589,30,0
+240108_Smp_35ppt_A,Glycine,7293337.432765223,35,0
+240108_Smp_35ppt_B,Glycine,3750947.100439409,35,0
+240108_Smp_35ppt_Blk,Glycine,295954.8504216582,35,0
+240108_Smp_40ppt_A,Glycine,4625441.939816761,40,0
+240108_Smp_40ppt_B,Glycine,7291782.870421243,40,0
+240108_Smp_40ppt_Blk,Glycine,970775.7303990768,40,0
+240108_Std_4uMStdsMix1InH2O_1,Glycine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Glycine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Glycine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Glycine,NA,NA,4
+240108_Poo_Syn_Full1,Gonyol,154488.38580771073,NA,0
+240108_Poo_Syn_Full2,Gonyol,39984.573042603035,NA,0
+240108_Poo_Syn_Full3,Gonyol,127980.48047583201,NA,0
+240108_Poo_Syn_Half1,Gonyol,136897.51932911229,NA,0
+240108_Poo_Syn_Half2,Gonyol,0,NA,0
+240108_Poo_Syn_Half3,Gonyol,0,NA,0
+240108_Smp_25ppt_A,Gonyol,152967.81859789672,25,0
+240108_Smp_25ppt_B,Gonyol,71442.9510420661,25,0
+240108_Smp_25ppt_Blk,Gonyol,100635.39239426397,25,0
+240108_Smp_30ppt_A,Gonyol,179052.53723403014,30,0
+240108_Smp_30ppt_B,Gonyol,33138.520365991215,30,0
+240108_Smp_30ppt_Blk,Gonyol,130747.3563952257,30,0
+240108_Smp_35ppt_A,Gonyol,0,35,0
+240108_Smp_35ppt_B,Gonyol,0,35,0
+240108_Smp_35ppt_Blk,Gonyol,246944.45319627298,35,0
+240108_Smp_40ppt_A,Gonyol,182732.84316930664,40,0
+240108_Smp_40ppt_B,Gonyol,92994.27377448438,40,0
+240108_Smp_40ppt_Blk,Gonyol,130592.81957472513,40,0
+240108_Std_4uMStdsMix1InH2O_1,Gonyol,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Gonyol,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Gonyol,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Gonyol,NA,NA,4
+240108_Poo_Syn_Full1,Guanosine,7251634.216820543,NA,0
+240108_Poo_Syn_Full2,Guanosine,6598389.720761547,NA,0
+240108_Poo_Syn_Full3,Guanosine,6403286.101852436,NA,0
+240108_Poo_Syn_Half1,Guanosine,6625878.7734341435,NA,0
+240108_Poo_Syn_Half2,Guanosine,6168846.634226074,NA,0
+240108_Poo_Syn_Half3,Guanosine,5907342.64891896,NA,0
+240108_Smp_25ppt_A,Guanosine,8994956.88598192,25,0
+240108_Smp_25ppt_B,Guanosine,7257224.08479732,25,0
+240108_Smp_25ppt_Blk,Guanosine,0,25,0
+240108_Smp_30ppt_A,Guanosine,5535858.147735193,30,0
+240108_Smp_30ppt_B,Guanosine,5928066.168387509,30,0
+240108_Smp_30ppt_Blk,Guanosine,0,30,0
+240108_Smp_35ppt_A,Guanosine,6942589.300370218,35,0
+240108_Smp_35ppt_B,Guanosine,4942934.927353878,35,0
+240108_Smp_35ppt_Blk,Guanosine,0,35,0
+240108_Smp_40ppt_A,Guanosine,8320856.360715335,40,0
+240108_Smp_40ppt_B,Guanosine,9196373.869419482,40,0
+240108_Smp_40ppt_Blk,Guanosine,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Guanosine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Guanosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Guanosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Guanosine,NA,NA,4
+240108_Poo_Syn_Full1,Homocysteine thiolactone,NA,NA,0
+240108_Poo_Syn_Full2,Homocysteine thiolactone,NA,NA,0
+240108_Poo_Syn_Full3,Homocysteine thiolactone,NA,NA,0
+240108_Poo_Syn_Half1,Homocysteine thiolactone,NA,NA,0
+240108_Poo_Syn_Half2,Homocysteine thiolactone,NA,NA,0
+240108_Poo_Syn_Half3,Homocysteine thiolactone,NA,NA,0
+240108_Smp_25ppt_A,Homocysteine thiolactone,7923.618565010496,25,0
+240108_Smp_25ppt_B,Homocysteine thiolactone,NA,25,0
+240108_Smp_25ppt_Blk,Homocysteine thiolactone,NA,25,0
+240108_Smp_30ppt_A,Homocysteine thiolactone,NA,30,0
+240108_Smp_30ppt_B,Homocysteine thiolactone,NA,30,0
+240108_Smp_30ppt_Blk,Homocysteine thiolactone,10170.746675021705,30,0
+240108_Smp_35ppt_A,Homocysteine thiolactone,NA,35,0
+240108_Smp_35ppt_B,Homocysteine thiolactone,NA,35,0
+240108_Smp_35ppt_Blk,Homocysteine thiolactone,NA,35,0
+240108_Smp_40ppt_A,Homocysteine thiolactone,NA,40,0
+240108_Smp_40ppt_B,Homocysteine thiolactone,NA,40,0
+240108_Smp_40ppt_Blk,Homocysteine thiolactone,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,Homocysteine thiolactone,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Homocysteine thiolactone,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Homocysteine thiolactone,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Homocysteine thiolactone,NA,NA,4
+240108_Poo_Syn_Full1,Hordenine,53138.97597001442,NA,0
+240108_Poo_Syn_Full2,Hordenine,212197.3062677192,NA,0
+240108_Poo_Syn_Full3,Hordenine,68034.68811590351,NA,0
+240108_Poo_Syn_Half1,Hordenine,154428.0480703682,NA,0
+240108_Poo_Syn_Half2,Hordenine,172486.20293812672,NA,0
+240108_Poo_Syn_Half3,Hordenine,236021.53380499376,NA,0
+240108_Smp_25ppt_A,Hordenine,213465.09926929127,25,0
+240108_Smp_25ppt_B,Hordenine,174113.79334816243,25,0
+240108_Smp_25ppt_Blk,Hordenine,47577.53091645417,25,0
+240108_Smp_30ppt_A,Hordenine,60963.744337457676,30,0
+240108_Smp_30ppt_B,Hordenine,201139.69216268096,30,0
+240108_Smp_30ppt_Blk,Hordenine,52729.647301474055,30,0
+240108_Smp_35ppt_A,Hordenine,151675.0262910593,35,0
+240108_Smp_35ppt_B,Hordenine,120037.50268160911,35,0
+240108_Smp_35ppt_Blk,Hordenine,56150.696474755736,35,0
+240108_Smp_40ppt_A,Hordenine,99420.40780883121,40,0
+240108_Smp_40ppt_B,Hordenine,65197.578011598634,40,0
+240108_Smp_40ppt_Blk,Hordenine,102944.82361882768,40,0
+240108_Std_4uMStdsMix1InH2O_1,Hordenine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Hordenine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Hordenine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Hordenine,NA,NA,4
+240108_Poo_Syn_Full1,Hydroxyisoleucine,16691599.043431211,NA,0
+240108_Poo_Syn_Full2,Hydroxyisoleucine,16525308.66228656,NA,0
+240108_Poo_Syn_Full3,Hydroxyisoleucine,12453456.736501165,NA,0
+240108_Poo_Syn_Half1,Hydroxyisoleucine,8628184.719755717,NA,0
+240108_Poo_Syn_Half2,Hydroxyisoleucine,3414899.10592861,NA,0
+240108_Poo_Syn_Half3,Hydroxyisoleucine,16163801.2824523,NA,0
+240108_Smp_25ppt_A,Hydroxyisoleucine,2784613.996970745,25,0
+240108_Smp_25ppt_B,Hydroxyisoleucine,15607743.55818243,25,0
+240108_Smp_25ppt_Blk,Hydroxyisoleucine,317319.0352298001,25,0
+240108_Smp_30ppt_A,Hydroxyisoleucine,5246717.828888387,30,0
+240108_Smp_30ppt_B,Hydroxyisoleucine,5141275.803426188,30,0
+240108_Smp_30ppt_Blk,Hydroxyisoleucine,1184002.839653687,30,0
+240108_Smp_35ppt_A,Hydroxyisoleucine,34778686.78985075,35,0
+240108_Smp_35ppt_B,Hydroxyisoleucine,15639398.187007645,35,0
+240108_Smp_35ppt_Blk,Hydroxyisoleucine,2297494.7943392047,35,0
+240108_Smp_40ppt_A,Hydroxyisoleucine,12773344.53502641,40,0
+240108_Smp_40ppt_B,Hydroxyisoleucine,17811383.074322764,40,0
+240108_Smp_40ppt_Blk,Hydroxyisoleucine,840341.2987557704,40,0
+240108_Std_4uMStdsMix1InH2O_1,Hydroxyisoleucine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Hydroxyisoleucine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Hydroxyisoleucine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Hydroxyisoleucine,NA,NA,4
+240108_Poo_Syn_Full1,Hydroxyproline,13919353.872497851,NA,0
+240108_Poo_Syn_Full2,Hydroxyproline,14598629.90628266,NA,0
+240108_Poo_Syn_Full3,Hydroxyproline,15697962.570988271,NA,0
+240108_Poo_Syn_Half1,Hydroxyproline,15252209.940110913,NA,0
+240108_Poo_Syn_Half2,Hydroxyproline,14493837.044107497,NA,0
+240108_Poo_Syn_Half3,Hydroxyproline,14029445.842009388,NA,0
+240108_Smp_25ppt_A,Hydroxyproline,16335539.00544528,25,0
+240108_Smp_25ppt_B,Hydroxyproline,21065156.406303115,25,0
+240108_Smp_25ppt_Blk,Hydroxyproline,26875.879971375896,25,0
+240108_Smp_30ppt_A,Hydroxyproline,10597601.286790134,30,0
+240108_Smp_30ppt_B,Hydroxyproline,15010985.11736677,30,0
+240108_Smp_30ppt_Blk,Hydroxyproline,174409.6721762289,30,0
+240108_Smp_35ppt_A,Hydroxyproline,23861327.02976153,35,0
+240108_Smp_35ppt_B,Hydroxyproline,22339602.94673062,35,0
+240108_Smp_35ppt_Blk,Hydroxyproline,141292.64461089516,35,0
+240108_Smp_40ppt_A,Hydroxyproline,13851730.031419607,40,0
+240108_Smp_40ppt_B,Hydroxyproline,16047215.99474941,40,0
+240108_Smp_40ppt_Blk,Hydroxyproline,127705.13104070019,40,0
+240108_Std_4uMStdsMix1InH2O_1,Hydroxyproline,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Hydroxyproline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Hydroxyproline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Hydroxyproline,NA,NA,4
+240108_Poo_Syn_Full1,Hypotaurine,NA,NA,0
+240108_Poo_Syn_Full2,Hypotaurine,19596.807474647867,NA,0
+240108_Poo_Syn_Full3,Hypotaurine,NA,NA,0
+240108_Poo_Syn_Half1,Hypotaurine,NA,NA,0
+240108_Poo_Syn_Half2,Hypotaurine,NA,NA,0
+240108_Poo_Syn_Half3,Hypotaurine,NA,NA,0
+240108_Smp_25ppt_A,Hypotaurine,NA,25,0
+240108_Smp_25ppt_B,Hypotaurine,NA,25,0
+240108_Smp_25ppt_Blk,Hypotaurine,NA,25,0
+240108_Smp_30ppt_A,Hypotaurine,NA,30,0
+240108_Smp_30ppt_B,Hypotaurine,NA,30,0
+240108_Smp_30ppt_Blk,Hypotaurine,NA,30,0
+240108_Smp_35ppt_A,Hypotaurine,NA,35,0
+240108_Smp_35ppt_B,Hypotaurine,NA,35,0
+240108_Smp_35ppt_Blk,Hypotaurine,NA,35,0
+240108_Smp_40ppt_A,Hypotaurine,NA,40,0
+240108_Smp_40ppt_B,Hypotaurine,NA,40,0
+240108_Smp_40ppt_Blk,Hypotaurine,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Hypotaurine,NA,NA,6
+240108_Std_4uMStdsMix2InH2O_2,Hypotaurine,NA,NA,6
+240108_Std_4uMStdsMix2InSynMatrix_1,Hypotaurine,NA,NA,6
+240108_Std_4uMStdsMix2InSynMatrix_2,Hypotaurine,NA,NA,6
+240108_Poo_Syn_Full1,Hypoxanthine,9286542.703759488,NA,0
+240108_Poo_Syn_Full2,Hypoxanthine,5046186.8243513275,NA,0
+240108_Poo_Syn_Full3,Hypoxanthine,2907864.6947909077,NA,0
+240108_Poo_Syn_Half1,Hypoxanthine,8050592.866856985,NA,0
+240108_Poo_Syn_Half2,Hypoxanthine,3396901.486590492,NA,0
+240108_Poo_Syn_Half3,Hypoxanthine,10451577.314014792,NA,0
+240108_Smp_25ppt_A,Hypoxanthine,4217602.126824204,25,0
+240108_Smp_25ppt_B,Hypoxanthine,4135344.961664958,25,0
+240108_Smp_25ppt_Blk,Hypoxanthine,0,25,0
+240108_Smp_30ppt_A,Hypoxanthine,1876264.6640485511,30,0
+240108_Smp_30ppt_B,Hypoxanthine,2332199.5394143234,30,0
+240108_Smp_30ppt_Blk,Hypoxanthine,17133.590155718706,30,0
+240108_Smp_35ppt_A,Hypoxanthine,4994846.768510204,35,0
+240108_Smp_35ppt_B,Hypoxanthine,6334030.696908622,35,0
+240108_Smp_35ppt_Blk,Hypoxanthine,0,35,0
+240108_Smp_40ppt_A,Hypoxanthine,6297012.359718462,40,0
+240108_Smp_40ppt_B,Hypoxanthine,1875419.9495332583,40,0
+240108_Smp_40ppt_Blk,Hypoxanthine,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,Hypoxanthine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Hypoxanthine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Hypoxanthine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Hypoxanthine,NA,NA,4
+240108_Poo_Syn_Full1,L-2-Aminoadipic acid,2008730.3774814056,NA,0
+240108_Poo_Syn_Full2,L-2-Aminoadipic acid,1946818.987546613,NA,0
+240108_Poo_Syn_Full3,L-2-Aminoadipic acid,3010008.7666372936,NA,0
+240108_Poo_Syn_Half1,L-2-Aminoadipic acid,5005809.17472297,NA,0
+240108_Poo_Syn_Half2,L-2-Aminoadipic acid,123699.76692571773,NA,0
+240108_Poo_Syn_Half3,L-2-Aminoadipic acid,4788468.911400334,NA,0
+240108_Smp_25ppt_A,L-2-Aminoadipic acid,878858.7232740965,25,0
+240108_Smp_25ppt_B,L-2-Aminoadipic acid,1261020.0819833006,25,0
+240108_Smp_25ppt_Blk,L-2-Aminoadipic acid,86986.85225041409,25,0
+240108_Smp_30ppt_A,L-2-Aminoadipic acid,1824598.4612848745,30,0
+240108_Smp_30ppt_B,L-2-Aminoadipic acid,2566962.3705730084,30,0
+240108_Smp_30ppt_Blk,L-2-Aminoadipic acid,0,30,0
+240108_Smp_35ppt_A,L-2-Aminoadipic acid,10909750.839003356,35,0
+240108_Smp_35ppt_B,L-2-Aminoadipic acid,7344842.1134625785,35,0
+240108_Smp_35ppt_Blk,L-2-Aminoadipic acid,19619.57874251127,35,0
+240108_Smp_40ppt_A,L-2-Aminoadipic acid,2423776.9784843517,40,0
+240108_Smp_40ppt_B,L-2-Aminoadipic acid,3481483.0924996617,40,0
+240108_Smp_40ppt_Blk,L-2-Aminoadipic acid,0,40,0
+240108_Std_4uMStdsMix2InH2O_1,L-2-Aminoadipic acid,NA,NA,5
+240108_Std_4uMStdsMix2InH2O_2,L-2-Aminoadipic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_1,L-2-Aminoadipic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_2,L-2-Aminoadipic acid,NA,NA,5
+240108_Poo_Syn_Full1,L-Alanine,969712762.6822182,NA,0
+240108_Poo_Syn_Full2,L-Alanine,1039328824.9025499,NA,0
+240108_Poo_Syn_Full3,L-Alanine,1103783451.8251193,NA,0
+240108_Poo_Syn_Half1,L-Alanine,1093466873.8401723,NA,0
+240108_Poo_Syn_Half2,L-Alanine,1016263818.5144888,NA,0
+240108_Poo_Syn_Half3,L-Alanine,965239164.1197484,NA,0
+240108_Smp_25ppt_A,L-Alanine,1003198923.8716297,25,0
+240108_Smp_25ppt_B,L-Alanine,1340746487.83481,25,0
+240108_Smp_25ppt_Blk,L-Alanine,1437578.615830625,25,0
+240108_Smp_30ppt_A,L-Alanine,876382840.4940305,30,0
+240108_Smp_30ppt_B,L-Alanine,1413104183.842375,30,0
+240108_Smp_30ppt_Blk,L-Alanine,2200528.8556507365,30,0
+240108_Smp_35ppt_A,L-Alanine,1708567099.7836323,35,0
+240108_Smp_35ppt_B,L-Alanine,1608748576.1830564,35,0
+240108_Smp_35ppt_Blk,L-Alanine,628535.8448971456,35,0
+240108_Smp_40ppt_A,L-Alanine,903640450.2352176,40,0
+240108_Smp_40ppt_B,L-Alanine,988709601.7630521,40,0
+240108_Smp_40ppt_Blk,L-Alanine,5475282.8413816625,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Alanine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Alanine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Alanine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Alanine,NA,NA,4
+240108_Poo_Syn_Full1,L-Arginosuccinic acid,NA,NA,0
+240108_Poo_Syn_Full2,L-Arginosuccinic acid,NA,NA,0
+240108_Poo_Syn_Full3,L-Arginosuccinic acid,33645.008679559774,NA,0
+240108_Poo_Syn_Half1,L-Arginosuccinic acid,NA,NA,0
+240108_Poo_Syn_Half2,L-Arginosuccinic acid,NA,NA,0
+240108_Poo_Syn_Half3,L-Arginosuccinic acid,NA,NA,0
+240108_Smp_25ppt_A,L-Arginosuccinic acid,NA,25,0
+240108_Smp_25ppt_B,L-Arginosuccinic acid,92418.39726758866,25,0
+240108_Smp_25ppt_Blk,L-Arginosuccinic acid,NA,25,0
+240108_Smp_30ppt_A,L-Arginosuccinic acid,27222.683270000118,30,0
+240108_Smp_30ppt_B,L-Arginosuccinic acid,NA,30,0
+240108_Smp_30ppt_Blk,L-Arginosuccinic acid,NA,30,0
+240108_Smp_35ppt_A,L-Arginosuccinic acid,NA,35,0
+240108_Smp_35ppt_B,L-Arginosuccinic acid,NA,35,0
+240108_Smp_35ppt_Blk,L-Arginosuccinic acid,NA,35,0
+240108_Smp_40ppt_A,L-Arginosuccinic acid,193413.42803950654,40,0
+240108_Smp_40ppt_B,L-Arginosuccinic acid,114716.50985959881,40,0
+240108_Smp_40ppt_Blk,L-Arginosuccinic acid,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Arginosuccinic acid,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Arginosuccinic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Arginosuccinic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Arginosuccinic acid,NA,NA,4
+240108_Poo_Syn_Full1,L-Asparagine,1647445.7154836997,NA,0
+240108_Poo_Syn_Full2,L-Asparagine,1325060.3534315117,NA,0
+240108_Poo_Syn_Full3,L-Asparagine,1730102.6094363504,NA,0
+240108_Poo_Syn_Half1,L-Asparagine,1644824.7256333032,NA,0
+240108_Poo_Syn_Half2,L-Asparagine,1843019.2697766402,NA,0
+240108_Poo_Syn_Half3,L-Asparagine,2035044.8590802816,NA,0
+240108_Smp_25ppt_A,L-Asparagine,961167.5688986167,25,0
+240108_Smp_25ppt_B,L-Asparagine,964496.4045157944,25,0
+240108_Smp_25ppt_Blk,L-Asparagine,308559.9555850079,25,0
+240108_Smp_30ppt_A,L-Asparagine,1189903.049737863,30,0
+240108_Smp_30ppt_B,L-Asparagine,778607.8503210584,30,0
+240108_Smp_30ppt_Blk,L-Asparagine,228766.81310947586,30,0
+240108_Smp_35ppt_A,L-Asparagine,2826234.7101960806,35,0
+240108_Smp_35ppt_B,L-Asparagine,2403569.261409203,35,0
+240108_Smp_35ppt_Blk,L-Asparagine,607153.1723901415,35,0
+240108_Smp_40ppt_A,L-Asparagine,1628489.8590066943,40,0
+240108_Smp_40ppt_B,L-Asparagine,1639432.869123435,40,0
+240108_Smp_40ppt_Blk,L-Asparagine,517943.51001989935,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Asparagine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Asparagine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Asparagine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Asparagine,NA,NA,4
+240108_Poo_Syn_Full1,L-Aspartic acid,172919577.5496692,NA,0
+240108_Poo_Syn_Full2,L-Aspartic acid,169274872.82608634,NA,0
+240108_Poo_Syn_Full3,L-Aspartic acid,142306085.9919376,NA,0
+240108_Poo_Syn_Half1,L-Aspartic acid,161244282.14402997,NA,0
+240108_Poo_Syn_Half2,L-Aspartic acid,175566833.8010522,NA,0
+240108_Poo_Syn_Half3,L-Aspartic acid,151544664.8843965,NA,0
+240108_Smp_25ppt_A,L-Aspartic acid,155249673.74925226,25,0
+240108_Smp_25ppt_B,L-Aspartic acid,163316717.17325848,25,0
+240108_Smp_25ppt_Blk,L-Aspartic acid,189314.60228336285,25,0
+240108_Smp_30ppt_A,L-Aspartic acid,101249672.74777442,30,0
+240108_Smp_30ppt_B,L-Aspartic acid,137025001.94694445,30,0
+240108_Smp_30ppt_Blk,L-Aspartic acid,230584.1860392344,30,0
+240108_Smp_35ppt_A,L-Aspartic acid,190232273.30058828,35,0
+240108_Smp_35ppt_B,L-Aspartic acid,196645542.1716688,35,0
+240108_Smp_35ppt_Blk,L-Aspartic acid,170884.91645739615,35,0
+240108_Smp_40ppt_A,L-Aspartic acid,193648411.97401622,40,0
+240108_Smp_40ppt_B,L-Aspartic acid,213836084.18223763,40,0
+240108_Smp_40ppt_Blk,L-Aspartic acid,365950.2429641018,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Aspartic acid,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Aspartic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Aspartic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Aspartic acid,NA,NA,4
+240108_Poo_Syn_Full1,L-Cystathionine,NA,NA,0
+240108_Poo_Syn_Full2,L-Cystathionine,NA,NA,0
+240108_Poo_Syn_Full3,L-Cystathionine,NA,NA,0
+240108_Poo_Syn_Half1,L-Cystathionine,NA,NA,0
+240108_Poo_Syn_Half2,L-Cystathionine,NA,NA,0
+240108_Poo_Syn_Half3,L-Cystathionine,NA,NA,0
+240108_Smp_25ppt_A,L-Cystathionine,NA,25,0
+240108_Smp_25ppt_B,L-Cystathionine,NA,25,0
+240108_Smp_25ppt_Blk,L-Cystathionine,NA,25,0
+240108_Smp_30ppt_A,L-Cystathionine,NA,30,0
+240108_Smp_30ppt_B,L-Cystathionine,NA,30,0
+240108_Smp_30ppt_Blk,L-Cystathionine,NA,30,0
+240108_Smp_35ppt_A,L-Cystathionine,NA,35,0
+240108_Smp_35ppt_B,L-Cystathionine,NA,35,0
+240108_Smp_35ppt_Blk,L-Cystathionine,NA,35,0
+240108_Smp_40ppt_A,L-Cystathionine,NA,40,0
+240108_Smp_40ppt_B,L-Cystathionine,NA,40,0
+240108_Smp_40ppt_Blk,L-Cystathionine,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,L-Cystathionine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,L-Cystathionine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,L-Cystathionine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,L-Cystathionine,NA,NA,4
+240108_Poo_Syn_Full1,L-Cystine,118915.8508864529,NA,0
+240108_Poo_Syn_Full2,L-Cystine,142512.38445494213,NA,0
+240108_Poo_Syn_Full3,L-Cystine,187326.08734943173,NA,0
+240108_Poo_Syn_Half1,L-Cystine,0,NA,0
+240108_Poo_Syn_Half2,L-Cystine,74487.11275942749,NA,0
+240108_Poo_Syn_Half3,L-Cystine,48300.35773078606,NA,0
+240108_Smp_25ppt_A,L-Cystine,79132.95371038622,25,0
+240108_Smp_25ppt_B,L-Cystine,40439.85757170078,25,0
+240108_Smp_25ppt_Blk,L-Cystine,0,25,0
+240108_Smp_30ppt_A,L-Cystine,0,30,0
+240108_Smp_30ppt_B,L-Cystine,0,30,0
+240108_Smp_30ppt_Blk,L-Cystine,0,30,0
+240108_Smp_35ppt_A,L-Cystine,951714.0325574772,35,0
+240108_Smp_35ppt_B,L-Cystine,120289.58690804434,35,0
+240108_Smp_35ppt_Blk,L-Cystine,0,35,0
+240108_Smp_40ppt_A,L-Cystine,245768.2811202879,40,0
+240108_Smp_40ppt_B,L-Cystine,584966.4667247531,40,0
+240108_Smp_40ppt_Blk,L-Cystine,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Cystine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Cystine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Cystine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Cystine,NA,NA,4
+240108_Poo_Syn_Full1,L-Glutamic acid,9355548735.325169,NA,0
+240108_Poo_Syn_Full2,L-Glutamic acid,9611641264.278774,NA,0
+240108_Poo_Syn_Full3,L-Glutamic acid,9990106897.845917,NA,0
+240108_Poo_Syn_Half1,L-Glutamic acid,10005469051.344334,NA,0
+240108_Poo_Syn_Half2,L-Glutamic acid,9799919920.578594,NA,0
+240108_Poo_Syn_Half3,L-Glutamic acid,10711615725.475134,NA,0
+240108_Smp_25ppt_A,L-Glutamic acid,6330003528.86009,25,0
+240108_Smp_25ppt_B,L-Glutamic acid,7413648783.031005,25,0
+240108_Smp_25ppt_Blk,L-Glutamic acid,1407453.006772903,25,0
+240108_Smp_30ppt_A,L-Glutamic acid,6542680436.683799,30,0
+240108_Smp_30ppt_B,L-Glutamic acid,9138226514.657885,30,0
+240108_Smp_30ppt_Blk,L-Glutamic acid,2268344.2860993757,30,0
+240108_Smp_35ppt_A,L-Glutamic acid,17044242257.978598,35,0
+240108_Smp_35ppt_B,L-Glutamic acid,15855597491.024443,35,0
+240108_Smp_35ppt_Blk,L-Glutamic acid,1332663.029150645,35,0
+240108_Smp_40ppt_A,L-Glutamic acid,11239055978.178923,40,0
+240108_Smp_40ppt_B,L-Glutamic acid,11722606632.740667,40,0
+240108_Smp_40ppt_Blk,L-Glutamic acid,11047958.03428132,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Glutamic acid,NA,NA,4
+240108_Poo_Syn_Full1,L-Glutamine,1022979661.146353,NA,0
+240108_Poo_Syn_Full2,L-Glutamine,1085289255.7731745,NA,0
+240108_Poo_Syn_Full3,L-Glutamine,1153961371.7703216,NA,0
+240108_Poo_Syn_Half1,L-Glutamine,995408151.2045795,NA,0
+240108_Poo_Syn_Half2,L-Glutamine,1000629267.8781838,NA,0
+240108_Poo_Syn_Half3,L-Glutamine,994166960.993743,NA,0
+240108_Smp_25ppt_A,L-Glutamine,666395955.6397614,25,0
+240108_Smp_25ppt_B,L-Glutamine,940600116.9461795,25,0
+240108_Smp_25ppt_Blk,L-Glutamine,677642.253371817,25,0
+240108_Smp_30ppt_A,L-Glutamine,766040010.1152995,30,0
+240108_Smp_30ppt_B,L-Glutamine,839390424.6573184,30,0
+240108_Smp_30ppt_Blk,L-Glutamine,234811.5469016382,30,0
+240108_Smp_35ppt_A,L-Glutamine,2685346837.593368,35,0
+240108_Smp_35ppt_B,L-Glutamine,2195473095.307229,35,0
+240108_Smp_35ppt_Blk,L-Glutamine,934391.3216864122,35,0
+240108_Smp_40ppt_A,L-Glutamine,711778026.6292928,40,0
+240108_Smp_40ppt_B,L-Glutamine,797913662.2582893,40,0
+240108_Smp_40ppt_Blk,L-Glutamine,878375.8966419413,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Glutamine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Glutamine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Glutamine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Glutamine,NA,NA,4
+240108_Poo_Syn_Full1,L-Histidine,NA,NA,0
+240108_Poo_Syn_Full2,L-Histidine,NA,NA,0
+240108_Poo_Syn_Full3,L-Histidine,NA,NA,0
+240108_Poo_Syn_Half1,L-Histidine,NA,NA,0
+240108_Poo_Syn_Half2,L-Histidine,1563016.64721783,NA,0
+240108_Poo_Syn_Half3,L-Histidine,NA,NA,0
+240108_Smp_25ppt_A,L-Histidine,NA,25,0
+240108_Smp_25ppt_B,L-Histidine,NA,25,0
+240108_Smp_25ppt_Blk,L-Histidine,59564.699247472076,25,0
+240108_Smp_30ppt_A,L-Histidine,NA,30,0
+240108_Smp_30ppt_B,L-Histidine,NA,30,0
+240108_Smp_30ppt_Blk,L-Histidine,NA,30,0
+240108_Smp_35ppt_A,L-Histidine,NA,35,0
+240108_Smp_35ppt_B,L-Histidine,NA,35,0
+240108_Smp_35ppt_Blk,L-Histidine,NA,35,0
+240108_Smp_40ppt_A,L-Histidine,NA,40,0
+240108_Smp_40ppt_B,L-Histidine,874110.7040368249,40,0
+240108_Smp_40ppt_Blk,L-Histidine,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Histidine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Histidine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Histidine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Histidine,NA,NA,4
+240108_Poo_Syn_Full1,L-Homocystine,113291.39216054857,NA,0
+240108_Poo_Syn_Full2,L-Homocystine,125588.76312585559,NA,0
+240108_Poo_Syn_Full3,L-Homocystine,20274.575743571142,NA,0
+240108_Poo_Syn_Half1,L-Homocystine,134151.314307652,NA,0
+240108_Poo_Syn_Half2,L-Homocystine,62009.24948064255,NA,0
+240108_Poo_Syn_Half3,L-Homocystine,0,NA,0
+240108_Smp_25ppt_A,L-Homocystine,72398.10595137523,25,0
+240108_Smp_25ppt_B,L-Homocystine,22423.315711439296,25,0
+240108_Smp_25ppt_Blk,L-Homocystine,204608.64753839362,25,0
+240108_Smp_30ppt_A,L-Homocystine,89465.68905338772,30,0
+240108_Smp_30ppt_B,L-Homocystine,50955.523062639,30,0
+240108_Smp_30ppt_Blk,L-Homocystine,128041.80754654233,30,0
+240108_Smp_35ppt_A,L-Homocystine,17058.226019537928,35,0
+240108_Smp_35ppt_B,L-Homocystine,18939.801437209528,35,0
+240108_Smp_35ppt_Blk,L-Homocystine,309505.4824752604,35,0
+240108_Smp_40ppt_A,L-Homocystine,246275.94963297347,40,0
+240108_Smp_40ppt_B,L-Homocystine,118081.79310217874,40,0
+240108_Smp_40ppt_Blk,L-Homocystine,183555.49627430405,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Homocystine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Homocystine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Homocystine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Homocystine,NA,NA,4
+240108_Poo_Syn_Full1,L-Homoserine,52332462.19665374,NA,0
+240108_Poo_Syn_Full2,L-Homoserine,52834480.78034502,NA,0
+240108_Poo_Syn_Full3,L-Homoserine,64480588.665458344,NA,0
+240108_Poo_Syn_Half1,L-Homoserine,59946458.74273353,NA,0
+240108_Poo_Syn_Half2,L-Homoserine,54830955.46480251,NA,0
+240108_Poo_Syn_Half3,L-Homoserine,57347099.7681451,NA,0
+240108_Smp_25ppt_A,L-Homoserine,50489926.14847051,25,0
+240108_Smp_25ppt_B,L-Homoserine,65157070.82224257,25,0
+240108_Smp_25ppt_Blk,L-Homoserine,313169.18703082134,25,0
+240108_Smp_30ppt_A,L-Homoserine,50693765.15795597,30,0
+240108_Smp_30ppt_B,L-Homoserine,73261804.00225706,30,0
+240108_Smp_30ppt_Blk,L-Homoserine,483137.62262894365,30,0
+240108_Smp_35ppt_A,L-Homoserine,89040083.6095767,35,0
+240108_Smp_35ppt_B,L-Homoserine,74358112.20669003,35,0
+240108_Smp_35ppt_Blk,L-Homoserine,196580.14110825377,35,0
+240108_Smp_40ppt_A,L-Homoserine,65119660.32329587,40,0
+240108_Smp_40ppt_B,L-Homoserine,53863059.43391443,40,0
+240108_Smp_40ppt_Blk,L-Homoserine,152458.5729846985,40,0
+240108_Std_4uMStdsMix2InH2O_1,L-Homoserine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,L-Homoserine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,L-Homoserine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,L-Homoserine,NA,NA,4
+240108_Poo_Syn_Full1,L-Hydroxylysine,NA,NA,0
+240108_Poo_Syn_Full2,L-Hydroxylysine,NA,NA,0
+240108_Poo_Syn_Full3,L-Hydroxylysine,NA,NA,0
+240108_Poo_Syn_Half1,L-Hydroxylysine,NA,NA,0
+240108_Poo_Syn_Half2,L-Hydroxylysine,140289.79768982434,NA,0
+240108_Poo_Syn_Half3,L-Hydroxylysine,NA,NA,0
+240108_Smp_25ppt_A,L-Hydroxylysine,NA,25,0
+240108_Smp_25ppt_B,L-Hydroxylysine,NA,25,0
+240108_Smp_25ppt_Blk,L-Hydroxylysine,NA,25,0
+240108_Smp_30ppt_A,L-Hydroxylysine,NA,30,0
+240108_Smp_30ppt_B,L-Hydroxylysine,NA,30,0
+240108_Smp_30ppt_Blk,L-Hydroxylysine,NA,30,0
+240108_Smp_35ppt_A,L-Hydroxylysine,NA,35,0
+240108_Smp_35ppt_B,L-Hydroxylysine,14764.333614596055,35,0
+240108_Smp_35ppt_Blk,L-Hydroxylysine,NA,35,0
+240108_Smp_40ppt_A,L-Hydroxylysine,NA,40,0
+240108_Smp_40ppt_B,L-Hydroxylysine,NA,40,0
+240108_Smp_40ppt_Blk,L-Hydroxylysine,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Hydroxylysine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Hydroxylysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Hydroxylysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Hydroxylysine,NA,NA,4
+240108_Poo_Syn_Full1,L-Leucine,439703166.8092749,NA,0
+240108_Poo_Syn_Full2,L-Leucine,444653310.02725905,NA,0
+240108_Poo_Syn_Full3,L-Leucine,453252566.4810272,NA,0
+240108_Poo_Syn_Half1,L-Leucine,408118292.00888014,NA,0
+240108_Poo_Syn_Half2,L-Leucine,459410899.09097147,NA,0
+240108_Poo_Syn_Half3,L-Leucine,436009053.388614,NA,0
+240108_Smp_25ppt_A,L-Leucine,401056619.8673998,25,0
+240108_Smp_25ppt_B,L-Leucine,469244364.25669897,25,0
+240108_Smp_25ppt_Blk,L-Leucine,3793821.4024159005,25,0
+240108_Smp_30ppt_A,L-Leucine,336549073.32044655,30,0
+240108_Smp_30ppt_B,L-Leucine,495445937.8854161,30,0
+240108_Smp_30ppt_Blk,L-Leucine,4216916.529603787,30,0
+240108_Smp_35ppt_A,L-Leucine,858287218.545645,35,0
+240108_Smp_35ppt_B,L-Leucine,790662786.6284921,35,0
+240108_Smp_35ppt_Blk,L-Leucine,384304.77056555275,35,0
+240108_Smp_40ppt_A,L-Leucine,436184714.0852506,40,0
+240108_Smp_40ppt_B,L-Leucine,492361922.2766513,40,0
+240108_Smp_40ppt_Blk,L-Leucine,2870260.144911073,40,0
+240108_Std_4uMStdsMix2InH2O_1,L-Leucine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,L-Leucine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,L-Leucine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,L-Leucine,NA,NA,4
+240108_Poo_Syn_Full1,L-Lysine,32809914.32238311,NA,0
+240108_Poo_Syn_Full2,L-Lysine,31546397.8789652,NA,0
+240108_Poo_Syn_Full3,L-Lysine,35453165.44770821,NA,0
+240108_Poo_Syn_Half1,L-Lysine,30053603.24422742,NA,0
+240108_Poo_Syn_Half2,L-Lysine,26613764.55478957,NA,0
+240108_Poo_Syn_Half3,L-Lysine,33179579.702796035,NA,0
+240108_Smp_25ppt_A,L-Lysine,26954366.72854747,25,0
+240108_Smp_25ppt_B,L-Lysine,30440523.54160396,25,0
+240108_Smp_25ppt_Blk,L-Lysine,30396.900801841824,25,0
+240108_Smp_30ppt_A,L-Lysine,21357190.208685156,30,0
+240108_Smp_30ppt_B,L-Lysine,33277336.04381419,30,0
+240108_Smp_30ppt_Blk,L-Lysine,25791.32770595088,30,0
+240108_Smp_35ppt_A,L-Lysine,71084017.55304283,35,0
+240108_Smp_35ppt_B,L-Lysine,59335192.429888226,35,0
+240108_Smp_35ppt_Blk,L-Lysine,30265.447872457727,35,0
+240108_Smp_40ppt_A,L-Lysine,24723441.846585285,40,0
+240108_Smp_40ppt_B,L-Lysine,30394052.994953755,40,0
+240108_Smp_40ppt_Blk,L-Lysine,206222.802116677,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Lysine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Lysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Lysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Lysine,NA,NA,4
+240108_Poo_Syn_Full1,L-Methionine S-oxide,818862.2071403606,NA,0
+240108_Poo_Syn_Full2,L-Methionine S-oxide,373267.2679856777,NA,0
+240108_Poo_Syn_Full3,L-Methionine S-oxide,300691.22320216574,NA,0
+240108_Poo_Syn_Half1,L-Methionine S-oxide,766575.6224933914,NA,0
+240108_Poo_Syn_Half2,L-Methionine S-oxide,693621.4672961773,NA,0
+240108_Poo_Syn_Half3,L-Methionine S-oxide,680462.5387109653,NA,0
+240108_Smp_25ppt_A,L-Methionine S-oxide,398823.17365249567,25,0
+240108_Smp_25ppt_B,L-Methionine S-oxide,351420.0600160714,25,0
+240108_Smp_25ppt_Blk,L-Methionine S-oxide,0,25,0
+240108_Smp_30ppt_A,L-Methionine S-oxide,132100.67198864778,30,0
+240108_Smp_30ppt_B,L-Methionine S-oxide,272623.7759250778,30,0
+240108_Smp_30ppt_Blk,L-Methionine S-oxide,0,30,0
+240108_Smp_35ppt_A,L-Methionine S-oxide,1897213.466441354,35,0
+240108_Smp_35ppt_B,L-Methionine S-oxide,2103148.2303908495,35,0
+240108_Smp_35ppt_Blk,L-Methionine S-oxide,0,35,0
+240108_Smp_40ppt_A,L-Methionine S-oxide,468382.05638312205,40,0
+240108_Smp_40ppt_B,L-Methionine S-oxide,387484.99783064076,40,0
+240108_Smp_40ppt_Blk,L-Methionine S-oxide,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Methionine S-oxide,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Methionine S-oxide,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Methionine S-oxide,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Methionine S-oxide,NA,NA,4
+240108_Poo_Syn_Full1,L-Ornithine,1447879.0972282013,NA,0
+240108_Poo_Syn_Full2,L-Ornithine,1098049.297825223,NA,0
+240108_Poo_Syn_Full3,L-Ornithine,1669499.1789148052,NA,0
+240108_Poo_Syn_Half1,L-Ornithine,873145.6773717542,NA,0
+240108_Poo_Syn_Half2,L-Ornithine,1160895.494745932,NA,0
+240108_Poo_Syn_Half3,L-Ornithine,583285.1954505581,NA,0
+240108_Smp_25ppt_A,L-Ornithine,1475406.9039294277,25,0
+240108_Smp_25ppt_B,L-Ornithine,1869623.1956618484,25,0
+240108_Smp_25ppt_Blk,L-Ornithine,148252.4177933594,25,0
+240108_Smp_30ppt_A,L-Ornithine,1819575.5745759073,30,0
+240108_Smp_30ppt_B,L-Ornithine,345543.70742809196,30,0
+240108_Smp_30ppt_Blk,L-Ornithine,181262.2220250443,30,0
+240108_Smp_35ppt_A,L-Ornithine,1860906.2309957233,35,0
+240108_Smp_35ppt_B,L-Ornithine,1185744.2248060417,35,0
+240108_Smp_35ppt_Blk,L-Ornithine,44560.71210187533,35,0
+240108_Smp_40ppt_A,L-Ornithine,1406615.6633844275,40,0
+240108_Smp_40ppt_B,L-Ornithine,1377582.6352194068,40,0
+240108_Smp_40ppt_Blk,L-Ornithine,76710.26395712646,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Ornithine,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,L-Ornithine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Ornithine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Ornithine,NA,NA,5
+240108_Poo_Syn_Full1,L-Proline,631165978.1916203,NA,0
+240108_Poo_Syn_Full2,L-Proline,615159701.9589142,NA,0
+240108_Poo_Syn_Full3,L-Proline,625766555.087407,NA,0
+240108_Poo_Syn_Half1,L-Proline,645387612.2884568,NA,0
+240108_Poo_Syn_Half2,L-Proline,623949225.5561172,NA,0
+240108_Poo_Syn_Half3,L-Proline,612151061.4297379,NA,0
+240108_Smp_25ppt_A,L-Proline,502491112.39929736,25,0
+240108_Smp_25ppt_B,L-Proline,577789253.2022911,25,0
+240108_Smp_25ppt_Blk,L-Proline,5219783.188333949,25,0
+240108_Smp_30ppt_A,L-Proline,436943860.24255663,30,0
+240108_Smp_30ppt_B,L-Proline,614326650.0238315,30,0
+240108_Smp_30ppt_Blk,L-Proline,5752296.91559123,30,0
+240108_Smp_35ppt_A,L-Proline,1309764451.792489,35,0
+240108_Smp_35ppt_B,L-Proline,1042663435.8689737,35,0
+240108_Smp_35ppt_Blk,L-Proline,3949992.4415828814,35,0
+240108_Smp_40ppt_A,L-Proline,595011151.8924129,40,0
+240108_Smp_40ppt_B,L-Proline,689778525.8453147,40,0
+240108_Smp_40ppt_Blk,L-Proline,7100132.785901379,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Proline,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Proline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Proline,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Proline,NA,NA,4
+240108_Poo_Syn_Full1,L-Serine,87204316.72066958,NA,0
+240108_Poo_Syn_Full2,L-Serine,88845797.91860484,NA,0
+240108_Poo_Syn_Full3,L-Serine,91631102.42218518,NA,0
+240108_Poo_Syn_Half1,L-Serine,85407759.38807288,NA,0
+240108_Poo_Syn_Half2,L-Serine,81246570.83453023,NA,0
+240108_Poo_Syn_Half3,L-Serine,80137898.71188638,NA,0
+240108_Smp_25ppt_A,L-Serine,96146692.94691998,25,0
+240108_Smp_25ppt_B,L-Serine,123908956.82645589,25,0
+240108_Smp_25ppt_Blk,L-Serine,1075401.0091612742,25,0
+240108_Smp_30ppt_A,L-Serine,69636610.44928996,30,0
+240108_Smp_30ppt_B,L-Serine,100447358.08722736,30,0
+240108_Smp_30ppt_Blk,L-Serine,1524412.5238785401,30,0
+240108_Smp_35ppt_A,L-Serine,60891841.063449144,35,0
+240108_Smp_35ppt_B,L-Serine,59322421.73133647,35,0
+240108_Smp_35ppt_Blk,L-Serine,828221.9624611118,35,0
+240108_Smp_40ppt_A,L-Serine,120215216.61126466,40,0
+240108_Smp_40ppt_B,L-Serine,131926666.16047187,40,0
+240108_Smp_40ppt_Blk,L-Serine,2149365.234115325,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Serine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Serine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Serine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Serine,NA,NA,4
+240108_Poo_Syn_Full1,L-Threonine,68851341.41689946,NA,0
+240108_Poo_Syn_Full2,L-Threonine,64796532.63279844,NA,0
+240108_Poo_Syn_Full3,L-Threonine,74663125.30161537,NA,0
+240108_Poo_Syn_Half1,L-Threonine,84211727.31982271,NA,0
+240108_Poo_Syn_Half2,L-Threonine,89486996.05183856,NA,0
+240108_Poo_Syn_Half3,L-Threonine,85935273.56264672,NA,0
+240108_Smp_25ppt_A,L-Threonine,73379082.74278145,25,0
+240108_Smp_25ppt_B,L-Threonine,97779881.15253833,25,0
+240108_Smp_25ppt_Blk,L-Threonine,2020537.984410849,25,0
+240108_Smp_30ppt_A,L-Threonine,60376926.83482905,30,0
+240108_Smp_30ppt_B,L-Threonine,90121703.04233941,30,0
+240108_Smp_30ppt_Blk,L-Threonine,1324936.309836279,30,0
+240108_Smp_35ppt_A,L-Threonine,99654190.12373184,35,0
+240108_Smp_35ppt_B,L-Threonine,98411337.65784973,35,0
+240108_Smp_35ppt_Blk,L-Threonine,811120.9636874421,35,0
+240108_Smp_40ppt_A,L-Threonine,61546862.57561032,40,0
+240108_Smp_40ppt_B,L-Threonine,73377429.03772382,40,0
+240108_Smp_40ppt_Blk,L-Threonine,730477.4606204429,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Threonine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Threonine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Threonine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Threonine,NA,NA,4
+240108_Poo_Syn_Full1,L-Tyrosine,38894660.15242115,NA,0
+240108_Poo_Syn_Full2,L-Tyrosine,38223780.09410055,NA,0
+240108_Poo_Syn_Full3,L-Tyrosine,38356926.90679445,NA,0
+240108_Poo_Syn_Half1,L-Tyrosine,37313046.57960708,NA,0
+240108_Poo_Syn_Half2,L-Tyrosine,37700844.09848017,NA,0
+240108_Poo_Syn_Half3,L-Tyrosine,38069897.68112089,NA,0
+240108_Smp_25ppt_A,L-Tyrosine,31014978.557721365,25,0
+240108_Smp_25ppt_B,L-Tyrosine,35410722.94482567,25,0
+240108_Smp_25ppt_Blk,L-Tyrosine,0,25,0
+240108_Smp_30ppt_A,L-Tyrosine,30211787.18793133,30,0
+240108_Smp_30ppt_B,L-Tyrosine,39406635.05658471,30,0
+240108_Smp_30ppt_Blk,L-Tyrosine,204767.0654675348,30,0
+240108_Smp_35ppt_A,L-Tyrosine,89701471.35670999,35,0
+240108_Smp_35ppt_B,L-Tyrosine,79828038.64192697,35,0
+240108_Smp_35ppt_Blk,L-Tyrosine,0,35,0
+240108_Smp_40ppt_A,L-Tyrosine,29595798.295864,40,0
+240108_Smp_40ppt_B,L-Tyrosine,34734432.159911446,40,0
+240108_Smp_40ppt_Blk,L-Tyrosine,124771.20821854117,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Tyrosine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Tyrosine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Tyrosine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Tyrosine,NA,NA,4
+240108_Poo_Syn_Full1,L-Valine,3102438078.35372,NA,0
+240108_Poo_Syn_Full2,L-Valine,1512921738.4924078,NA,0
+240108_Poo_Syn_Full3,L-Valine,2735070552.194381,NA,0
+240108_Poo_Syn_Half1,L-Valine,1183725041.1864405,NA,0
+240108_Poo_Syn_Half2,L-Valine,3659306981.6690154,NA,0
+240108_Poo_Syn_Half3,L-Valine,2477840543.9044585,NA,0
+240108_Smp_25ppt_A,L-Valine,48789955.28885478,25,0
+240108_Smp_25ppt_B,L-Valine,1648823052.8055413,25,0
+240108_Smp_25ppt_Blk,L-Valine,200132056.2667099,25,0
+240108_Smp_30ppt_A,L-Valine,447975395.99841875,30,0
+240108_Smp_30ppt_B,L-Valine,655014794.2618649,30,0
+240108_Smp_30ppt_Blk,L-Valine,873070241.1933467,30,0
+240108_Smp_35ppt_A,L-Valine,10519818838.160175,35,0
+240108_Smp_35ppt_B,L-Valine,5674775450.439042,35,0
+240108_Smp_35ppt_Blk,L-Valine,953712419.665716,35,0
+240108_Smp_40ppt_A,L-Valine,6153129995.968976,40,0
+240108_Smp_40ppt_B,L-Valine,5591328954.730372,40,0
+240108_Smp_40ppt_Blk,L-Valine,1143649572.6475008,40,0
+240108_Std_4uMStdsMix1InH2O_1,L-Valine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Valine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Valine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Valine,NA,NA,4
+240108_Poo_Syn_Full1,Melamine,34187408.79494372,NA,0
+240108_Poo_Syn_Full2,Melamine,38396510.750949115,NA,0
+240108_Poo_Syn_Full3,Melamine,36621039.12119123,NA,0
+240108_Poo_Syn_Half1,Melamine,36435064.526183814,NA,0
+240108_Poo_Syn_Half2,Melamine,35890051.333187364,NA,0
+240108_Poo_Syn_Half3,Melamine,32127203.60136346,NA,0
+240108_Smp_25ppt_A,Melamine,11108920.802532893,25,0
+240108_Smp_25ppt_B,Melamine,11906624.617384639,25,0
+240108_Smp_25ppt_Blk,Melamine,4738537.67933631,25,0
+240108_Smp_30ppt_A,Melamine,23847071.154684857,30,0
+240108_Smp_30ppt_B,Melamine,20108537.27274837,30,0
+240108_Smp_30ppt_Blk,Melamine,5517241.579493969,30,0
+240108_Smp_35ppt_A,Melamine,37872167.025363795,35,0
+240108_Smp_35ppt_B,Melamine,53774149.682231806,35,0
+240108_Smp_35ppt_Blk,Melamine,5254944.479594374,35,0
+240108_Smp_40ppt_A,Melamine,125325174.91577318,40,0
+240108_Smp_40ppt_B,Melamine,50264896.8349588,40,0
+240108_Smp_40ppt_Blk,Melamine,2749483.604949336,40,0
+240108_Std_4uMStdsMix1InH2O_1,Melamine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Melamine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Melamine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Melamine,NA,NA,4
+240108_Poo_Syn_Full1,Muramic acid,32083.97054874195,NA,0
+240108_Poo_Syn_Full2,Muramic acid,88096.05784539791,NA,0
+240108_Poo_Syn_Full3,Muramic acid,24321710.633298922,NA,0
+240108_Poo_Syn_Half1,Muramic acid,NA,NA,0
+240108_Poo_Syn_Half2,Muramic acid,17381403.751331024,NA,0
+240108_Poo_Syn_Half3,Muramic acid,20955062.187642053,NA,0
+240108_Smp_25ppt_A,Muramic acid,13968410.772634398,25,0
+240108_Smp_25ppt_B,Muramic acid,17727828.77440735,25,0
+240108_Smp_25ppt_Blk,Muramic acid,58530.66689834221,25,0
+240108_Smp_30ppt_A,Muramic acid,14905516.793525793,30,0
+240108_Smp_30ppt_B,Muramic acid,18597421.46315431,30,0
+240108_Smp_30ppt_Blk,Muramic acid,0,30,0
+240108_Smp_35ppt_A,Muramic acid,28508164.409443535,35,0
+240108_Smp_35ppt_B,Muramic acid,27543530.24645892,35,0
+240108_Smp_35ppt_Blk,Muramic acid,25475.872449899445,35,0
+240108_Smp_40ppt_A,Muramic acid,22978728.665145405,40,0
+240108_Smp_40ppt_B,Muramic acid,29240685.44243869,40,0
+240108_Smp_40ppt_Blk,Muramic acid,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,Muramic acid,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Muramic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Muramic acid,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Muramic acid,NA,NA,4
+240108_Poo_Syn_Full1,N-Acetyl-D-glucosamine,1809527.5914616066,NA,0
+240108_Poo_Syn_Full2,N-Acetyl-D-glucosamine,2126406.701951375,NA,0
+240108_Poo_Syn_Full3,N-Acetyl-D-glucosamine,2366447.109589741,NA,0
+240108_Poo_Syn_Half1,N-Acetyl-D-glucosamine,1838961.5002922711,NA,0
+240108_Poo_Syn_Half2,N-Acetyl-D-glucosamine,2168292.557112444,NA,0
+240108_Poo_Syn_Half3,N-Acetyl-D-glucosamine,1740031.9387789366,NA,0
+240108_Smp_25ppt_A,N-Acetyl-D-glucosamine,2108756.898050766,25,0
+240108_Smp_25ppt_B,N-Acetyl-D-glucosamine,2169861.4970792267,25,0
+240108_Smp_25ppt_Blk,N-Acetyl-D-glucosamine,49575.69462456312,25,0
+240108_Smp_30ppt_A,N-Acetyl-D-glucosamine,2191661.6871642447,30,0
+240108_Smp_30ppt_B,N-Acetyl-D-glucosamine,2664587.2935946262,30,0
+240108_Smp_30ppt_Blk,N-Acetyl-D-glucosamine,27175.985736923685,30,0
+240108_Smp_35ppt_A,N-Acetyl-D-glucosamine,23999151.351829953,35,0
+240108_Smp_35ppt_B,N-Acetyl-D-glucosamine,8572321.57000302,35,0
+240108_Smp_35ppt_Blk,N-Acetyl-D-glucosamine,108088.9677762378,35,0
+240108_Smp_40ppt_A,N-Acetyl-D-glucosamine,2237421.011906419,40,0
+240108_Smp_40ppt_B,N-Acetyl-D-glucosamine,1504381.6953411528,40,0
+240108_Smp_40ppt_Blk,N-Acetyl-D-glucosamine,164566.81153285544,40,0
+240108_Std_4uMStdsMix2InH2O_1,N-Acetyl-D-glucosamine,NA,NA,6
+240108_Std_4uMStdsMix2InH2O_2,N-Acetyl-D-glucosamine,NA,NA,6
+240108_Std_4uMStdsMix2InSynMatrix_1,N-Acetyl-D-glucosamine,NA,NA,6
+240108_Std_4uMStdsMix2InSynMatrix_2,N-Acetyl-D-glucosamine,NA,NA,6
+240108_Poo_Syn_Full1,N-Acetylmuramic acid,NA,NA,0
+240108_Poo_Syn_Full2,N-Acetylmuramic acid,28572.202705725536,NA,0
+240108_Poo_Syn_Full3,N-Acetylmuramic acid,29027.261030210517,NA,0
+240108_Poo_Syn_Half1,N-Acetylmuramic acid,NA,NA,0
+240108_Poo_Syn_Half2,N-Acetylmuramic acid,NA,NA,0
+240108_Poo_Syn_Half3,N-Acetylmuramic acid,88418.79823679956,NA,0
+240108_Smp_25ppt_A,N-Acetylmuramic acid,29245.856022938045,25,0
+240108_Smp_25ppt_B,N-Acetylmuramic acid,16874.579479241675,25,0
+240108_Smp_25ppt_Blk,N-Acetylmuramic acid,96844.93062763897,25,0
+240108_Smp_30ppt_A,N-Acetylmuramic acid,NA,30,0
+240108_Smp_30ppt_B,N-Acetylmuramic acid,31270.020465293554,30,0
+240108_Smp_30ppt_Blk,N-Acetylmuramic acid,NA,30,0
+240108_Smp_35ppt_A,N-Acetylmuramic acid,NA,35,0
+240108_Smp_35ppt_B,N-Acetylmuramic acid,88554.37637955617,35,0
+240108_Smp_35ppt_Blk,N-Acetylmuramic acid,NA,35,0
+240108_Smp_40ppt_A,N-Acetylmuramic acid,NA,40,0
+240108_Smp_40ppt_B,N-Acetylmuramic acid,57153.383232840606,40,0
+240108_Smp_40ppt_Blk,N-Acetylmuramic acid,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,N-Acetylmuramic acid,NA,NA,5
+240108_Std_4uMStdsMix2InH2O_2,N-Acetylmuramic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_1,N-Acetylmuramic acid,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_2,N-Acetylmuramic acid,NA,NA,5
+240108_Poo_Syn_Full1,N-Methyl-L-glutamic acid,2430363.8619697173,NA,0
+240108_Poo_Syn_Full2,N-Methyl-L-glutamic acid,2060115.2601296154,NA,0
+240108_Poo_Syn_Full3,N-Methyl-L-glutamic acid,2925795.810896731,NA,0
+240108_Poo_Syn_Half1,N-Methyl-L-glutamic acid,3775060.149280221,NA,0
+240108_Poo_Syn_Half2,N-Methyl-L-glutamic acid,3270977.828292974,NA,0
+240108_Poo_Syn_Half3,N-Methyl-L-glutamic acid,5362345.425008873,NA,0
+240108_Smp_25ppt_A,N-Methyl-L-glutamic acid,864245.6902189784,25,0
+240108_Smp_25ppt_B,N-Methyl-L-glutamic acid,1310770.6347229725,25,0
+240108_Smp_25ppt_Blk,N-Methyl-L-glutamic acid,0,25,0
+240108_Smp_30ppt_A,N-Methyl-L-glutamic acid,1856909.9780853523,30,0
+240108_Smp_30ppt_B,N-Methyl-L-glutamic acid,2566962.3705730084,30,0
+240108_Smp_30ppt_Blk,N-Methyl-L-glutamic acid,0,30,0
+240108_Smp_35ppt_A,N-Methyl-L-glutamic acid,9023525.215169432,35,0
+240108_Smp_35ppt_B,N-Methyl-L-glutamic acid,7344842.1134625785,35,0
+240108_Smp_35ppt_Blk,N-Methyl-L-glutamic acid,0,35,0
+240108_Smp_40ppt_A,N-Methyl-L-glutamic acid,2423928.403817639,40,0
+240108_Smp_40ppt_B,N-Methyl-L-glutamic acid,3481483.0924996617,40,0
+240108_Smp_40ppt_Blk,N-Methyl-L-glutamic acid,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,N-Methyl-L-glutamic acid,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,N-Methyl-L-glutamic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,N-Methyl-L-glutamic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,N-Methyl-L-glutamic acid,NA,NA,5
+240108_Poo_Syn_Full1,N-Methyltaurine,24926.681865927265,NA,0
+240108_Poo_Syn_Full2,N-Methyltaurine,NA,NA,0
+240108_Poo_Syn_Full3,N-Methyltaurine,NA,NA,0
+240108_Poo_Syn_Half1,N-Methyltaurine,NA,NA,0
+240108_Poo_Syn_Half2,N-Methyltaurine,NA,NA,0
+240108_Poo_Syn_Half3,N-Methyltaurine,NA,NA,0
+240108_Smp_25ppt_A,N-Methyltaurine,37297.86655543713,25,0
+240108_Smp_25ppt_B,N-Methyltaurine,NA,25,0
+240108_Smp_25ppt_Blk,N-Methyltaurine,21350.626522417926,25,0
+240108_Smp_30ppt_A,N-Methyltaurine,NA,30,0
+240108_Smp_30ppt_B,N-Methyltaurine,NA,30,0
+240108_Smp_30ppt_Blk,N-Methyltaurine,14726.338000547064,30,0
+240108_Smp_35ppt_A,N-Methyltaurine,NA,35,0
+240108_Smp_35ppt_B,N-Methyltaurine,NA,35,0
+240108_Smp_35ppt_Blk,N-Methyltaurine,NA,35,0
+240108_Smp_40ppt_A,N-Methyltaurine,NA,40,0
+240108_Smp_40ppt_B,N-Methyltaurine,NA,40,0
+240108_Smp_40ppt_Blk,N-Methyltaurine,17294.57713353713,40,0
+240108_Std_4uMStdsMix2InH2O_1,N-Methyltaurine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,N-Methyltaurine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,N-Methyltaurine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,N-Methyltaurine,NA,NA,4
+240108_Poo_Syn_Full1,"N6,N6,N6-Trimethyl-L-lysine",5596047.290662941,NA,0
+240108_Poo_Syn_Full2,"N6,N6,N6-Trimethyl-L-lysine",5408462.312985416,NA,0
+240108_Poo_Syn_Full3,"N6,N6,N6-Trimethyl-L-lysine",4481036.167358279,NA,0
+240108_Poo_Syn_Half1,"N6,N6,N6-Trimethyl-L-lysine",4600842.086539985,NA,0
+240108_Poo_Syn_Half2,"N6,N6,N6-Trimethyl-L-lysine",1181965.5979890726,NA,0
+240108_Poo_Syn_Half3,"N6,N6,N6-Trimethyl-L-lysine",4966562.552582709,NA,0
+240108_Smp_25ppt_A,"N6,N6,N6-Trimethyl-L-lysine",2433287.5212892555,25,0
+240108_Smp_25ppt_B,"N6,N6,N6-Trimethyl-L-lysine",4485301.339072547,25,0
+240108_Smp_25ppt_Blk,"N6,N6,N6-Trimethyl-L-lysine",0,25,0
+240108_Smp_30ppt_A,"N6,N6,N6-Trimethyl-L-lysine",2681308.1632437785,30,0
+240108_Smp_30ppt_B,"N6,N6,N6-Trimethyl-L-lysine",5448732.381714015,30,0
+240108_Smp_30ppt_Blk,"N6,N6,N6-Trimethyl-L-lysine",0,30,0
+240108_Smp_35ppt_A,"N6,N6,N6-Trimethyl-L-lysine",11637734.818244537,35,0
+240108_Smp_35ppt_B,"N6,N6,N6-Trimethyl-L-lysine",10928474.485683212,35,0
+240108_Smp_35ppt_Blk,"N6,N6,N6-Trimethyl-L-lysine",0,35,0
+240108_Smp_40ppt_A,"N6,N6,N6-Trimethyl-L-lysine",5997557.255271586,40,0
+240108_Smp_40ppt_B,"N6,N6,N6-Trimethyl-L-lysine",6254987.989406024,40,0
+240108_Smp_40ppt_Blk,"N6,N6,N6-Trimethyl-L-lysine",0,40,0
+240108_Std_4uMStdsMix2InH2O_1,"N6,N6,N6-Trimethyl-L-lysine",NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,"N6,N6,N6-Trimethyl-L-lysine",NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,"N6,N6,N6-Trimethyl-L-lysine",NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,"N6,N6,N6-Trimethyl-L-lysine",NA,NA,4
+240108_Poo_Syn_Full1,N6-Acetyl-L-lysine,212465.133926881,NA,0
+240108_Poo_Syn_Full2,N6-Acetyl-L-lysine,64328.539842701895,NA,0
+240108_Poo_Syn_Full3,N6-Acetyl-L-lysine,76180.52434523357,NA,0
+240108_Poo_Syn_Half1,N6-Acetyl-L-lysine,167045.5824397071,NA,0
+240108_Poo_Syn_Half2,N6-Acetyl-L-lysine,488422.0093119513,NA,0
+240108_Poo_Syn_Half3,N6-Acetyl-L-lysine,0,NA,0
+240108_Smp_25ppt_A,N6-Acetyl-L-lysine,171937.5318851945,25,0
+240108_Smp_25ppt_B,N6-Acetyl-L-lysine,322037.95357810345,25,0
+240108_Smp_25ppt_Blk,N6-Acetyl-L-lysine,54168.52323337054,25,0
+240108_Smp_30ppt_A,N6-Acetyl-L-lysine,94235.14989067339,30,0
+240108_Smp_30ppt_B,N6-Acetyl-L-lysine,242209.73572706722,30,0
+240108_Smp_30ppt_Blk,N6-Acetyl-L-lysine,0,30,0
+240108_Smp_35ppt_A,N6-Acetyl-L-lysine,1517132.0038889635,35,0
+240108_Smp_35ppt_B,N6-Acetyl-L-lysine,1287171.9157408448,35,0
+240108_Smp_35ppt_Blk,N6-Acetyl-L-lysine,38856.06335230447,35,0
+240108_Smp_40ppt_A,N6-Acetyl-L-lysine,123573.58761052863,40,0
+240108_Smp_40ppt_B,N6-Acetyl-L-lysine,1564456.4794584943,40,0
+240108_Smp_40ppt_Blk,N6-Acetyl-L-lysine,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,N6-Acetyl-L-lysine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,N6-Acetyl-L-lysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,N6-Acetyl-L-lysine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,N6-Acetyl-L-lysine,NA,NA,4
+240108_Poo_Syn_Full1,N6-Methyladenine,143709.07964574517,NA,0
+240108_Poo_Syn_Full2,N6-Methyladenine,138397.92231611448,NA,0
+240108_Poo_Syn_Full3,N6-Methyladenine,27153.44255711769,NA,0
+240108_Poo_Syn_Half1,N6-Methyladenine,121227.10325417893,NA,0
+240108_Poo_Syn_Half2,N6-Methyladenine,43142.17781671443,NA,0
+240108_Poo_Syn_Half3,N6-Methyladenine,142751.28563046156,NA,0
+240108_Smp_25ppt_A,N6-Methyladenine,529424.3791059325,25,0
+240108_Smp_25ppt_B,N6-Methyladenine,188252.29935963848,25,0
+240108_Smp_25ppt_Blk,N6-Methyladenine,26686.008391123778,25,0
+240108_Smp_30ppt_A,N6-Methyladenine,204867.66511059957,30,0
+240108_Smp_30ppt_B,N6-Methyladenine,239087.5749884011,30,0
+240108_Smp_30ppt_Blk,N6-Methyladenine,23271.214461324314,30,0
+240108_Smp_35ppt_A,N6-Methyladenine,405156.46610697825,35,0
+240108_Smp_35ppt_B,N6-Methyladenine,361492.4994788196,35,0
+240108_Smp_35ppt_Blk,N6-Methyladenine,157692.37195517446,35,0
+240108_Smp_40ppt_A,N6-Methyladenine,116264.8245588299,40,0
+240108_Smp_40ppt_B,N6-Methyladenine,113719.89625122528,40,0
+240108_Smp_40ppt_Blk,N6-Methyladenine,7779.441686128986,40,0
+240108_Std_4uMStdsMix2InH2O_1,N6-Methyladenine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,N6-Methyladenine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,N6-Methyladenine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,N6-Methyladenine,NA,NA,4
+240108_Poo_Syn_Full1,O-Acetyl-L-serine,NA,NA,0
+240108_Poo_Syn_Full2,O-Acetyl-L-serine,439637.97985980305,NA,0
+240108_Poo_Syn_Full3,O-Acetyl-L-serine,NA,NA,0
+240108_Poo_Syn_Half1,O-Acetyl-L-serine,NA,NA,0
+240108_Poo_Syn_Half2,O-Acetyl-L-serine,275646.82282073004,NA,0
+240108_Poo_Syn_Half3,O-Acetyl-L-serine,226862.4487114948,NA,0
+240108_Smp_25ppt_A,O-Acetyl-L-serine,NA,25,0
+240108_Smp_25ppt_B,O-Acetyl-L-serine,213249.3267421198,25,0
+240108_Smp_25ppt_Blk,O-Acetyl-L-serine,0,25,0
+240108_Smp_30ppt_A,O-Acetyl-L-serine,NA,30,0
+240108_Smp_30ppt_B,O-Acetyl-L-serine,NA,30,0
+240108_Smp_30ppt_Blk,O-Acetyl-L-serine,NA,30,0
+240108_Smp_35ppt_A,O-Acetyl-L-serine,1639959.7729984007,35,0
+240108_Smp_35ppt_B,O-Acetyl-L-serine,1076189.3196950064,35,0
+240108_Smp_35ppt_Blk,O-Acetyl-L-serine,NA,35,0
+240108_Smp_40ppt_A,O-Acetyl-L-serine,1000493.9705576252,40,0
+240108_Smp_40ppt_B,O-Acetyl-L-serine,911015.5465389935,40,0
+240108_Smp_40ppt_Blk,O-Acetyl-L-serine,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,O-Acetyl-L-serine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,O-Acetyl-L-serine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,O-Acetyl-L-serine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,O-Acetyl-L-serine,NA,NA,4
+240108_Poo_Syn_Full1,O-Acetylcarnitine,261401.66047508607,NA,0
+240108_Poo_Syn_Full2,O-Acetylcarnitine,80357.02232989267,NA,0
+240108_Poo_Syn_Full3,O-Acetylcarnitine,279635.48877248395,NA,0
+240108_Poo_Syn_Half1,O-Acetylcarnitine,520689.6507174658,NA,0
+240108_Poo_Syn_Half2,O-Acetylcarnitine,91564.29231147691,NA,0
+240108_Poo_Syn_Half3,O-Acetylcarnitine,228307.00824717514,NA,0
+240108_Smp_25ppt_A,O-Acetylcarnitine,419675.2800979955,25,0
+240108_Smp_25ppt_B,O-Acetylcarnitine,119168.8611868206,25,0
+240108_Smp_25ppt_Blk,O-Acetylcarnitine,263609.8124633349,25,0
+240108_Smp_30ppt_A,O-Acetylcarnitine,154134.49084790214,30,0
+240108_Smp_30ppt_B,O-Acetylcarnitine,486433.2655529043,30,0
+240108_Smp_30ppt_Blk,O-Acetylcarnitine,88335.47904387602,30,0
+240108_Smp_35ppt_A,O-Acetylcarnitine,513652.84344726504,35,0
+240108_Smp_35ppt_B,O-Acetylcarnitine,316260.2545974731,35,0
+240108_Smp_35ppt_Blk,O-Acetylcarnitine,206547.14067927777,35,0
+240108_Smp_40ppt_A,O-Acetylcarnitine,165054.3223763781,40,0
+240108_Smp_40ppt_B,O-Acetylcarnitine,170022.24899742092,40,0
+240108_Smp_40ppt_Blk,O-Acetylcarnitine,216315.19671789053,40,0
+240108_Std_4uMStdsMix1InH2O_1,O-Acetylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,O-Acetylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,O-Acetylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,O-Acetylcarnitine,NA,NA,4
+240108_Poo_Syn_Full1,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Poo_Syn_Full2,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Poo_Syn_Full3,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Poo_Syn_Half1,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Poo_Syn_Half2,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Poo_Syn_Half3,O-Methylmalonyl-L-carnitine,NA,NA,0
+240108_Smp_25ppt_A,O-Methylmalonyl-L-carnitine,NA,25,0
+240108_Smp_25ppt_B,O-Methylmalonyl-L-carnitine,37774.06632736865,25,0
+240108_Smp_25ppt_Blk,O-Methylmalonyl-L-carnitine,NA,25,0
+240108_Smp_30ppt_A,O-Methylmalonyl-L-carnitine,59528.80958636365,30,0
+240108_Smp_30ppt_B,O-Methylmalonyl-L-carnitine,NA,30,0
+240108_Smp_30ppt_Blk,O-Methylmalonyl-L-carnitine,NA,30,0
+240108_Smp_35ppt_A,O-Methylmalonyl-L-carnitine,NA,35,0
+240108_Smp_35ppt_B,O-Methylmalonyl-L-carnitine,NA,35,0
+240108_Smp_35ppt_Blk,O-Methylmalonyl-L-carnitine,NA,35,0
+240108_Smp_40ppt_A,O-Methylmalonyl-L-carnitine,NA,40,0
+240108_Smp_40ppt_B,O-Methylmalonyl-L-carnitine,NA,40,0
+240108_Smp_40ppt_Blk,O-Methylmalonyl-L-carnitine,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,O-Methylmalonyl-L-carnitine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,O-Methylmalonyl-L-carnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,O-Methylmalonyl-L-carnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,O-Methylmalonyl-L-carnitine,NA,NA,4
+240108_Poo_Syn_Full1,O-Propionylcarnitine,81155.30952566024,NA,0
+240108_Poo_Syn_Full2,O-Propionylcarnitine,76104.77936894157,NA,0
+240108_Poo_Syn_Full3,O-Propionylcarnitine,NA,NA,0
+240108_Poo_Syn_Half1,O-Propionylcarnitine,438169.03077156015,NA,0
+240108_Poo_Syn_Half2,O-Propionylcarnitine,530097.5656086416,NA,0
+240108_Poo_Syn_Half3,O-Propionylcarnitine,NA,NA,0
+240108_Smp_25ppt_A,O-Propionylcarnitine,124588.563880265,25,0
+240108_Smp_25ppt_B,O-Propionylcarnitine,205725.92570396754,25,0
+240108_Smp_25ppt_Blk,O-Propionylcarnitine,44984.996088106374,25,0
+240108_Smp_30ppt_A,O-Propionylcarnitine,84989.64805973448,30,0
+240108_Smp_30ppt_B,O-Propionylcarnitine,221523.75404838196,30,0
+240108_Smp_30ppt_Blk,O-Propionylcarnitine,88126.12918162135,30,0
+240108_Smp_35ppt_A,O-Propionylcarnitine,134361.36794538752,35,0
+240108_Smp_35ppt_B,O-Propionylcarnitine,36801.31676612404,35,0
+240108_Smp_35ppt_Blk,O-Propionylcarnitine,69312.60875040582,35,0
+240108_Smp_40ppt_A,O-Propionylcarnitine,28077.81036297075,40,0
+240108_Smp_40ppt_B,O-Propionylcarnitine,264659.3111587834,40,0
+240108_Smp_40ppt_Blk,O-Propionylcarnitine,91370.59626940716,40,0
+240108_Std_4uMStdsMix1InH2O_1,O-Propionylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,O-Propionylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,O-Propionylcarnitine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,O-Propionylcarnitine,NA,NA,4
+240108_Poo_Syn_Full1,O-Succinylhomoserine,1173649.017075734,NA,0
+240108_Poo_Syn_Full2,O-Succinylhomoserine,957421.331843901,NA,0
+240108_Poo_Syn_Full3,O-Succinylhomoserine,822454.6462196818,NA,0
+240108_Poo_Syn_Half1,O-Succinylhomoserine,643960.1316220271,NA,0
+240108_Poo_Syn_Half2,O-Succinylhomoserine,795722.5498860916,NA,0
+240108_Poo_Syn_Half3,O-Succinylhomoserine,871911.5931965401,NA,0
+240108_Smp_25ppt_A,O-Succinylhomoserine,645259.508312504,25,0
+240108_Smp_25ppt_B,O-Succinylhomoserine,1358079.5628940647,25,0
+240108_Smp_25ppt_Blk,O-Succinylhomoserine,0,25,0
+240108_Smp_30ppt_A,O-Succinylhomoserine,932746.0339486005,30,0
+240108_Smp_30ppt_B,O-Succinylhomoserine,1620506.0039924828,30,0
+240108_Smp_30ppt_Blk,O-Succinylhomoserine,0,30,0
+240108_Smp_35ppt_A,O-Succinylhomoserine,3002226.41757001,35,0
+240108_Smp_35ppt_B,O-Succinylhomoserine,2472684.5524214786,35,0
+240108_Smp_35ppt_Blk,O-Succinylhomoserine,0,35,0
+240108_Smp_40ppt_A,O-Succinylhomoserine,425571.6303143915,40,0
+240108_Smp_40ppt_B,O-Succinylhomoserine,685569.3342831832,40,0
+240108_Smp_40ppt_Blk,O-Succinylhomoserine,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,O-Succinylhomoserine,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,O-Succinylhomoserine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,O-Succinylhomoserine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,O-Succinylhomoserine,NA,NA,5
+240108_Poo_Syn_Full1,Ophthalmic acid,15451204.008517824,NA,0
+240108_Poo_Syn_Full2,Ophthalmic acid,16735268.52299929,NA,0
+240108_Poo_Syn_Full3,Ophthalmic acid,18677004.878493212,NA,0
+240108_Poo_Syn_Half1,Ophthalmic acid,17411100.05564294,NA,0
+240108_Poo_Syn_Half2,Ophthalmic acid,16140293.697192173,NA,0
+240108_Poo_Syn_Half3,Ophthalmic acid,17833643.70072701,NA,0
+240108_Smp_25ppt_A,Ophthalmic acid,16701308.283928057,25,0
+240108_Smp_25ppt_B,Ophthalmic acid,18746026.35565609,25,0
+240108_Smp_25ppt_Blk,Ophthalmic acid,0,25,0
+240108_Smp_30ppt_A,Ophthalmic acid,20733293.578537155,30,0
+240108_Smp_30ppt_B,Ophthalmic acid,19745372.257364105,30,0
+240108_Smp_30ppt_Blk,Ophthalmic acid,0,30,0
+240108_Smp_35ppt_A,Ophthalmic acid,24170005.7808407,35,0
+240108_Smp_35ppt_B,Ophthalmic acid,25180546.07607697,35,0
+240108_Smp_35ppt_Blk,Ophthalmic acid,0,35,0
+240108_Smp_40ppt_A,Ophthalmic acid,11331219.849721586,40,0
+240108_Smp_40ppt_B,Ophthalmic acid,14110213.847061582,40,0
+240108_Smp_40ppt_Blk,Ophthalmic acid,0,40,0
+240108_Std_4uMStdsMix1InH2O_1,Ophthalmic acid,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Ophthalmic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Ophthalmic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Ophthalmic acid,NA,NA,5
+240108_Poo_Syn_Full1,Phenylethylamine,103969636.79799585,NA,0
+240108_Poo_Syn_Full2,Phenylethylamine,77006753.1411269,NA,0
+240108_Poo_Syn_Full3,Phenylethylamine,NA,NA,0
+240108_Poo_Syn_Half1,Phenylethylamine,203758329.58016765,NA,0
+240108_Poo_Syn_Half2,Phenylethylamine,182539628.4964093,NA,0
+240108_Poo_Syn_Half3,Phenylethylamine,252795714.6847473,NA,0
+240108_Smp_25ppt_A,Phenylethylamine,176738526.43714127,25,0
+240108_Smp_25ppt_B,Phenylethylamine,107466193.48910947,25,0
+240108_Smp_25ppt_Blk,Phenylethylamine,98471757.20248154,25,0
+240108_Smp_30ppt_A,Phenylethylamine,81052096.76142354,30,0
+240108_Smp_30ppt_B,Phenylethylamine,NA,30,0
+240108_Smp_30ppt_Blk,Phenylethylamine,129100087.87688705,30,0
+240108_Smp_35ppt_A,Phenylethylamine,NA,35,0
+240108_Smp_35ppt_B,Phenylethylamine,120153297.17974846,35,0
+240108_Smp_35ppt_Blk,Phenylethylamine,NA,35,0
+240108_Smp_40ppt_A,Phenylethylamine,NA,40,0
+240108_Smp_40ppt_B,Phenylethylamine,NA,40,0
+240108_Smp_40ppt_Blk,Phenylethylamine,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Phenylethylamine,NA,NA,5
+240108_Std_4uMStdsMix2InH2O_2,Phenylethylamine,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_1,Phenylethylamine,NA,NA,5
+240108_Std_4uMStdsMix2InSynMatrix_2,Phenylethylamine,NA,NA,5
+240108_Poo_Syn_Full1,Phosphocholine,5566546.505819711,NA,0
+240108_Poo_Syn_Full2,Phosphocholine,7364106.901036941,NA,0
+240108_Poo_Syn_Full3,Phosphocholine,NA,NA,0
+240108_Poo_Syn_Half1,Phosphocholine,13318319.741149934,NA,0
+240108_Poo_Syn_Half2,Phosphocholine,6242244.696607987,NA,0
+240108_Poo_Syn_Half3,Phosphocholine,1055572.2038605227,NA,0
+240108_Smp_25ppt_A,Phosphocholine,2293083.040488548,25,0
+240108_Smp_25ppt_B,Phosphocholine,1705805.6227890626,25,0
+240108_Smp_25ppt_Blk,Phosphocholine,701981.7702828355,25,0
+240108_Smp_30ppt_A,Phosphocholine,2339363.098586543,30,0
+240108_Smp_30ppt_B,Phosphocholine,1940187.172812066,30,0
+240108_Smp_30ppt_Blk,Phosphocholine,107352.37227749226,30,0
+240108_Smp_35ppt_A,Phosphocholine,1244449.2162707704,35,0
+240108_Smp_35ppt_B,Phosphocholine,1562305.4431959707,35,0
+240108_Smp_35ppt_Blk,Phosphocholine,1911215.8687823713,35,0
+240108_Smp_40ppt_A,Phosphocholine,687741.0432705274,40,0
+240108_Smp_40ppt_B,Phosphocholine,1963314.5730494643,40,0
+240108_Smp_40ppt_Blk,Phosphocholine,420600.55675450043,40,0
+240108_Std_4uMStdsMix1InH2O_1,Phosphocholine,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Phosphocholine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Phosphocholine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Phosphocholine,NA,NA,5
+240108_Poo_Syn_Full1,Pipecolic acid,1736934.9212753836,NA,0
+240108_Poo_Syn_Full2,Pipecolic acid,2975077.982295271,NA,0
+240108_Poo_Syn_Full3,Pipecolic acid,2741203.1105136615,NA,0
+240108_Poo_Syn_Half1,Pipecolic acid,2272817.8451200556,NA,0
+240108_Poo_Syn_Half2,Pipecolic acid,3890339.498115257,NA,0
+240108_Poo_Syn_Half3,Pipecolic acid,1728393.1043804318,NA,0
+240108_Smp_25ppt_A,Pipecolic acid,855919.9051685065,25,0
+240108_Smp_25ppt_B,Pipecolic acid,686563.4714335166,25,0
+240108_Smp_25ppt_Blk,Pipecolic acid,1068339.3727052535,25,0
+240108_Smp_30ppt_A,Pipecolic acid,1760823.4637437505,30,0
+240108_Smp_30ppt_B,Pipecolic acid,1563021.1244010853,30,0
+240108_Smp_30ppt_Blk,Pipecolic acid,1408943.983168228,30,0
+240108_Smp_35ppt_A,Pipecolic acid,2421532.3150145635,35,0
+240108_Smp_35ppt_B,Pipecolic acid,2328435.6047743415,35,0
+240108_Smp_35ppt_Blk,Pipecolic acid,1375266.0163207564,35,0
+240108_Smp_40ppt_A,Pipecolic acid,2450503.9040481616,40,0
+240108_Smp_40ppt_B,Pipecolic acid,1773606.8848680742,40,0
+240108_Smp_40ppt_Blk,Pipecolic acid,678997.0844595289,40,0
+240108_Std_4uMStdsMix1InH2O_1,Pipecolic acid,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Pipecolic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Pipecolic acid,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Pipecolic acid,NA,NA,5
+240108_Poo_Syn_Full1,Proline betaine,6140470.341204028,NA,0
+240108_Poo_Syn_Full2,Proline betaine,6074858.477168726,NA,0
+240108_Poo_Syn_Full3,Proline betaine,5405687.957293577,NA,0
+240108_Poo_Syn_Half1,Proline betaine,1918019.6291990664,NA,0
+240108_Poo_Syn_Half2,Proline betaine,6733599.536132429,NA,0
+240108_Poo_Syn_Half3,Proline betaine,6200453.0694990475,NA,0
+240108_Smp_25ppt_A,Proline betaine,1486233.3264777905,25,0
+240108_Smp_25ppt_B,Proline betaine,3508485.027762538,25,0
+240108_Smp_25ppt_Blk,Proline betaine,1514225.165763118,25,0
+240108_Smp_30ppt_A,Proline betaine,3633611.877008467,30,0
+240108_Smp_30ppt_B,Proline betaine,4201083.549888772,30,0
+240108_Smp_30ppt_Blk,Proline betaine,1115093.863159478,30,0
+240108_Smp_35ppt_A,Proline betaine,7121498.46070381,35,0
+240108_Smp_35ppt_B,Proline betaine,1347534.1247396125,35,0
+240108_Smp_35ppt_Blk,Proline betaine,396732.65862650366,35,0
+240108_Smp_40ppt_A,Proline betaine,11608520.138758559,40,0
+240108_Smp_40ppt_B,Proline betaine,12679214.023340218,40,0
+240108_Smp_40ppt_Blk,Proline betaine,133718.54335675493,40,0
+240108_Std_4uMStdsMix1InH2O_1,Proline betaine,NA,NA,0.5
+240108_Std_4uMStdsMix1InH2O_2,Proline betaine,NA,NA,0.5
+240108_Std_4uMStdsMix1InSynMatrix_1,Proline betaine,NA,NA,0.5
+240108_Std_4uMStdsMix1InSynMatrix_2,Proline betaine,NA,NA,0.5
+240108_Poo_Syn_Full1,Propylamine,8221334.704590245,NA,0
+240108_Poo_Syn_Full2,Propylamine,3452623.7688449793,NA,0
+240108_Poo_Syn_Full3,Propylamine,4416526.071933709,NA,0
+240108_Poo_Syn_Half1,Propylamine,5403458.643228704,NA,0
+240108_Poo_Syn_Half2,Propylamine,5171624.496408295,NA,0
+240108_Poo_Syn_Half3,Propylamine,8089560.2035112325,NA,0
+240108_Smp_25ppt_A,Propylamine,2781100.2420466556,25,0
+240108_Smp_25ppt_B,Propylamine,3828553.412693315,25,0
+240108_Smp_25ppt_Blk,Propylamine,4351464.997525109,25,0
+240108_Smp_30ppt_A,Propylamine,3053439.287624976,30,0
+240108_Smp_30ppt_B,Propylamine,3182171.821005956,30,0
+240108_Smp_30ppt_Blk,Propylamine,4738275.803866264,30,0
+240108_Smp_35ppt_A,Propylamine,5722347.240285224,35,0
+240108_Smp_35ppt_B,Propylamine,9211152.645952187,35,0
+240108_Smp_35ppt_Blk,Propylamine,5342780.587725331,35,0
+240108_Smp_40ppt_A,Propylamine,4171097.893093241,40,0
+240108_Smp_40ppt_B,Propylamine,6518653.437199698,40,0
+240108_Smp_40ppt_Blk,Propylamine,7590772.507794321,40,0
+240108_Std_4uMStdsMix2InH2O_1,Propylamine,NA,NA,20
+240108_Std_4uMStdsMix2InH2O_2,Propylamine,NA,NA,20
+240108_Std_4uMStdsMix2InSynMatrix_1,Propylamine,NA,NA,20
+240108_Std_4uMStdsMix2InSynMatrix_2,Propylamine,NA,NA,20
+240108_Poo_Syn_Full1,Riboflavin-5-phosphate,NA,NA,0
+240108_Poo_Syn_Full2,Riboflavin-5-phosphate,NA,NA,0
+240108_Poo_Syn_Full3,Riboflavin-5-phosphate,NA,NA,0
+240108_Poo_Syn_Half1,Riboflavin-5-phosphate,NA,NA,0
+240108_Poo_Syn_Half2,Riboflavin-5-phosphate,NA,NA,0
+240108_Poo_Syn_Half3,Riboflavin-5-phosphate,NA,NA,0
+240108_Smp_25ppt_A,Riboflavin-5-phosphate,NA,25,0
+240108_Smp_25ppt_B,Riboflavin-5-phosphate,NA,25,0
+240108_Smp_25ppt_Blk,Riboflavin-5-phosphate,NA,25,0
+240108_Smp_30ppt_A,Riboflavin-5-phosphate,NA,30,0
+240108_Smp_30ppt_B,Riboflavin-5-phosphate,NA,30,0
+240108_Smp_30ppt_Blk,Riboflavin-5-phosphate,29276.46340963459,30,0
+240108_Smp_35ppt_A,Riboflavin-5-phosphate,49680.93620734892,35,0
+240108_Smp_35ppt_B,Riboflavin-5-phosphate,NA,35,0
+240108_Smp_35ppt_Blk,Riboflavin-5-phosphate,NA,35,0
+240108_Smp_40ppt_A,Riboflavin-5-phosphate,598708.491436534,40,0
+240108_Smp_40ppt_B,Riboflavin-5-phosphate,NA,40,0
+240108_Smp_40ppt_Blk,Riboflavin-5-phosphate,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Riboflavin-5-phosphate,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Riboflavin-5-phosphate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Riboflavin-5-phosphate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Riboflavin-5-phosphate,NA,NA,4
+240108_Poo_Syn_Full1,Sarcosine,847486.1966943273,NA,0
+240108_Poo_Syn_Full2,Sarcosine,1176947.7922400774,NA,0
+240108_Poo_Syn_Full3,Sarcosine,582559.1743857363,NA,0
+240108_Poo_Syn_Half1,Sarcosine,9077119.465499965,NA,0
+240108_Poo_Syn_Half2,Sarcosine,10563545.438701292,NA,0
+240108_Poo_Syn_Half3,Sarcosine,9587630.703117575,NA,0
+240108_Smp_25ppt_A,Sarcosine,468687.8874868149,25,0
+240108_Smp_25ppt_B,Sarcosine,219438.02602917186,25,0
+240108_Smp_25ppt_Blk,Sarcosine,301538.58139282034,25,0
+240108_Smp_30ppt_A,Sarcosine,752602.3791992468,30,0
+240108_Smp_30ppt_B,Sarcosine,653926.9559652483,30,0
+240108_Smp_30ppt_Blk,Sarcosine,31102.533426250247,30,0
+240108_Smp_35ppt_A,Sarcosine,5555461.528624569,35,0
+240108_Smp_35ppt_B,Sarcosine,9068069.626478402,35,0
+240108_Smp_35ppt_Blk,Sarcosine,22332.521862891528,35,0
+240108_Smp_40ppt_A,Sarcosine,4945475.672494449,40,0
+240108_Smp_40ppt_B,Sarcosine,1776858.8665726408,40,0
+240108_Smp_40ppt_Blk,Sarcosine,33636.04883436045,40,0
+240108_Std_4uMStdsMix2InH2O_1,Sarcosine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Sarcosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Sarcosine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Sarcosine,NA,NA,4
+240108_Poo_Syn_Full1,Sodium taurocholate,NA,NA,0
+240108_Poo_Syn_Full2,Sodium taurocholate,NA,NA,0
+240108_Poo_Syn_Full3,Sodium taurocholate,NA,NA,0
+240108_Poo_Syn_Half1,Sodium taurocholate,NA,NA,0
+240108_Poo_Syn_Half2,Sodium taurocholate,NA,NA,0
+240108_Poo_Syn_Half3,Sodium taurocholate,NA,NA,0
+240108_Smp_25ppt_A,Sodium taurocholate,NA,25,0
+240108_Smp_25ppt_B,Sodium taurocholate,49735.73893459831,25,0
+240108_Smp_25ppt_Blk,Sodium taurocholate,NA,25,0
+240108_Smp_30ppt_A,Sodium taurocholate,NA,30,0
+240108_Smp_30ppt_B,Sodium taurocholate,NA,30,0
+240108_Smp_30ppt_Blk,Sodium taurocholate,NA,30,0
+240108_Smp_35ppt_A,Sodium taurocholate,10634.551428999868,35,0
+240108_Smp_35ppt_B,Sodium taurocholate,NA,35,0
+240108_Smp_35ppt_Blk,Sodium taurocholate,NA,35,0
+240108_Smp_40ppt_A,Sodium taurocholate,NA,40,0
+240108_Smp_40ppt_B,Sodium taurocholate,NA,40,0
+240108_Smp_40ppt_Blk,Sodium taurocholate,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Sodium taurocholate,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Sodium taurocholate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Sodium taurocholate,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Sodium taurocholate,NA,NA,4
+240108_Poo_Syn_Full1,Succinylglycine,NA,NA,0
+240108_Poo_Syn_Full2,Succinylglycine,NA,NA,0
+240108_Poo_Syn_Full3,Succinylglycine,NA,NA,0
+240108_Poo_Syn_Half1,Succinylglycine,NA,NA,0
+240108_Poo_Syn_Half2,Succinylglycine,NA,NA,0
+240108_Poo_Syn_Half3,Succinylglycine,NA,NA,0
+240108_Smp_25ppt_A,Succinylglycine,NA,25,0
+240108_Smp_25ppt_B,Succinylglycine,NA,25,0
+240108_Smp_25ppt_Blk,Succinylglycine,NA,25,0
+240108_Smp_30ppt_A,Succinylglycine,NA,30,0
+240108_Smp_30ppt_B,Succinylglycine,NA,30,0
+240108_Smp_30ppt_Blk,Succinylglycine,NA,30,0
+240108_Smp_35ppt_A,Succinylglycine,NA,35,0
+240108_Smp_35ppt_B,Succinylglycine,NA,35,0
+240108_Smp_35ppt_Blk,Succinylglycine,NA,35,0
+240108_Smp_40ppt_A,Succinylglycine,NA,40,0
+240108_Smp_40ppt_B,Succinylglycine,NA,40,0
+240108_Smp_40ppt_Blk,Succinylglycine,NA,40,0
+240108_Std_4uMStdsMix2InH2O_1,Succinylglycine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Succinylglycine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Succinylglycine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Succinylglycine,NA,NA,4
+240108_Poo_Syn_Full1,Taurocyamine,992510.5507078595,NA,0
+240108_Poo_Syn_Full2,Taurocyamine,303277.80781781423,NA,0
+240108_Poo_Syn_Full3,Taurocyamine,2222276.0946300733,NA,0
+240108_Poo_Syn_Half1,Taurocyamine,3306616.2305590436,NA,0
+240108_Poo_Syn_Half2,Taurocyamine,3292690.8983363016,NA,0
+240108_Poo_Syn_Half3,Taurocyamine,1222433.0796327135,NA,0
+240108_Smp_25ppt_A,Taurocyamine,3625544.479849946,25,0
+240108_Smp_25ppt_B,Taurocyamine,595530.3416018263,25,0
+240108_Smp_25ppt_Blk,Taurocyamine,208308.28473438858,25,0
+240108_Smp_30ppt_A,Taurocyamine,1519380.8242464052,30,0
+240108_Smp_30ppt_B,Taurocyamine,1683694.524956388,30,0
+240108_Smp_30ppt_Blk,Taurocyamine,258948.5244203996,30,0
+240108_Smp_35ppt_A,Taurocyamine,2840087.990684213,35,0
+240108_Smp_35ppt_B,Taurocyamine,1667522.788260408,35,0
+240108_Smp_35ppt_Blk,Taurocyamine,685355.9522780905,35,0
+240108_Smp_40ppt_A,Taurocyamine,3577951.3844478014,40,0
+240108_Smp_40ppt_B,Taurocyamine,1388662.2751141354,40,0
+240108_Smp_40ppt_Blk,Taurocyamine,140119.4207679689,40,0
+240108_Std_4uMStdsMix1InH2O_1,Taurocyamine,NA,NA,5
+240108_Std_4uMStdsMix1InH2O_2,Taurocyamine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_1,Taurocyamine,NA,NA,5
+240108_Std_4uMStdsMix1InSynMatrix_2,Taurocyamine,NA,NA,5
+240108_Poo_Syn_Full1,Thiamine diphosphate,NA,NA,0
+240108_Poo_Syn_Full2,Thiamine diphosphate,NA,NA,0
+240108_Poo_Syn_Full3,Thiamine diphosphate,NA,NA,0
+240108_Poo_Syn_Half1,Thiamine diphosphate,58841.855538482036,NA,0
+240108_Poo_Syn_Half2,Thiamine diphosphate,NA,NA,0
+240108_Poo_Syn_Half3,Thiamine diphosphate,41082.20538512607,NA,0
+240108_Smp_25ppt_A,Thiamine diphosphate,NA,25,0
+240108_Smp_25ppt_B,Thiamine diphosphate,NA,25,0
+240108_Smp_25ppt_Blk,Thiamine diphosphate,NA,25,0
+240108_Smp_30ppt_A,Thiamine diphosphate,NA,30,0
+240108_Smp_30ppt_B,Thiamine diphosphate,NA,30,0
+240108_Smp_30ppt_Blk,Thiamine diphosphate,NA,30,0
+240108_Smp_35ppt_A,Thiamine diphosphate,NA,35,0
+240108_Smp_35ppt_B,Thiamine diphosphate,NA,35,0
+240108_Smp_35ppt_Blk,Thiamine diphosphate,NA,35,0
+240108_Smp_40ppt_A,Thiamine diphosphate,42826.24464135554,40,0
+240108_Smp_40ppt_B,Thiamine diphosphate,NA,40,0
+240108_Smp_40ppt_Blk,Thiamine diphosphate,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,Thiamine diphosphate,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Thiamine diphosphate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Thiamine diphosphate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Thiamine diphosphate,NA,NA,4
+240108_Poo_Syn_Full1,Thiamine monophosphate,NA,NA,0
+240108_Poo_Syn_Full2,Thiamine monophosphate,NA,NA,0
+240108_Poo_Syn_Full3,Thiamine monophosphate,NA,NA,0
+240108_Poo_Syn_Half1,Thiamine monophosphate,89916.6708897945,NA,0
+240108_Poo_Syn_Half2,Thiamine monophosphate,NA,NA,0
+240108_Poo_Syn_Half3,Thiamine monophosphate,NA,NA,0
+240108_Smp_25ppt_A,Thiamine monophosphate,NA,25,0
+240108_Smp_25ppt_B,Thiamine monophosphate,NA,25,0
+240108_Smp_25ppt_Blk,Thiamine monophosphate,NA,25,0
+240108_Smp_30ppt_A,Thiamine monophosphate,NA,30,0
+240108_Smp_30ppt_B,Thiamine monophosphate,23997.311306783904,30,0
+240108_Smp_30ppt_Blk,Thiamine monophosphate,NA,30,0
+240108_Smp_35ppt_A,Thiamine monophosphate,NA,35,0
+240108_Smp_35ppt_B,Thiamine monophosphate,NA,35,0
+240108_Smp_35ppt_Blk,Thiamine monophosphate,NA,35,0
+240108_Smp_40ppt_A,Thiamine monophosphate,NA,40,0
+240108_Smp_40ppt_B,Thiamine monophosphate,NA,40,0
+240108_Smp_40ppt_Blk,Thiamine monophosphate,NA,40,0
+240108_Std_4uMStdsMix1InH2O_1,Thiamine monophosphate,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Thiamine monophosphate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Thiamine monophosphate,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Thiamine monophosphate,NA,NA,4
+240108_Poo_Syn_Full1,Toxopyrimidine,20484949.612455823,NA,0
+240108_Poo_Syn_Full2,Toxopyrimidine,20294573.77703455,NA,0
+240108_Poo_Syn_Full3,Toxopyrimidine,3639751.388031124,NA,0
+240108_Poo_Syn_Half1,Toxopyrimidine,15552174.856387503,NA,0
+240108_Poo_Syn_Half2,Toxopyrimidine,1890191.1785827673,NA,0
+240108_Poo_Syn_Half3,Toxopyrimidine,18499141.50511083,NA,0
+240108_Smp_25ppt_A,Toxopyrimidine,9632966.195641462,25,0
+240108_Smp_25ppt_B,Toxopyrimidine,9766772.508667191,25,0
+240108_Smp_25ppt_Blk,Toxopyrimidine,8880139.813382473,25,0
+240108_Smp_30ppt_A,Toxopyrimidine,12762759.66687207,30,0
+240108_Smp_30ppt_B,Toxopyrimidine,18151205.739931986,30,0
+240108_Smp_30ppt_Blk,Toxopyrimidine,277485.43085050955,30,0
+240108_Smp_35ppt_A,Toxopyrimidine,44632433.74188839,35,0
+240108_Smp_35ppt_B,Toxopyrimidine,29809287.885436047,35,0
+240108_Smp_35ppt_Blk,Toxopyrimidine,228265.37663549892,35,0
+240108_Smp_40ppt_A,Toxopyrimidine,56756183.445388384,40,0
+240108_Smp_40ppt_B,Toxopyrimidine,76557832.09380864,40,0
+240108_Smp_40ppt_Blk,Toxopyrimidine,444992.5800446707,40,0
+240108_Std_4uMStdsMix1InH2O_1,Toxopyrimidine,NA,NA,2
+240108_Std_4uMStdsMix1InH2O_2,Toxopyrimidine,NA,NA,2
+240108_Std_4uMStdsMix1InSynMatrix_1,Toxopyrimidine,NA,NA,2
+240108_Std_4uMStdsMix1InSynMatrix_2,Toxopyrimidine,NA,NA,2
+240108_Poo_Syn_Full1,Trigonelline,4080894134.255584,NA,0
+240108_Poo_Syn_Full2,Trigonelline,4540311589.416077,NA,0
+240108_Poo_Syn_Full3,Trigonelline,2674128994.6991673,NA,0
+240108_Poo_Syn_Half1,Trigonelline,4348228336.252997,NA,0
+240108_Poo_Syn_Half2,Trigonelline,4412136683.087264,NA,0
+240108_Poo_Syn_Half3,Trigonelline,4337730894.475311,NA,0
+240108_Smp_25ppt_A,Trigonelline,335811513.92255455,25,0
+240108_Smp_25ppt_B,Trigonelline,1454703902.5068426,25,0
+240108_Smp_25ppt_Blk,Trigonelline,4266033.094864044,25,0
+240108_Smp_30ppt_A,Trigonelline,1476495061.4296284,30,0
+240108_Smp_30ppt_B,Trigonelline,3626731627.5616364,30,0
+240108_Smp_30ppt_Blk,Trigonelline,1331684.1842981637,30,0
+240108_Smp_35ppt_A,Trigonelline,8301555720.779317,35,0
+240108_Smp_35ppt_B,Trigonelline,8010910085.5509815,35,0
+240108_Smp_35ppt_Blk,Trigonelline,9014054.107715568,35,0
+240108_Smp_40ppt_A,Trigonelline,9585560335.807297,40,0
+240108_Smp_40ppt_B,Trigonelline,9211680717.914139,40,0
+240108_Smp_40ppt_Blk,Trigonelline,1866302.042113738,40,0
+240108_Std_4uMStdsMix1InH2O_1,Trigonelline,NA,NA,0.5
+240108_Std_4uMStdsMix1InH2O_2,Trigonelline,NA,NA,0.5
+240108_Std_4uMStdsMix1InSynMatrix_1,Trigonelline,NA,NA,0.5
+240108_Std_4uMStdsMix1InSynMatrix_2,Trigonelline,NA,NA,0.5
+240108_Poo_Syn_Full1,Trimethylamine,1394121.5315455974,NA,0
+240108_Poo_Syn_Full2,Trimethylamine,1856036.1140034865,NA,0
+240108_Poo_Syn_Full3,Trimethylamine,NA,NA,0
+240108_Poo_Syn_Half1,Trimethylamine,989722.8714948251,NA,0
+240108_Poo_Syn_Half2,Trimethylamine,NA,NA,0
+240108_Poo_Syn_Half3,Trimethylamine,1155849.0611307025,NA,0
+240108_Smp_25ppt_A,Trimethylamine,684495.0958150624,25,0
+240108_Smp_25ppt_B,Trimethylamine,NA,25,0
+240108_Smp_25ppt_Blk,Trimethylamine,852331.7564433343,25,0
+240108_Smp_30ppt_A,Trimethylamine,741008.4183280518,30,0
+240108_Smp_30ppt_B,Trimethylamine,1026867.8505560356,30,0
+240108_Smp_30ppt_Blk,Trimethylamine,433001.6323705014,30,0
+240108_Smp_35ppt_A,Trimethylamine,731302.4984367877,35,0
+240108_Smp_35ppt_B,Trimethylamine,NA,35,0
+240108_Smp_35ppt_Blk,Trimethylamine,641327.4649516937,35,0
+240108_Smp_40ppt_A,Trimethylamine,961040.9715346753,40,0
+240108_Smp_40ppt_B,Trimethylamine,796794.9193095337,40,0
+240108_Smp_40ppt_Blk,Trimethylamine,484122.4973634416,40,0
+240108_Std_4uMStdsMix1InH2O_1,Trimethylamine,NA,NA,10
+240108_Std_4uMStdsMix1InH2O_2,Trimethylamine,NA,NA,10
+240108_Std_4uMStdsMix1InSynMatrix_1,Trimethylamine,NA,NA,10
+240108_Std_4uMStdsMix1InSynMatrix_2,Trimethylamine,NA,NA,10
+240108_Poo_Syn_Full1,Turicine,600833.3101027143,NA,0
+240108_Poo_Syn_Full2,Turicine,984968.8451246234,NA,0
+240108_Poo_Syn_Full3,Turicine,569085.1644667082,NA,0
+240108_Poo_Syn_Half1,Turicine,865032.0978604412,NA,0
+240108_Poo_Syn_Half2,Turicine,1169905.3925202286,NA,0
+240108_Poo_Syn_Half3,Turicine,722141.9988396668,NA,0
+240108_Smp_25ppt_A,Turicine,346663.18455531617,25,0
+240108_Smp_25ppt_B,Turicine,231581.20001999062,25,0
+240108_Smp_25ppt_Blk,Turicine,255671.3759806103,25,0
+240108_Smp_30ppt_A,Turicine,1053978.599792915,30,0
+240108_Smp_30ppt_B,Turicine,1145435.198562774,30,0
+240108_Smp_30ppt_Blk,Turicine,146459.29078825912,30,0
+240108_Smp_35ppt_A,Turicine,1828226.5630250915,35,0
+240108_Smp_35ppt_B,Turicine,1002875.2568527493,35,0
+240108_Smp_35ppt_Blk,Turicine,352466.3605372694,35,0
+240108_Smp_40ppt_A,Turicine,1278799.5583884728,40,0
+240108_Smp_40ppt_B,Turicine,1033110.8574282075,40,0
+240108_Smp_40ppt_Blk,Turicine,541616.8140622203,40,0
+240108_Poo_Syn_Full1,Urea,44352082.37932858,NA,0
+240108_Poo_Syn_Full2,Urea,46324952.59082911,NA,0
+240108_Poo_Syn_Full3,Urea,27683110.159679722,NA,0
+240108_Poo_Syn_Half1,Urea,53156174.23629527,NA,0
+240108_Poo_Syn_Half2,Urea,48817698.82285322,NA,0
+240108_Poo_Syn_Half3,Urea,42634102.13134524,NA,0
+240108_Smp_25ppt_A,Urea,28784632.78678506,25,0
+240108_Smp_25ppt_B,Urea,28848081.401855893,25,0
+240108_Smp_25ppt_Blk,Urea,20979082.639395878,25,0
+240108_Smp_30ppt_A,Urea,39418016.28070027,30,0
+240108_Smp_30ppt_B,Urea,40805862.53978512,30,0
+240108_Smp_30ppt_Blk,Urea,22869378.675054584,30,0
+240108_Smp_35ppt_A,Urea,87743387.37356433,35,0
+240108_Smp_35ppt_B,Urea,64951145.84187733,35,0
+240108_Smp_35ppt_Blk,Urea,35579820.37548104,35,0
+240108_Smp_40ppt_A,Urea,110675135.65852939,40,0
+240108_Smp_40ppt_B,Urea,61413671.660803095,40,0
+240108_Smp_40ppt_Blk,Urea,25803516.80826291,40,0
+240108_Std_4uMStdsMix1InH2O_1,Urea,NA,NA,30
+240108_Std_4uMStdsMix1InH2O_2,Urea,NA,NA,30
+240108_Std_4uMStdsMix1InSynMatrix_1,Urea,NA,NA,30
+240108_Std_4uMStdsMix1InSynMatrix_2,Urea,NA,NA,30
+240108_Poo_Syn_Full1,beta-Alanine,45198331.237200595,NA,0
+240108_Poo_Syn_Full2,beta-Alanine,47000349.49662094,NA,0
+240108_Poo_Syn_Full3,beta-Alanine,41394599.5797249,NA,0
+240108_Poo_Syn_Half1,beta-Alanine,44059025.023478016,NA,0
+240108_Poo_Syn_Half2,beta-Alanine,34970163.378101066,NA,0
+240108_Poo_Syn_Half3,beta-Alanine,41523889.118849784,NA,0
+240108_Smp_25ppt_A,beta-Alanine,32480927.610688258,25,0
+240108_Smp_25ppt_B,beta-Alanine,58071927.39746211,25,0
+240108_Smp_25ppt_Blk,beta-Alanine,1614341.877681418,25,0
+240108_Smp_30ppt_A,beta-Alanine,35698209.195930004,30,0
+240108_Smp_30ppt_B,beta-Alanine,47622029.88568808,30,0
+240108_Smp_30ppt_Blk,beta-Alanine,944292.1445301807,30,0
+240108_Smp_35ppt_A,beta-Alanine,75708551.20725265,35,0
+240108_Smp_35ppt_B,beta-Alanine,73098554.29115434,35,0
+240108_Smp_35ppt_Blk,beta-Alanine,1183752.5707359256,35,0
+240108_Smp_40ppt_A,beta-Alanine,49586072.50418679,40,0
+240108_Smp_40ppt_B,beta-Alanine,63322118.28281253,40,0
+240108_Smp_40ppt_Blk,beta-Alanine,986510.6202923781,40,0
+240108_Std_4uMStdsMix2InH2O_1,beta-Alanine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,beta-Alanine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,beta-Alanine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,beta-Alanine,NA,NA,4
+240108_Poo_Syn_Full1,beta-Alaninebetaine,919751.6119951849,NA,0
+240108_Poo_Syn_Full2,beta-Alaninebetaine,8793830.070352513,NA,0
+240108_Poo_Syn_Full3,beta-Alaninebetaine,3333509.169326163,NA,0
+240108_Poo_Syn_Half1,beta-Alaninebetaine,1517825.2138468756,NA,0
+240108_Poo_Syn_Half2,beta-Alaninebetaine,1256059.7645760044,NA,0
+240108_Poo_Syn_Half3,beta-Alaninebetaine,2507642.2741929297,NA,0
+240108_Smp_25ppt_A,beta-Alaninebetaine,848746.7951787289,25,0
+240108_Smp_25ppt_B,beta-Alaninebetaine,3563574.1937899073,25,0
+240108_Smp_25ppt_Blk,beta-Alaninebetaine,580897.8906846475,25,0
+240108_Smp_30ppt_A,beta-Alaninebetaine,1388889.7462536045,30,0
+240108_Smp_30ppt_B,beta-Alaninebetaine,4284991.655471766,30,0
+240108_Smp_30ppt_Blk,beta-Alaninebetaine,365937.8417857007,30,0
+240108_Smp_35ppt_A,beta-Alaninebetaine,2354706.210994785,35,0
+240108_Smp_35ppt_B,beta-Alaninebetaine,9648594.513497429,35,0
+240108_Smp_35ppt_Blk,beta-Alaninebetaine,472125.1164907781,35,0
+240108_Smp_40ppt_A,beta-Alaninebetaine,1366509.7853317026,40,0
+240108_Smp_40ppt_B,beta-Alaninebetaine,2440214.419073142,40,0
+240108_Smp_40ppt_Blk,beta-Alaninebetaine,436727.96860991634,40,0
+240108_Std_4uMStdsMix2InH2O_1,beta-Alaninebetaine,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,beta-Alaninebetaine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,beta-Alaninebetaine,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,beta-Alaninebetaine,NA,NA,4
+240108_Poo_Syn_Full1,beta-Glutamic acid,9355548735.325169,NA,0
+240108_Poo_Syn_Full2,beta-Glutamic acid,9611641264.278774,NA,0
+240108_Poo_Syn_Full3,beta-Glutamic acid,9990106897.845917,NA,0
+240108_Poo_Syn_Half1,beta-Glutamic acid,10005469051.344334,NA,0
+240108_Poo_Syn_Half2,beta-Glutamic acid,9799919920.578594,NA,0
+240108_Poo_Syn_Half3,beta-Glutamic acid,10711615725.475134,NA,0
+240108_Smp_25ppt_A,beta-Glutamic acid,6330003528.86009,25,0
+240108_Smp_25ppt_B,beta-Glutamic acid,7413648783.031005,25,0
+240108_Smp_25ppt_Blk,beta-Glutamic acid,274616.28608033946,25,0
+240108_Smp_30ppt_A,beta-Glutamic acid,6542680436.683799,30,0
+240108_Smp_30ppt_B,beta-Glutamic acid,9138226514.657885,30,0
+240108_Smp_30ppt_Blk,beta-Glutamic acid,2324660.7869847864,30,0
+240108_Smp_35ppt_A,beta-Glutamic acid,17044242257.978598,35,0
+240108_Smp_35ppt_B,beta-Glutamic acid,15855597491.024443,35,0
+240108_Smp_35ppt_Blk,beta-Glutamic acid,188643.66731637254,35,0
+240108_Smp_40ppt_A,beta-Glutamic acid,11239055978.178923,40,0
+240108_Smp_40ppt_B,beta-Glutamic acid,11722606632.740667,40,0
+240108_Smp_40ppt_Blk,beta-Glutamic acid,7250693.872832818,40,0
+240108_Std_4uMStdsMix2InH2O_1,beta-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix2InH2O_2,beta-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,beta-Glutamic acid,NA,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,beta-Glutamic acid,NA,NA,4

@@ -1,6 +1,10 @@
 # Section 3: B-MIS
 # Modified by Claudia Luthy
-# February 2024 for Syn salinity project
+# Spring 2024 for Syn salinity project
+
+#inputs: trimmed file from section 1
+#outputs: clean_data_std which has raw areas and everything,
+#also match_data which has BMISed areas
 
 #upload packages and data! using trimmed (result of section 1) here bc
 #QC (section 2) didn't provide anything we need to worry about
@@ -11,8 +15,6 @@ library(stringr)
 clean_dat <- read_csv("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
 
 clean_data <- clean_dat %>%
-  # select(samp= 'Replicate.Name', cmpd_name= 'Compound.Name', area= 'Area',
-  #        cmpd_type= 'Molecule.List', samp_type= 'Precursor.Ion.Name', sal= 'Sal') %>%
   rename(samp= 'Replicate.Name', cmpd_name= 'Compound.Name', area= 'Area',
          cmpd_type= 'Molecule.List', samp_type= 'Precursor.Ion.Name', sal= 'Sal') %>%
   select(samp, cmpd_name, area, cmpd_type, samp_type, sal) %>%
@@ -27,16 +29,45 @@ clean_data %>%
   ggplot() +
   geom_col(aes(x=samp, y=area)) +
   facet_wrap(~cmpd_name, ncol = 2, scales = "free_y")
-# #why do we use the pooled sample?
+
+#Removing redundant mixes (lines 33-46 of Section2_CL.R)
+mix_data <- if (TRUE %in% grepl("Mix", clean_data$samp)) {
+  Ingalls.Standards <- read_csv("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards.csv") %>%
+    filter(Compound_Name %in% clean_data$cmpd_name) %>%
+    select(cmpd_name = Compound_Name, HILIC_Mix, conc = Concentration_uM) %>%
+    unique()
+
+  clean_data_std <- clean_data %>%
+    filter(str_detect(samp, "Std")) %>%
+    left_join(Ingalls.Standards, relationship = "many-to-many") %>%
+    filter(str_detect(samp, as.character(HILIC_Mix)) | str_detect(samp, regex("H2OinMatrix", ignore_case = TRUE))) %>%
+    select(-HILIC_Mix) %>%
+    arrange(cmpd_name)
+}
+
+#Oscar's combination of clean data and mix data
+tmp <- clean_data %>% filter(!samp_type=="Std") #This removes all rows of standard sample type
+#semi_join(Ingalls.Standards, mix_data_1, by = "cmpd_name", copy = FALSE)
+#clean_data_std_1 <- rbind(tmp_1,mix_data_1) %>% arrange(cmpd_name) %>% as.data.frame
+
+#tmp_1 <- left_join(tmp_1,mix_data_1%>%select(samp,cmpd_name,conc))
+tmp$conc <- 0
+
+clean_data_std <- rbind(tmp,mix_data) %>% arrange(cmpd_name) %>% as.data.frame
+
+write_csv(clean_data_std, file="~/Desktop/syn_project_2024/intermediates/clean_data_std.csv")
 
 #create IS subset
-IS_data <- clean_data %>%
+IS_data <- clean_data_std %>%
   filter(cmpd_type== "IS")
+
+keep_IS <- unique(IS_data$cmpd_name)
+keep_IS <- sapply(stringr::str_split(keep_IS, ","), "[", 1)
 
 #so this is creating a table that calculates each best matched standard with the least variance
 #for every single compound
-select_data <- clean_data %>%
-  select(samp, cmpd_name, area, cmpd_type, samp_type, sal) %>%
+select_data <- clean_data_std %>%
+  select(samp, cmpd_name, area, cmpd_type, samp_type, sal, conc) %>%
   filter(cmpd_type=="S") %>%
   filter(samp_type=="Poo") %>%
   left_join(IS_data, by="samp", suffix=c("", "_IS"), relationship = "many-to-many") %>%
@@ -46,46 +77,26 @@ select_data <- clean_data %>%
   summarise(cv_IS=sd(norm_area)/mean(norm_area)) %>%
   arrange(cmpd_name, cv_IS) %>%
   slice(1)
-#ask Susan what the relationship many to many is bc she was mentioning that too
 
-
-match_data <- clean_data %>%
+#this makes a table with the bmised areas for each sample by matching it with the closest standard
+#from the select_data calcs above
+match_data <- clean_data_std %>%
   filter(cmpd_type=="S") %>%
-  select(samp, cmpd_name, area, sal) %>%
+  select(samp, cmpd_name, area, sal, conc) %>%
   left_join(select_data) %>%
   select(-cv_IS) %>%
-  left_join(clean_data, by=c("samp", cmpd_name_IS="cmpd_name"), suffix=c("", "_IS")) %>%
-  select(samp, cmpd_name, area, area_IS, sal) %>%
+  left_join(clean_data_std, by=c("samp", cmpd_name_IS="cmpd_name"), suffix=c("", "_IS")) %>%
+  select(samp, cmpd_name, area, area_IS, sal, conc) %>%
   group_by(cmpd_name) %>%
   mutate(bmis_area=(area/area_IS)*mean(area_IS[1:112], na.rm = TRUE)) %>%
-  select(samp, cmpd_name, bmis_area, sal)
+  select(samp, cmpd_name, bmis_area, sal, conc)
 
-view(match_data)
-
-# #what if I add in the removal of redundant mixes part from section 2 here? (lines 33-46 of Section2_CL.R)
-# if (TRUE %in% grepl("Mix", match_data$samp)) {
-#   Ingalls.Standards <- readxl::read_xlsx("~/Desktop/syn_project_2024/data_raw/Ingalls_Lab_Standards_Skyline.xlsx") %>%
-#     filter(Compound_Name %in% match_data$cmpd_name) %>%
-#     select(cmpd_name = Compound_Name, HILIC_Mix) %>%
-#     unique()
-#
-#   match_data_std <- match_data %>%
-#     filter(str_detect(samp, "Std")) %>%
-#     left_join(Ingalls.Standards) %>%
-#     filter(str_detect(samp, as.character(HILIC_Mix)) | str_detect(samp, regex("H2OinMatrix", ignore_case = TRUE))) %>%
-#     select(-HILIC_Mix)
-#   match_data <- match_data_std %>%
-#     arrange(cmpd_name)
-# }
-
-
+match_data <- match_data %>% filter(!cmpd_name %in% keep_IS)
 
 write_csv(match_data, file="~/Desktop/syn_project_2024/intermediates/BMISed_areas.csv")
 
 
 
-# Do I need to do anything with injection volume?
-#right now it runs through EVERY compound bc that's what Oscar and Anitra want idk
 
 
 #these seem to be the important parts of Regina's code, general idea being:
