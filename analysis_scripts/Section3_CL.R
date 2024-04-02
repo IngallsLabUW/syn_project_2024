@@ -4,7 +4,10 @@
 
 #inputs: trimmed file from section 1
 #outputs: clean_data_std which has raw areas and everything,
-#also match_data which has BMISed areas
+#also corrected_IS which has BMISed areas with confirmed correct IS's for the 13
+
+#adding onto the above 13 IS's, there's a labeled and unlabeled of each compound and we can skip bmis bc
+#we can divide the two areas and that gives the CORRECTED area!
 
 #upload packages and data! using trimmed (result of section 1) here bc
 #QC (section 2) didn't provide anything we need to worry about
@@ -12,6 +15,7 @@ library(tidyverse)
 library(dplyr)
 library(stringr)
 
+#import data and rename it
 clean_dat <- read_csv("~/Desktop/syn_project_2024/trimmed_HILIC_QE_POS_SynSalinityExperiment_SkylineReport.csv")
 
 clean_data <- clean_dat %>%
@@ -21,7 +25,7 @@ clean_data <- clean_dat %>%
   arrange(cmpd_name)
 
 #sanity check for a single compound to see if the chosen IS matches
-#so can switch out Homarine for any compound
+#so can switch out Glycine betaine for any compound
 clean_data %>%
   filter(cmpd_name=="Glycine betaine" | cmpd_type=="IS") %>%
   filter(samp_type=="Poo") %>%
@@ -47,15 +51,11 @@ mix_data <- if (TRUE %in% grepl("Mix", clean_data$samp)) {
 
 #Oscar's combination of clean data and mix data
 tmp <- clean_data %>% filter(!samp_type=="Std") #This removes all rows of standard sample type
-#semi_join(Ingalls.Standards, mix_data_1, by = "cmpd_name", copy = FALSE)
-#clean_data_std_1 <- rbind(tmp_1,mix_data_1) %>% arrange(cmpd_name) %>% as.data.frame
-
-#tmp_1 <- left_join(tmp_1,mix_data_1%>%select(samp,cmpd_name,conc))
 tmp$conc <- 0
-
 clean_data_std <- rbind(tmp,mix_data) %>% arrange(cmpd_name) %>% as.data.frame
 
 write_csv(clean_data_std, file="~/Desktop/syn_project_2024/intermediates/clean_data_std.csv")
+
 
 #create IS subset
 IS_data <- clean_data_std %>%
@@ -93,7 +93,35 @@ match_data <- clean_data_std %>%
 
 match_data <- match_data %>% filter(!cmpd_name %in% keep_IS)
 
-write_csv(match_data, file="~/Desktop/syn_project_2024/intermediates/BMISed_areas.csv")
+
+#Manually calculate the area of the 13 compounds which did not pair correctly with their internal standard
+#first need to include ones that have funky D/L naming
+keep_IS <- c(keep_IS,"L-Alanine","L-Histidine", "L-Valine", "L-Proline")
+
+#now need to basically cut down the sample name
+tmp2 <- clean_data_std %>% filter(grepl(paste(keep_IS,collapse = "|"),cmpd_name), samp_type=="Smp")
+tmp2 <- tmp2 %>% filter(!cmpd_name=="L-Methionine S-oxide") #this one is not needed
+tmp2$cmpd_name_2 <- stringr::str_remove_all(tmp2$cmpd_name,"DL-") #also fixing the weird D/L issue
+tmp2$labeled <- sapply(stringr::str_split(tmp2$cmpd_name_2, ","), "[", 2) #working to math the labeled with unlabeled
+tmp2.labeled <- tmp2 %>% filter(!is.na(labeled))
+tmp2.unlabeled <- tmp2 %>% filter(is.na(labeled))
+tmp2.unlabeled$bmis <- tmp2.unlabeled$area / tmp2.labeled$area #this IS the BMIS for these compounds
+
+#getting our new table situated to merge with the other bmised areas
+tmp2_fixed <- tmp2.unlabeled %>% select(samp, cmpd_name, bmis, sal, conc) %>%
+  rename(bmis_area= 'bmis')
+
+#create subset with standards for the 13 IS's (since they were taken out but we want them back now)
+special_std <- mix_data %>%
+  filter(cmpd_name %in% keep_IS) %>%
+  select(samp, cmpd_name, area, sal, conc) %>%
+  rename(bmis_area= 'area')
+fixed <- rbind(special_std, tmp2_fixed)
+
+#merge, everything should now be corrected and our 13 IS's are now right. woop woop!
+corrected_IS <- rbind(fixed, match_data) %>% as.data.frame()
+
+write_csv(corrected_IS, file="~/Desktop/syn_project_2024/intermediates/corrected_BMISed_areas.csv")
 
 
 

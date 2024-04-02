@@ -1,4 +1,56 @@
 samp,cmpd_name,bmis_area,sal,conc
+240108_Std_4uMStdsMix1InH2O_1,Arsenobetaine,11501729792,NA,4
+240108_Std_4uMStdsMix1InH2O_2,Arsenobetaine,16449369088,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,Arsenobetaine,13787023360,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,Arsenobetaine,14379955200,NA,4
+240108_Std_4uMStdsMix2InH2O_1,Cytosine,3423722240,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Cytosine,6010880000,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Cytosine,5720822784,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Cytosine,5937967104,NA,4
+240108_Std_4uMStdsMix2InH2O_1,Glycine betaine,8856286208,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Glycine betaine,14079424512,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Glycine betaine,112253665280,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Glycine betaine,112126353408,NA,4
+240108_Std_4uMStdsMix2InH2O_1,Guanine,538423296,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Guanine,1181575424,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Guanine,973159040,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Guanine,1281617536,NA,4
+240108_Std_4uMStdsMix2InH2O_1,Homarine,11681134592,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Homarine,16753533952,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Homarine,157697425408,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Homarine,154987675648,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Alanine,102948824,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Alanine,176264624,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Alanine,855681664,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Alanine,993591488,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Arginine,26240,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Arginine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Arginine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Arginine,24834,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Histidine,1026031936,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Histidine,329317760,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Histidine,NA,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Histidine,NA,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Isoleucine,345912736,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Isoleucine,697874432,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Isoleucine,719249280,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Isoleucine,887258176,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Methionine,383006432,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Methionine,800404480,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Methionine,498330784,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Methionine,667510016,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Proline,1245795072,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Proline,2225151488,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Proline,1781704064,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Proline,1706964096,NA,4
+240108_Std_4uMStdsMix1InH2O_1,L-Valine,218713232,NA,4
+240108_Std_4uMStdsMix1InH2O_2,L-Valine,292528352,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_1,L-Valine,431589056,NA,4
+240108_Std_4uMStdsMix1InSynMatrix_2,L-Valine,761034880,NA,4
+240108_Std_4uMStdsMix2InH2O_1,Trimethylamine N-oxide,2259057664,NA,4
+240108_Std_4uMStdsMix2InH2O_2,Trimethylamine N-oxide,2739033088,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_1,Trimethylamine N-oxide,2553695232,NA,4
+240108_Std_4uMStdsMix2InSynMatrix_2,Trimethylamine N-oxide,2692664576,NA,4
 240108_Smp_25ppt_A,Arsenobetaine,NA,25,0
 240108_Smp_25ppt_B,Arsenobetaine,NA,25,0
 240108_Smp_25ppt_Blk,Arsenobetaine,NA,25,0

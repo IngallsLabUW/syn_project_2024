@@ -6,33 +6,35 @@
 #also match_data which has BMISed areas
 #outputs are a final concentration table with corrected areas
 
+library(tidyverse)
+library(dplyr)
+library(stringr)
 
-
+#data input
 clean_data_std <- read_csv("~/Desktop/syn_project_2024/intermediates/clean_data_std.csv")
-BMIS_output <- read_csv("~/Desktop/syn_project_2024/intermediates/BMISed_areas.csv")
+BMIS_output <- read_csv("~/Desktop/syn_project_2024/intermediates/corrected_BMISed_areas.csv")
 
 
-
+# here calculating rfs (response factor) is area to concentration, for each compound at known
+#concentration in water
 all_rfs <- clean_data_std %>%
-  # filter(str_detect(filename, "InMatrix|H2OInMatrix")) %>%
-  # filter(str_detect(filename, paste0(mix, "InMatrix|H2OInMatrix"))) %>%
   mutate(std_type = str_extract(samp, "Matrix|H2O")) %>%
   filter(std_type %in% c("Matrix", "H2O")) %>%
-         #=="Matrix" | std_type=="H2O") %>%
-  #select(-mix) %>%
   group_by(cmpd_name, samp_type, conc, std_type) %>%
   summarise(mean_area=mean(area)) %>%
   pivot_wider(names_from = std_type, values_from = mean_area) %>%
   mutate(area_from_4um_addition=Matrix-H2O) %>%
   mutate(rf=area_from_4um_addition/conc) %>%
-  mutate(rf_ratio= Matrix / H2O) %>%
-  select(cmpd_name, rf,rf_ratio)
+  mutate(rf_ratio= Matrix / H2O) #%>%
+
+all_rfs <- all_rfs %>% select(cmpd_name,rf,rf_ratio) %>% as.data.frame
+
 
 final_cons <- BMIS_output %>%
-  filter(!str_detect(samp, "Std")) %>%
-  left_join(all_rfs) %>%
-  mutate(uM_in_vial=bmis_area*rf) %>%
-  mutate(um_in_enviro=uM_in_vial/100) %>%
+  filter(!stringr::str_detect(samp, "Std")) %>%
+  left_join(all_rfs, by = "cmpd_name") %>%
+  mutate(uM_in_vial=bmis_area/rf) %>%
+  mutate(um_in_enviro=uM_in_vial/40) %>%
   mutate(nm=um_in_enviro*1000) %>%
   select(cmpd_name, samp, nm, sal)
 
